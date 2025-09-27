@@ -4,6 +4,8 @@
 ## Executive Summary
 This intensive plan is designed for 4 hours of daily study, allowing you to master modern backend development with TypeScript and NestJS in just 8 weeks instead of 12. You'll cover the same comprehensive curriculum but with deeper practice, more projects, and accelerated learning.
 
+📋 **[View Project Requirements](Project_Requirements/Project_Requirements_Backend_TypeScript.md)** | 🏠 **[Back to README](../README.md)**
+
 ## Daily Study Structure (4 Hours)
 
 ### Morning Session (2 hours)
@@ -227,6 +229,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 1: E-commerce Platform (Weeks 1-2)
 - **Backend**: NestJS + TypeScript + PostgreSQL
 - **Features**: User management, product catalog, orders, payments, inventory
+- 📝 **[Detailed Requirements](Project_Requirements/Project_Requirements_Backend_TypeScript.md#project-1-e-commerce-api-platform)**
 - **Architecture**: RESTful API with comprehensive documentation
 - **Testing**: 90%+ test coverage
 - **Timeline**: 2 weeks
@@ -234,6 +237,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 2: Social Media API (Weeks 3-4)
 - **Backend**: NestJS + GraphQL + MongoDB + Redis
 - **Features**: User relationships, content management, real-time notifications
+- 📝 **[Detailed Requirements](Project_Requirements/Project_Requirements_Backend_TypeScript.md#project-2-social-media-backend-api)**
 - **Architecture**: GraphQL API with subscriptions
 - **Integration**: Python FastAPI for data processing
 - **Timeline**: 2 weeks
@@ -241,6 +245,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 3: Analytics Platform (Weeks 5-6)
 - **Backend**: Microservices (NestJS + FastAPI) + PostgreSQL + MongoDB
 - **Features**: Real-time data processing, analytics, reporting, caching
+- 📝 **[Detailed Requirements](Project_Requirements/Project_Requirements_Backend_TypeScript.md#project-3-data-processing-microservices)**
 - **Architecture**: Event-driven microservices
 - **Performance**: Optimized for high throughput
 - **Timeline**: 2 weeks
@@ -248,6 +253,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 4: Production System (Weeks 7-8)
 - **Backend**: Full-stack TypeScript system
 - **Features**: Complete business application with all features
+- 📝 **[Detailed Requirements](Project_Requirements/Project_Requirements_Backend_TypeScript.md#project-4-production-system)**
 - **Infrastructure**: AWS deployment with monitoring
 - **Quality**: Production-ready with comprehensive testing
 - **Timeline**: 2 weeks

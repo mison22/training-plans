@@ -1,6 +1,8 @@
 # Project Requirements - Full Stack Intensive Plan (TypeScript + React + Rails + Python)
 *Detailed specifications for 4 production-ready full-stack projects*
 
+📋 **[View Training Plan](../Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 🏠 **[Back to README](../README.md)**
+
 ## 📚 Complete Learning Roadmap
 
 ### Pre-Project Preparation (Week 0)

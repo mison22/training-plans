@@ -4,6 +4,8 @@
 ## Executive Summary
 This plan focuses on becoming a **modern backend specialist** using TypeScript and NestJS for type-safe, scalable server-side development. You'll master the TypeScript ecosystem (39.3% of jobs), Python for AI/ML integration (17.9% of jobs), and Node.js (14.3% of jobs), making you valuable for modern web applications and API development.
 
+🚀 **[Intensive Version (8 weeks)](../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)** | 🏠 **[Back to README](../README.md)**
+
 ## Backend Skills Focus
 
 ### Core Backend Technologies

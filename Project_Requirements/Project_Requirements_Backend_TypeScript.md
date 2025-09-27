@@ -1,6 +1,8 @@
 # Project Requirements - Backend TypeScript Intensive Plan
 *Detailed specifications for 4 production-ready backend projects*
 
+📋 **[View Training Plan](../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)** | 🏠 **[Back to README](../README.md)**
+
 ## 📚 Complete Learning Roadmap
 
 ### Pre-Project Preparation (Week 0)

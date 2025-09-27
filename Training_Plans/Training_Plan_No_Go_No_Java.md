@@ -4,6 +4,8 @@
 ## Executive Summary
 This plan avoids both Go (96.4% of jobs) and Java/Spring (35.7% of jobs), focusing instead on **TypeScript + React** (35.7%), **Ruby + Rails** (46.4%), and **Python** for modern web development. You'll target frontend-heavy roles, startup environments, and AI/ML positions.
 
+🏠 **[Back to README](../README.md)**
+
 ## Revised Priority Skills
 
 ### Primary Focus

@@ -4,6 +4,8 @@
 ## Executive Summary
 After analyzing 28 software engineering job postings, I've identified the most in-demand skills and created a prioritized training plan. The data shows a strong preference for **Go** (96.4% of jobs), **React** (71.4%), **AWS** (64.3%), and **API development** (75%).
 
+🏠 **[Back to README](../README.md)**
+
 ## Key Findings
 
 ### Most Critical Skills (HIGH Priority - 50%+ of jobs)

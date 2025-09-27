@@ -4,6 +4,8 @@
 ## Executive Summary
 This intensive plan is designed for 4 hours of daily study, allowing you to master full-stack development with TypeScript + React (71.4% of jobs), Ruby on Rails (46.4% of jobs), and Python (17.9% of jobs) in just 8 weeks instead of 12. You'll build complete applications from frontend to backend with deeper practice, more projects, and accelerated learning.
 
+📋 **[View Project Requirements](Project_Requirements/Project_Requirements_Full_Stack_Intensive.md)** | 🏠 **[Back to README](../README.md)**
+
 ## Daily Study Structure (4 Hours)
 
 ### Morning Session (2 hours)
@@ -457,6 +459,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 1: E-commerce Platform (Weeks 1-2)
 - **Frontend**: React + TypeScript + Tailwind CSS
 - **Backend**: Rails API + PostgreSQL
+- 📝 **[Detailed Requirements](Project_Requirements/Project_Requirements_Full_Stack_Intensive.md#project-1-e-commerce-platform)"
 - **Features**: User auth, product catalog, shopping cart, payments
 - **Testing**: 90%+ test coverage
 - **Timeline**: 2 weeks
@@ -464,6 +467,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 2: Social Media Dashboard (Weeks 3-4)
 - **Frontend**: Next.js + TypeScript
 - **Backend**: FastAPI + PostgreSQL
+- 📝 **[Detailed Requirements](Project_Requirements/Project_Requirements_Full_Stack_Intensive.md#project-2-social-media-dashboard)"
 - **Features**: Real-time updates, user profiles, content management
 - **Integration**: Multi-service architecture
 - **Timeline**: 2 weeks
@@ -471,6 +475,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 3: Project Management Tool (Weeks 5-6)
 - **Frontend**: React + TypeScript + modern CSS
 - **Backend**: Rails + Python + Node.js
+- 📝 **[Detailed Requirements](Project_Requirements/Project_Requirements_Full_Stack_Intensive.md#project-3-project-management-tool)"
 - **Features**: Real-time collaboration, file uploads, notifications
 - **Performance**: Optimized for high usage
 - **Timeline**: 2 weeks
@@ -478,6 +483,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 4: Data Visualization Platform (Weeks 7-8)
 - **Frontend**: React + TypeScript + D3.js
 - **Backend**: Python/FastAPI + PostgreSQL
+- 📝 **[Detailed Requirements](Project_Requirements/Project_Requirements_Full_Stack_Intensive.md#project-4-data-visualization-platform)"
 - **Features**: Data processing, interactive charts, export functionality
 - **Infrastructure**: AWS deployment with monitoring
 - **Timeline**: 2 weeks

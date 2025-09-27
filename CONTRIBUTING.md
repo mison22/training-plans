@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to this repository! This project aims to provide comprehensive, up-to-date training plans for software engineering roles based on real job market analysis.
 
+🏠 **[Back to README](README.md)** | 📋 **[View All Training Plans](Training_Plans/)** | 🚀 **[View Intensive Plans](Intensive_Plans/)**
+
 ## 🤝 How to Contribute
 
 ### Types of Contributions
@@ -39,8 +41,8 @@ Click the "Fork" button on the GitHub repository page to create your own copy.
 
 ### 2. Clone Your Fork
 ```bash
-git clone https://github.com/YOUR_USERNAME/software-engineering-training-plans.git
-cd software-engineering-training-plans
+git clone https://github.com/YOUR_USERNAME/Training-Plan.git
+cd Training-Plan
 ```
 
 ### 3. Create a Branch
@@ -53,6 +55,12 @@ git checkout -b feature/your-contribution-name
 - Follow the existing formatting and style
 - Test any links you add or modify
 - Ensure content is accurate and up-to-date
+
+**Key Files to Know:**
+- 📋 **[Training Plans](Training_Plans/)** - 12-week comprehensive plans
+- 🚀 **[Intensive Plans](Intensive_Plans/)** - 8-week accelerated plans  
+- 📝 **[Project Requirements](Project_Requirements/)** - Detailed project specifications
+- 📄 **[README.md](README.md)** - Main repository overview
 
 ### 5. Commit Your Changes
 ```bash

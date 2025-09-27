@@ -4,6 +4,8 @@
 ## Executive Summary
 Since Go appears in 96.4% of jobs but you prefer not to learn it, this plan focuses on the next most valuable skill combinations. **TypeScript + React** (35.7% of jobs) and **Ruby + Rails** (46.4% of jobs) become your primary targets, along with strong API development skills.
 
+🏠 **[Back to README](../README.md)**
+
 ## Revised Priority Skills
 
 ### Primary Focus (Alternative to Go)

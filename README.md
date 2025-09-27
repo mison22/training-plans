@@ -31,6 +31,8 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Best balance of modern technologies, high job market demand, and comprehensive backend skills.
 
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)** | 📝 **[View Project Requirements](Project_Requirements/Project_Requirements_Backend_TypeScript.md)**
+
 ### 2. **Backend Multi-language Intensive**
 **Duration**: 8 weeks | **Time**: 4 hours/day | **Focus**: Versatile backend development
 
@@ -41,6 +43,8 @@ Based on our analysis of 28 software engineering job postings:
 - **Project 4**: Production System (Weeks 7-8)
 
 **Why Choose This**: Maximum versatility across multiple languages, excellent for diverse job opportunities.
+
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Intensive.md)** | 📝 **[View Project Requirements](Project_Requirements/Project_Requirements_Backend_Intensive.md)**
 
 ### 3. **Full Stack Intensive**
 **Duration**: 8 weeks | **Time**: 4 hours/day | **Focus**: Complete application development
@@ -53,12 +57,16 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Complete full-stack capability, perfect for startups and small teams.
 
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 📝 **[View Project Requirements](Project_Requirements/Project_Requirements_Full_Stack_Intensive.md)**
+
 ### 4. **Alternative Plans** (12-week versions)
-- **Backend TypeScript** (2-3 hours/day)
-- **Backend Multi-language** (2-3 hours/day)
-- **Full Stack** (2-3 hours/day)
-- **No Go/Java** (focuses on TypeScript + Rails + Python)
-- **No Go/Java/Full Stack** (TypeScript + React + Rails + Python)
+- **[Backend TypeScript](Training_Plans/Training_Plan_Backend_TypeScript.md)** (2-3 hours/day)
+- **[Backend Multi-language](Training_Plans/Training_Plan_Backend.md)** (2-3 hours/day)
+- **[Full Stack](Training_Plans/Training_Plan_Full_Stack.md)** (2-3 hours/day)
+- **[No Go/Java](Training_Plans/Training_Plan_No_Go_No_Java.md)** (focuses on TypeScript + Rails + Python)
+- **[No Go/Java/Full Stack](Training_Plans/Training_Plan_No_Go_No_Java.md)** (TypeScript + React + Rails + Python)
+- **[Original with Go](Training_Plans/Training_Plan.md)** (includes Go, Java, Spring)
+- **[No Go](Training_Plans/Training_Plan_No_Go.md)** (excludes Go)
 
 ---
 
@@ -182,7 +190,10 @@ Each intensive plan includes **4 production-ready projects**:
 Review the training plans above and select the one that aligns with your goals and available time.
 
 ### **Step 2: Review Project Requirements**
-Read the detailed project requirements for your chosen path to understand what you'll be building.
+Read the detailed project requirements for your chosen path to understand what you'll be building:
+- [Backend TypeScript Project Requirements](Project_Requirements/Project_Requirements_Backend_TypeScript.md)
+- [Backend Multi-language Project Requirements](Project_Requirements/Project_Requirements_Backend_Intensive.md)
+- [Full Stack Project Requirements](Project_Requirements/Project_Requirements_Full_Stack_Intensive.md)
 
 ### **Step 3: Set Up Your Environment**
 Follow the pre-project preparation checklist in your chosen training plan.
@@ -222,10 +233,11 @@ This repository is designed to be a living resource. Contributions are welcome:
 - **Extensions**: Additional project ideas, alternative paths
 
 ### **How to Contribute:**
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request with a clear description
+1. Read our [Contributing Guidelines](CONTRIBUTING.md)
+2. Fork the repository
+3. Create a feature branch
+4. Make your changes
+5. Submit a pull request with a clear description
 
 ---
 

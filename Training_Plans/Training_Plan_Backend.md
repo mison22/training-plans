@@ -4,6 +4,8 @@
 ## Executive Summary
 This plan focuses on becoming a **backend specialist** with expertise in API development, database design, and server architecture. You'll master Ruby on Rails (46.4% of jobs), Python (17.9% of jobs), and Node.js, making you valuable for backend-heavy roles and system architecture positions.
 
+🚀 **[Intensive Version (8 weeks)](../Intensive_Plans/Training_Plan_Backend_Intensive.md)** | 🏠 **[Back to README](../README.md)**
+
 ## Backend Skills Focus
 
 ### Core Backend Technologies

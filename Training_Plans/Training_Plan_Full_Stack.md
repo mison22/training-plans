@@ -4,6 +4,8 @@
 ## Executive Summary
 This plan focuses on becoming a **full-stack developer** with strong frontend skills (TypeScript + React) and versatile backend capabilities (Rails, Python, Node.js). You'll be able to build complete applications from UI to database, making you valuable to startups and modern web companies.
 
+🚀 **[Intensive Version (8 weeks)](../Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 🏠 **[Back to README](../README.md)**
+
 ## Full Stack Skills Focus
 
 ### Frontend Expertise (Primary)
