@@ -59,7 +59,7 @@ git checkout -b feature/your-contribution-name
 **Key Files to Know:**
 - 📋 **[Training Plans](Training_Plans/)** - 12-week comprehensive plans
 - 🚀 **[Intensive Plans](Intensive_Plans/)** - 8-week accelerated plans  
-- 📝 **[Project Requirements](Project_Requirements/)** - Detailed project specifications
+- 📝 **[Detailed Projects](Projects/)** - Comprehensive project specifications with code examples
 - 📄 **[README.md](README.md)** - Main repository overview
 
 ### 5. Commit Your Changes

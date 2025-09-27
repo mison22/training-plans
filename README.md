@@ -31,7 +31,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Best balance of modern technologies, high job market demand, and comprehensive backend skills.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)** | 📝 **[View Project Requirements](Project_Requirements/Project_Requirements_Backend_TypeScript.md)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Backend_TypeScript/)**
 
 ### 2. **Backend Multi-language Intensive**
 **Duration**: 8 weeks | **Time**: 4 hours/day | **Focus**: Versatile backend development
@@ -44,7 +44,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Maximum versatility across multiple languages, excellent for diverse job opportunities.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Intensive.md)** | 📝 **[View Project Requirements](Project_Requirements/Project_Requirements_Backend_Intensive.md)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Backend_Intensive/)**
 
 ### 3. **Full Stack Intensive**
 **Duration**: 8 weeks | **Time**: 4 hours/day | **Focus**: Complete application development
@@ -57,7 +57,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Complete full-stack capability, perfect for startups and small teams.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 📝 **[View Project Requirements](Project_Requirements/Project_Requirements_Full_Stack_Intensive.md)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Full_Stack/)**
 
 ### 4. **Alternative Plans** (12-week versions)
 - **[Backend TypeScript](Training_Plans/Training_Plan_Backend_TypeScript.md)** (2-3 hours/day)
@@ -85,10 +85,11 @@ Based on our analysis of 28 software engineering job postings:
 │   ├── Training_Plan_Backend_TypeScript_Intensive.md
 │   ├── Training_Plan_Backend_Intensive.md
 │   └── Training_Plan_Full_Stack_Intensive.md
-└── Project_Requirements/                        # Detailed project specs
-    ├── Project_Requirements_Backend_TypeScript.md
-    ├── Project_Requirements_Backend_Intensive.md
-    └── Project_Requirements_Full_Stack_Intensive.md
+└── Projects/                                   # Detailed project specifications
+    ├── Backend_TypeScript/                    # NestJS + TypeScript projects
+    ├── Backend_Intensive/                     # Ruby/Python/Node.js projects
+    ├── Full_Stack/                           # Complete full-stack projects
+    └── README.md                             # Project overview and comparison
 ```
 
 ---
@@ -191,9 +192,9 @@ Review the training plans above and select the one that aligns with your goals a
 
 ### **Step 2: Review Project Requirements**
 Read the detailed project requirements for your chosen path to understand what you'll be building:
-- [Backend TypeScript Project Requirements](Project_Requirements/Project_Requirements_Backend_TypeScript.md)
-- [Backend Multi-language Project Requirements](Project_Requirements/Project_Requirements_Backend_Intensive.md)
-- [Full Stack Project Requirements](Project_Requirements/Project_Requirements_Full_Stack_Intensive.md)
+- [Backend TypeScript Detailed Projects](Projects/Backend_TypeScript/)
+- [Backend Multi-language Detailed Projects](Projects/Backend_Intensive/)
+- [Full Stack Detailed Projects](Projects/Full_Stack/)
 
 ### **Step 3: Set Up Your Environment**
 Follow the pre-project preparation checklist in your chosen training plan.
