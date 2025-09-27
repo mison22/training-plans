@@ -58,6 +58,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/) - Advanced Types
 - [NestJS Documentation](https://docs.nestjs.com/) - Fundamentals
 - [TypeORM Documentation](https://typeorm.io/) - Database integration
+- **Udemy Courses**: [Understanding TypeScript - 2024 Edition](https://www.udemy.com/course/understanding-typescript/) (Sections 1-4), [NestJS Zero to Hero - Modern TypeScript Backend Development](https://www.udemy.com/course/nestjs-zero-to-hero/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Build type-safe utility library with advanced TypeScript
@@ -99,6 +100,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [NestJS Security](https://docs.nestjs.com/security/authentication) - Authentication
 - [Jest Documentation](https://jestjs.io/docs/getting-started) - Testing
 - [PostgreSQL Performance](https://www.postgresql.org/docs/current/performance-tips.html) - Optimization
+- **Udemy Courses**: [NestJS Zero to Hero - Modern TypeScript Backend Development](https://www.udemy.com/course/nestjs-zero-to-hero/) (Sections 4-6), [Testing JavaScript with Jest](https://www.udemy.com/course/testing-javascript-with-jest/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Implement JWT authentication with refresh tokens
@@ -140,6 +142,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [GraphQL Documentation](https://graphql.org/learn/) - GraphQL basics
 - [Apollo Server](https://www.apollographql.com/docs/apollo-server/) - GraphQL server
 - [OpenAPI Specification](https://swagger.io/specification/) - API documentation
+- **Udemy Courses**: [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/course/graphql-with-react-course/) (Sections 1-4), [NestJS Zero to Hero - Modern TypeScript Backend Development](https://www.udemy.com/course/nestjs-zero-to-hero/) (Sections 7-8)
 
 #### ✅ Success Criteria
 - [ ] Design and implement RESTful APIs with documentation
@@ -181,6 +184,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [FastAPI Documentation](https://fastapi.tiangolo.com/) - FastAPI framework
 - [Pandas Documentation](https://pandas.pydata.org/docs/) - Data processing
 - [Celery Documentation](https://docs.celeryproject.org/) - Background tasks
+- **Udemy Courses**: [FastAPI - The Complete Course 2024](https://www.udemy.com/course/fastapi-the-complete-course/) (Sections 1-3), [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) (Sections 1-2)
 
 #### ✅ Success Criteria
 - [ ] Build FastAPI applications with async/await
@@ -222,6 +226,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/) - Advanced features
 - [MongoDB Documentation](https://docs.mongodb.com/) - NoSQL database
 - [Redis Documentation](https://redis.io/documentation) - Caching and sessions
+- **Udemy Courses**: [The Complete PostgreSQL for Developers](https://www.udemy.com/course/the-complete-postgresql-for-developers/) (Sections 1-3), [MongoDB - The Complete Developer's Guide 2024](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) (Sections 1-2)
 
 #### ✅ Success Criteria
 - [ ] Design complex database schemas
@@ -263,6 +268,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Socket.io Documentation](https://socket.io/docs/) - Real-time communication
 - [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) - WebSocket basics
 - [Kafka Documentation](https://kafka.apache.org/documentation/) - Event streaming
+- **Udemy Courses**: [Socket.io (with websockets) - the details. (socket, io, webrtc)](https://www.udemy.com/course/socketio-with-websockets-the-details/) (Sections 1-3), [Apache Kafka Series - Kafka Streams for Data Processing](https://www.udemy.com/course/kafka-streams/) (Sections 1-2)
 
 #### ✅ Success Criteria
 - [ ] Implement WebSocket server with real-time features
@@ -304,6 +310,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Jest Documentation](https://jestjs.io/docs/getting-started) - Testing framework
 - [Supertest Documentation](https://github.com/visionmedia/supertest) - API testing
 - [Artillery Documentation](https://artillery.io/docs/) - Performance testing
+- **Udemy Courses**: [Testing JavaScript with Jest](https://www.udemy.com/course/testing-javascript-with-jest/) (Sections 1-4), [API Testing with Postman - Complete Guide](https://www.udemy.com/course/api-testing-with-postman/) (Sections 1-2)
 
 #### ✅ Success Criteria
 - [ ] Achieve 95%+ code coverage
@@ -345,6 +352,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Docker Documentation](https://docs.docker.com/) - Containerization
 - [Kubernetes Documentation](https://kubernetes.io/docs/) - Orchestration
 - [AWS Documentation](https://docs.aws.amazon.com/) - Cloud services
+- **Udemy Courses**: [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (Sections 1-4), [AWS Certified DevOps Engineer Professional 2024](https://www.udemy.com/course/aws-certified-devops-engineer-professional/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Containerize applications with Docker

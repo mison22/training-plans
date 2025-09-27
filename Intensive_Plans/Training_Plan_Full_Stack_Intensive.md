@@ -58,6 +58,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/) - TypeScript fundamentals
 - [React Documentation](https://reactjs.org/docs/) - React library
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs) - Utility-first CSS
+- **Udemy Courses**: [Understanding TypeScript - 2024 Edition](https://www.udemy.com/course/understanding-typescript/) (Sections 1-3), [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) (Sections 1-4)
 
 #### ✅ Success Criteria
 - [ ] Master TypeScript types and interfaces
@@ -99,6 +100,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [React Advanced Patterns](https://reactpatterns.com/) - Advanced React
 - [Redux Toolkit Documentation](https://redux-toolkit.js.org/) - State management
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing
+- **Udemy Courses**: [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) (Sections 5-8), [Modern React with Redux](https://www.udemy.com/course/react-redux/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Build advanced React applications with custom hooks
@@ -140,6 +142,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Next.js Documentation](https://nextjs.org/docs) - Next.js framework
 - [Next.js Examples](https://github.com/vercel/next.js/tree/canary/examples) - Example projects
 - [Vercel Deployment](https://vercel.com/docs) - Deployment platform
+- **Udemy Courses**: [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (Sections 1-6), [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-14-react-the-complete-guide/) (Sections 1-4)
 
 #### ✅ Success Criteria
 - [ ] Build Next.js applications with SSR/SSG
@@ -181,6 +184,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [FastAPI Documentation](https://fastapi.tiangolo.com/) - FastAPI framework
 - [SQLAlchemy Documentation](https://docs.sqlalchemy.org/) - Python ORM
 - [Celery Documentation](https://docs.celeryproject.org/) - Background tasks
+- **Udemy Courses**: [FastAPI - The Complete Course 2024](https://www.udemy.com/course/fastapi-the-complete-course/) (Sections 1-5), [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Build FastAPI applications with async/await
@@ -222,6 +226,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Vue.js Documentation](https://vuejs.org/guide/) - Vue.js framework
 - [Pinia Documentation](https://pinia.vuejs.org/) - State management
 - [Vue Router Documentation](https://router.vuejs.org/) - Navigation
+- **Udemy Courses**: [Vue - The Complete Guide (w/ Router, Vuex, Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/) (Sections 1-6), [Vue 3 - The Complete Guide (incl. Pinia)](https://www.udemy.com/course/vue-3-the-complete-guide/) (Sections 1-4)
 
 #### ✅ Success Criteria
 - [ ] Master Vue.js framework and Composition API
@@ -263,6 +268,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Django Documentation](https://docs.djangoproject.com/) - Django framework
 - [Django REST Framework](https://www.django-rest-framework.org/) - API development
 - [Django Testing](https://docs.djangoproject.com/en/stable/topics/testing/) - Testing
+- **Udemy Courses**: [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) (Sections 1-6), [Django REST Framework](https://www.udemy.com/course/django-rest-framework/) (Sections 1-4)
 
 #### ✅ Success Criteria
 - [ ] Build Django web applications
@@ -304,6 +310,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Angular Documentation](https://angular.io/docs) - Angular framework
 - [Angular CLI](https://angular.io/cli) - Command line interface
 - [Angular Testing](https://angular.io/guide/testing) - Testing guide
+- **Udemy Courses**: [Angular - The Complete Guide (2024 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/) (Sections 1-8), [Angular & NodeJS - The MEAN Stack Guide](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) (Sections 1-4)
 
 #### ✅ Success Criteria
 - [ ] Master Angular framework and architecture
@@ -345,6 +352,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [D3.js Documentation](https://d3js.org/getting-started) - Data visualization
 - [Docker Documentation](https://docs.docker.com/) - Containerization
 - [AWS Documentation](https://docs.aws.amazon.com/) - Cloud deployment
+- **Udemy Courses**: [D3.js - Complete Developer Data Visualization Guide](https://www.udemy.com/course/d3js-data-visualization-fundamentals/) (Sections 1-5), [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (Sections 1-4)
 
 #### ✅ Success Criteria
 - [ ] Build interactive data visualizations with D3.js

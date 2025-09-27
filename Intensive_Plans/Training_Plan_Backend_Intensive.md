@@ -58,6 +58,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Ruby Documentation](https://ruby-doc.org/) - Ruby language reference
 - [Rails Guides](https://guides.rubyonrails.org/) - Rails framework
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/) - Database features
+- **Udemy Courses**: [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) (Sections 1-4), [The Complete PostgreSQL for Developers](https://www.udemy.com/course/the-complete-postgresql-for-developers/) (Sections 1-2)
 
 #### ✅ Success Criteria
 - [ ] Master Ruby syntax and OOP concepts
@@ -99,6 +100,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Rails API Guide](https://guides.rubyonrails.org/api_app.html) - API development
 - [JWT Documentation](https://jwt.io/introduction/) - Authentication
 - [RSpec Documentation](https://rspec.info/) - Testing framework
+- **Udemy Courses**: [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) (Sections 5-7), [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Build comprehensive Rails API
@@ -140,6 +142,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [FastAPI Documentation](https://fastapi.tiangolo.com/) - FastAPI framework
 - [Pandas Documentation](https://pandas.pydata.org/docs/) - Data processing
 - [Celery Documentation](https://docs.celeryproject.org/) - Background tasks
+- **Udemy Courses**: [FastAPI - The Complete Course 2024](https://www.udemy.com/course/fastapi-the-complete-course/) (Sections 1-4), [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Build FastAPI applications with async/await
@@ -181,6 +184,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Django Documentation](https://docs.djangoproject.com/) - Django framework
 - [Django REST Framework](https://www.django-rest-framework.org/) - API development
 - [Django Testing](https://docs.djangoproject.com/en/stable/topics/testing/) - Testing
+- **Udemy Courses**: [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) (Sections 1-5), [Django REST Framework](https://www.udemy.com/course/django-rest-framework/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Build Django web applications
@@ -222,6 +226,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Node.js Documentation](https://nodejs.org/docs/) - Node.js runtime
 - [Express Documentation](https://expressjs.com/) - Express framework
 - [Mongoose Documentation](https://mongoosejs.com/docs/) - MongoDB ODM
+- **Udemy Courses**: [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) (Sections 1-4), [MongoDB - The Complete Developer's Guide 2024](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) (Sections 1-2)
 
 #### ✅ Success Criteria
 - [ ] Master Node.js runtime and concepts
@@ -263,6 +268,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Socket.io Documentation](https://socket.io/docs/) - Real-time communication
 - [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) - WebSocket basics
 - [Node.js WebSocket](https://nodejs.org/api/ws.html) - WebSocket implementation
+- **Udemy Courses**: [Socket.io (with websockets) - the details. (socket, io, webrtc)](https://www.udemy.com/course/socketio-with-websockets-the-details/) (Sections 1-4), [Build a Realtime Chat App in React, Node, Socket.io](https://www.udemy.com/course/build-a-realtime-chat-app-in-react-node-socket-io/) (Sections 1-2)
 
 #### ✅ Success Criteria
 - [ ] Implement WebSocket server
@@ -304,6 +310,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [RSpec Documentation](https://rspec.info/) - Ruby testing
 - [pytest Documentation](https://docs.pytest.org/) - Python testing
 - [Jest Documentation](https://jestjs.io/docs/getting-started) - Node.js testing
+- **Udemy Courses**: [Testing Ruby Applications with RSpec](https://www.udemy.com/course/testing-ruby-applications-with-rspec/) (Sections 1-4), [API Testing with Postman - Complete Guide](https://www.udemy.com/course/api-testing-with-postman/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Achieve 90%+ code coverage across all languages
@@ -345,6 +352,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Docker Documentation](https://docs.docker.com/) - Containerization
 - [AWS Documentation](https://docs.aws.amazon.com/) - Cloud services
 - [Heroku Documentation](https://devcenter.heroku.com/) - Platform deployment
+- **Udemy Courses**: [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (Sections 1-4), [AWS Certified DevOps Engineer Professional 2024](https://www.udemy.com/course/aws-certified-devops-engineer-professional/) (Sections 1-3)
 
 #### ✅ Success Criteria
 - [ ] Containerize applications with Docker
