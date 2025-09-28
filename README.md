@@ -59,7 +59,20 @@ Based on our analysis of 28 software engineering job postings:
 
 📋 **[View Training Plan](Intensive_Plans/Training_Plan_Python_Backend_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Python_Backend/)**
 
-### 4. **Full Stack Intensive**
+### 4. **Go Backend Intensive** ⭐ *New*
+**Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: High-performance backend development
+
+**Technologies**: Go, Gin, gRPC, Kubernetes, Microservices, Cloud-Native, Apache Kafka
+- **Project 1**: E-commerce Microservices Platform (Weeks 1-2)
+- **Project 2**: Real-time Messaging System (Weeks 3-4)
+- **Project 3**: High-Performance API Gateway (Weeks 5-6)
+- **Project 4**: Cloud-Native Data Processing Platform (Weeks 7-8)
+
+**Why Choose This**: Master Go for high-performance, concurrent systems. Perfect for cloud-native development, microservices, and scalable backend systems.
+
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Go_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Go_Backend/)**
+
+### 5. **Full Stack Intensive**
 **Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Complete application development
 
 **Technologies**: TypeScript, React, Ruby/Rails, Python/FastAPI, PostgreSQL, AWS
@@ -98,11 +111,13 @@ Based on our analysis of 28 software engineering job postings:
 │   ├── Training_Plan_Backend_TypeScript_Intensive.md
 │   ├── Training_Plan_Backend_Intensive.md
 │   ├── Training_Plan_Python_Backend_Intensive.md
+│   ├── Training_Plan_Backend_Go_Intensive.md
 │   └── Training_Plan_Full_Stack_Intensive.md
 └── Projects/                                   # Detailed project specifications
     ├── Backend_TypeScript/                    # NestJS + TypeScript projects
     ├── Backend_Intensive/                     # Ruby/Python/Node.js projects
     ├── Python_Backend/                       # Python backend projects
+    ├── Go_Backend/                           # Go backend projects
     ├── Full_Stack/                           # Complete full-stack projects
     └── README.md                             # Project overview and comparison
 ```
@@ -131,6 +146,13 @@ Based on our analysis of 28 software engineering job postings:
 - ✅ You want to work with microservices architecture
 - ✅ You enjoy working with multiple Python frameworks
 - ✅ You have 7-8 hours/day available for intensive study
+
+### **Choose Go Backend Intensive if:**
+- ✅ You want to master high-performance backend development
+- ✅ You're interested in cloud-native and microservices architecture
+- ✅ You want to work with concurrent and distributed systems
+- ✅ You're targeting companies using Go (Google, Docker, Kubernetes)
+- ✅ You want to build scalable, performant backend systems
 
 ### **Choose Full Stack Intensive if:**
 - ✅ You want to build complete applications

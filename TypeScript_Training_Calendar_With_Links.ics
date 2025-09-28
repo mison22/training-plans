@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TypeScript Intensive Training//Training Plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TypeScript Intensive Training 2025
+X-WR-CALDESC:8-Week TypeScript Backend Intensive Training Program
+X-WR-TIMEZONE:America/New_York
+
+BEGIN:VEVENT
+UID:typescript-morning-session-links@training.com
+DTSTART;TZID=America/New_York:20250929T090000
+DTEND;TZID=America/New_York:20250929T110000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20251121T235959
+SUMMARY:TypeScript Training - Morning Session (Theory & Implementation)
+DESCRIPTION:Morning Session (9:00 AM - 11:00 AM)\n• Hour 1: Theory, documentation, and learning new concepts\n• Hour 2: Hands-on coding and implementation\n\nFocus: TypeScript mastery, NestJS development, and backend fundamentals\n\n📚 TRAINING PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md\n\n🎯 WEEKLY GOALS:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#week-1-typescript--nestjs-foundation
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-mid-morning-practice-links@training.com
+DTSTART;TZID=America/New_York:20250929T110000
+DTEND;TZID=America/New_York:20250929T120000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20251121T235959
+SUMMARY:TypeScript Training - Mid-Morning Practice
+DESCRIPTION:Mid-Morning Practice (11:00 AM - 12:00 PM)\n• Hands-on coding exercises and mini-projects\n• Code reviews, debugging exercises\n• Small feature implementations\n\nFocus: Applying morning concepts through practical implementation\n\n📚 TRAINING PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-leetcode-session-links@training.com
+DTSTART;TZID=America/New_York:20250929T130000
+DTEND;TZID=America/New_York:20250929T150000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20251121T235959
+SUMMARY:TypeScript Training - LeetCode Session
+DESCRIPTION:Afternoon Leetcode Session (1:00 PM - 3:00 PM)\n• Algorithm and data structure problems\n• Coding interview preparation\n• Problem-solving skills development\n\nResources:\n• LeetCode, HackerRank, CodeSignal\n• Coursera: Algorithmic Toolbox, Data Structures Specialization\n• Skillshare: Data Structures & Algorithms, LeetCode Mastery\n\n📚 TRAINING PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md\n\n🔗 LEETCODE RESOURCES:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#afternoon-leetcode-session-100-pm---300-pm
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-system-design-links@training.com
+DTSTART;TZID=America/New_York:20250929T153000
+DTEND;TZID=America/New_York:20250929T163000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20251121T235959
+SUMMARY:TypeScript Training - System Design Session
+DESCRIPTION:System Design Session (3:30 PM - 4:30 PM)\n• System design concepts and architecture patterns\n• Scalable system design, microservices\n• Database design principles\n\nResources:\n• Coursera: Software Design & Architecture, Cloud Computing\n• Skillshare: System Design, Microservices Guide\n\n📚 TRAINING PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md\n\n🔗 SYSTEM DESIGN RESOURCES:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#system-design-session-330-pm---430-pm
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-evening-session-links@training.com
+DTSTART;TZID=America/New_York:20250929T180000
+DTEND;TZID=America/New_York:20250929T200000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20251121T235959
+SUMMARY:TypeScript Training - Evening Session
+DESCRIPTION:Evening Session (6:00 PM - 8:00 PM)\n• Hour 1: Project work and practical application\n• Hour 2: Review, testing, and documentation\n\nFocus: Hands-on implementation and project development\n\n📚 TRAINING PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md\n\n🎯 PROJECTS:\nhttps://github.com/mison22/training-plans/blob/main/Projects/Backend_TypeScript/
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-week-1-links@training.com
+DTSTART;TZID=America/New_York:20250929T000000
+DTEND;TZID=America/New_York:20251005T235959
+SUMMARY:Week 1: TypeScript + NestJS Foundation
+DESCRIPTION:Week 1 Goals:\n• TypeScript deep dive + NestJS basics\n• Build first NestJS application\n• TypeScript mastery with advanced patterns\n• NestJS fundamentals and database integration\n\nKey Topics:\n• Advanced TypeScript patterns\n• Generics, conditional types, mapped types\n• NestJS framework architecture\n• TypeORM setup and configuration\n\n📚 DETAILED WEEK 1 PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#week-1-typescript--nestjs-foundation\n\n🎯 SUCCESS CRITERIA:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#-success-criteria-1
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-week-2-links@training.com
+DTSTART;TZID=America/New_York:20251006T000000
+DTEND;TZID=America/New_York:20251012T235959
+SUMMARY:Week 2: Advanced NestJS Development
+DESCRIPTION:Week 2 Goals:\n• Master advanced NestJS features and security\n• Build e-commerce API with comprehensive features\n• Implement JWT authentication with refresh tokens\n• Create high-performance API endpoints\n\nKey Topics:\n• Custom decorators and interceptors\n• JWT implementation and RBAC\n• Query optimization and caching\n• API response optimization\n\n📚 DETAILED WEEK 2 PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#week-2-advanced-nestjs-development
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-week-3-links@training.com
+DTSTART;TZID=America/New_York:20251013T000000
+DTEND;TZID=America/New_York:20251019T235959
+SUMMARY:Week 3: RESTful API Design & GraphQL
+DESCRIPTION:Week 3 Goals:\n• Master modern API development patterns\n• Design and implement RESTful APIs with documentation\n• Build GraphQL API with subscriptions\n• Implement microservices communication patterns\n\nKey Topics:\n• API design best practices\n• GraphQL schema design and resolvers\n• Microservices communication\n• Event-driven architecture\n\n📚 DETAILED WEEK 3 PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#week-3-restful-api-design--graphql
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-week-4-links@training.com
+DTSTART;TZID=America/New_York:20251020T000000
+DTEND;TZID=America/New_York:20251026T235959
+SUMMARY:Week 4: Python Integration & Data Processing
+DESCRIPTION:Week 4 Goals:\n• Master Python integration with TypeScript backends\n• Build FastAPI applications with async/await\n• Implement data processing pipelines\n• Create multi-service architecture\n\nKey Topics:\n• FastAPI framework and async programming\n• Data processing with Pandas\n• Background tasks with Celery\n• Multi-service data platform\n\n📚 DETAILED WEEK 4 PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#week-4-python-integration--data-processing
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-week-5-links@training.com
+DTSTART;TZID=America/New_York:20251027T000000
+DTEND;TZID=America/New_York:20251102T235959
+SUMMARY:Week 5: Database Mastery & Performance
+DESCRIPTION:Week 5 Goals:\n• Master advanced database concepts and optimization\n• Build high-performance database applications\n• Implement advanced caching strategies\n• Create data analytics and reporting systems\n\nKey Topics:\n• PostgreSQL advanced features\n• MongoDB integration\n• Redis caching and sessions\n• Database performance optimization\n\n📚 DETAILED WEEK 5 PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#week-5-database-mastery--performance
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-week-6-links@training.com
+DTSTART;TZID=America/New_York:20251103T000000
+DTEND;TZID=America/New_York:20251109T235959
+SUMMARY:Week 6: Real-time Systems & WebSockets
+DESCRIPTION:Week 6 Goals:\n• Master real-time application development\n• Build WebSocket-based applications\n• Implement event streaming with Kafka\n• Create real-time chat and notification systems\n\nKey Topics:\n• Socket.io and WebSocket implementation\n• Real-time data synchronization\n• Apache Kafka for event streaming\n• Real-time chat applications\n\n📚 DETAILED WEEK 6 PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#week-6-real-time-systems--websockets
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-week-7-links@training.com
+DTSTART;TZID=America/New_York:20251110T000000
+DTEND;TZID=America/New_York:20251116T235959
+SUMMARY:Week 7: Testing & Quality Assurance
+DESCRIPTION:Week 7 Goals:\n• Master comprehensive testing strategies\n• Build robust test suites with 90%+ coverage\n• Implement CI/CD pipelines\n• Create performance testing frameworks\n\nKey Topics:\n• Jest and Supertest for API testing\n• Unit, integration, and e2e testing\n• Performance testing with Artillery\n• CI/CD pipeline implementation\n\n📚 DETAILED WEEK 7 PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#week-7-testing--quality-assurance
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-week-8-links@training.com
+DTSTART;TZID=America/New_York:20251117T000000
+DTEND;TZID=America/New_York:20251123T235959
+SUMMARY:Week 8: Production Deployment & DevOps
+DESCRIPTION:Week 8 Goals:\n• Master production deployment and DevOps practices\n• Deploy applications to production\n• Implement monitoring and logging\n• Create scalable infrastructure\n\nKey Topics:\n• Docker containerization\n• Kubernetes orchestration\n• AWS cloud deployment\n• Monitoring and performance optimization\n\n📚 DETAILED WEEK 8 PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#week-8-production-deployment--devops
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:typescript-weekly-review-links@training.com
+DTSTART;TZID=America/New_York:20251005T200000
+DTEND;TZID=America/New_York:20251005T210000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20251123T235959
+SUMMARY:TypeScript Training - Weekly Review
+DESCRIPTION:Weekly Review (8:00 PM - 9:00 PM)\n• Assess progress and adjust learning plan\n• Review completed projects and challenges\n• Plan next week's focus areas\n• Update learning logs and documentation\n\n📚 TRAINING PLAN:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md\n\n📊 PROGRESS TRACKING:\nhttps://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md#-success-criteria
+LOCATION:Home Office
+CATEGORIES:EDUCATION
+URL:https://github.com/mison22/training-plans/blob/main/Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md
+END:VEVENT
+
+END:VCALENDAR
