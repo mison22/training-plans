@@ -4,7 +4,7 @@
 ## Executive Summary
 This evening training plan is designed for working professionals who can dedicate 2-3 hours per evening (Monday-Friday) to learning Python backend development. The program spans 12 weeks and focuses on FastAPI, Django, Flask, and data processing while respecting your work-life balance.
 
-📋 **[View Detailed Projects](../Projects/Python_Backend/)** | 🏠 **[Back to README](../README)**
+📋 **[View Detailed Projects](../Projects/Python_Backend/)** | 🏠 **[Back to README](../README.html)**
 
 ## Getting Started
 
@@ -304,7 +304,7 @@ This evening training plan is designed for working professionals who can dedicat
 - **Assignment**: Secure API with authentication
 
 #### 📖 Learning Resources
-- [Python Security](https://docs.python.org/3/library/security/) - Security guide
+- [Python Security](https://docs.python.org/3/library/security.html) - Security guide
 - **Udemy**: [Python Security Best Practices](https://www.udemy.com/course/python-security-best-practices/) (Sections 1-3)
 - **Coursera**: [Cybersecurity Specialization](https://www.coursera.org/specializations/cybersecurity) (Week 6)
 - **Skillshare**: [Python Security Mastery](https://www.skillshare.com/classes/Python-Security-Mastery/) (Week 6)

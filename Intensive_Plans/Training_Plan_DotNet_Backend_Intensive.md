@@ -4,7 +4,7 @@
 ## Executive Summary
 This intensive training plan is designed for individuals who can dedicate 8-10 hours per day to learning .NET/C# backend development. The program spans 8 weeks and covers C#, ASP.NET Core, Entity Framework, microservices, cloud deployment, and production-ready applications.
 
-📋 **[View Detailed Projects](../Projects/DotNet_Backend/)** | 🏠 **[Back to README](../README)**
+📋 **[View Detailed Projects](../Projects/DotNet_Backend/)** | 🏠 **[Back to README](../README.html)**
 
 ## Getting Started
 

@@ -122,8 +122,8 @@ ecommerce-platform/
 
 **Resources:**
 - [Apache Kafka](https://kafka.apache.org/) - Event streaming
-- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing/) - Patterns
-- [CQRS](https://martinfowler.com/bliki/CQRS/) - Command Query Responsibility Segregation
+- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) - Patterns
+- [CQRS](https://martinfowler.com/bliki/CQRS.html) - Command Query Responsibility Segregation
 
 ## Week 2: Individual Services Development
 
@@ -173,7 +173,7 @@ ecommerce-platform/
 **Resources:**
 - [Elasticsearch](https://www.elastic.co/elasticsearch/) - Search engine
 - [Product Catalog](https://en.wikipedia.org/wiki/Product_catalog) - Catalog patterns
-- [Search Patterns](https://www.elastic.co/guide/en/elasticsearch/reference/current/search/) - Search
+- [Search Patterns](https://www.elastic.co/guide/en/elasticsearch/reference/current/search.html) - Search
 
 ### **Day 5: Order Service**
 **Evening Schedule (2.5 hours):**

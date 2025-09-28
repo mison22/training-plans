@@ -161,7 +161,7 @@ portfolio-website/
 **Resources:**
 - [Node.js Documentation](https://nodejs.org/docs/) - Runtime reference
 - [Express Documentation](https://expressjs.com/) - Framework reference
-- [Express Middleware](https://expressjs.com/en/guide/using-middleware/) - Middleware
+- [Express Middleware](https://expressjs.com/en/guide/using-middleware.html) - Middleware
 
 ### **Day 3-4: Database Integration**
 **Evening Schedule (2.5 hours):**
@@ -209,7 +209,7 @@ portfolio-website/
 **Resources:**
 - [JWT Documentation](https://jwt.io/introduction/) - Token authentication
 - [bcrypt](https://www.npmjs.com/package/bcrypt) - Password hashing
-- [Express Security](https://expressjs.com/en/advanced/best-practice-security/) - Security practices
+- [Express Security](https://expressjs.com/en/advanced/best-practice-security.html) - Security practices
 
 ## Week 3: Full-Stack Integration & Deployment
 

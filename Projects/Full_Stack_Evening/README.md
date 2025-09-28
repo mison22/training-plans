@@ -6,22 +6,22 @@ This directory contains 4 comprehensive projects designed for the 12-week Full S
 
 ## Project Structure
 
-### [Project 1: Personal Portfolio Website](./Project_1_Personal_Portfolio_Website/)
+### [Project 1: Personal Portfolio Website](./Project_1_Personal_Portfolio_Website.html)
 **Duration**: 3 weeks (Weeks 1-3)  
 **Focus**: Frontend fundamentals, React, basic backend API  
 **Technologies**: React, TypeScript, Node.js, Express, MongoDB
 
-### [Project 2: Blog Management Platform](./Project_2_Blog_Management_Platform/)
+### [Project 2: Blog Management Platform](./Project_2_Blog_Management_Platform.html)
 **Duration**: 3 weeks (Weeks 4-6)  
 **Focus**: Full-stack integration, authentication, database design  
 **Technologies**: React, TypeScript, Node.js, Express, PostgreSQL, Redis
 
-### [Project 3: Task Management Dashboard](./Project_3_Task_Management_Dashboard/)
+### [Project 3: Task Management Dashboard](./Project_3_Task_Management_Dashboard.html)
 **Duration**: 3 weeks (Weeks 7-9)  
 **Focus**: Advanced frontend features, real-time updates, testing  
 **Technologies**: React, TypeScript, Node.js, Express, WebSockets, Docker
 
-### [Project 4: E-commerce Platform](./Project_4_E_Commerce_Platform/)
+### [Project 4: E-commerce Platform](./Project_4_E_Commerce_Platform.html)
 **Duration**: 3 weeks (Weeks 10-12)  
 **Focus**: Production deployment, microservices, monitoring  
 **Technologies**: React, TypeScript, Node.js, Express, Kubernetes, AWS

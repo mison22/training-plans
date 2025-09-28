@@ -74,7 +74,7 @@ portfolio-api/
 **Resources:**
 - [Go Tour](https://tour.golang.org/) - Interactive tutorial
 - [Go by Example](https://gobyexample.com/) - Code examples
-- [Effective Go](https://golang.org/doc/effective_go/) - Best practices
+- [Effective Go](https://golang.org/doc/effective_go.html) - Best practices
 
 ### **Day 3-4: Gin Framework Introduction**
 **Evening Schedule (2.5 hours):**
@@ -171,7 +171,7 @@ portfolio-api/
 
 **Resources:**
 - [Go Validator](https://github.com/go-playground/validator) - Data validation
-- [GORM CRUD](https://gorm.io/docs/create/) - Database operations
+- [GORM CRUD](https://gorm.io/docs/create.html) - Database operations
 - [Gin Binding](https://gin-gonic.com/docs/binding/) - Request binding
 
 ### **Day 5: Project Management**
@@ -195,7 +195,7 @@ portfolio-api/
 
 **Resources:**
 - [Gin File Upload](https://gin-gonic.com/docs/examples/upload-file/) - File handling
-- [GORM Associations](https://gorm.io/docs/associations/) - Data relationships
+- [GORM Associations](https://gorm.io/docs/associations.html) - Data relationships
 - [Go Image Package](https://pkg.go.dev/image) - Image processing
 
 ## Week 3: Testing, Documentation & Deployment

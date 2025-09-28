@@ -4,7 +4,7 @@
 ## Executive Summary
 This evening training plan is designed for working professionals who can dedicate 2-3 hours per evening (Monday-Friday) to learning full-stack development. The program spans 12 weeks and covers both frontend (React, TypeScript) and backend (Node.js, Python) technologies while respecting your work-life balance.
 
-📋 **[View Detailed Projects](../Projects/Full_Stack/)** | 🏠 **[Back to README](../README)**
+📋 **[View Detailed Projects](../Projects/Full_Stack/)** | 🏠 **[Back to README](../README.html)**
 
 ## Getting Started
 
@@ -445,7 +445,7 @@ This evening training plan is designed for working professionals who can dedicat
 - **Assignment**: High-performance full-stack app
 
 #### 📖 Learning Resources
-- [React Performance](https://reactjs.org/docs/optimizing-performance/) - Performance guide
+- [React Performance](https://reactjs.org/docs/optimizing-performance.html) - Performance guide
 - **Udemy**: [React Performance Optimization](https://www.udemy.com/course/react-performance-optimization/) (Sections 1-3)
 - **Coursera**: [System Performance Engineering](https://www.coursera.org/learn/system-performance-engineering) (Week 9)
 - **Skillshare**: [Performance Optimization](https://www.skillshare.com/classes/Performance-Optimization/) (Week 9)

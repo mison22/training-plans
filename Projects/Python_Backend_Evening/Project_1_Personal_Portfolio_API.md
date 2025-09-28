@@ -198,7 +198,7 @@ portfolio-api/
 
 **Resources:**
 - [Pydantic](https://pydantic-docs.helpmanual.io/) - Data validation
-- [SQLAlchemy CRUD](https://docs.sqlalchemy.org/en/14/orm/tutorial/) - Database operations
+- [SQLAlchemy CRUD](https://docs.sqlalchemy.org/en/14/orm/tutorial.html) - Database operations
 - [FastAPI Dependencies](https://fastapi.tiangolo.com/tutorial/dependencies/) - Dependency injection
 
 ### **Day 5: Project Management**
@@ -222,7 +222,7 @@ portfolio-api/
 
 **Resources:**
 - [FastAPI File Upload](https://fastapi.tiangolo.com/tutorial/request-files/) - File handling
-- [SQLAlchemy Relationships](https://docs.sqlalchemy.org/en/14/orm/basic_relationships/) - Data relationships
+- [SQLAlchemy Relationships](https://docs.sqlalchemy.org/en/14/orm/basic_relationships.html) - Data relationships
 - [Pillow](https://pillow.readthedocs.io/) - Image processing
 
 ## Week 3: Testing, Documentation & Deployment

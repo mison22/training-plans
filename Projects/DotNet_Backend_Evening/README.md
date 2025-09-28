@@ -6,22 +6,22 @@ This directory contains 4 comprehensive projects designed for the 12-week .NET/C
 
 ## Project Structure
 
-### [Project 1: Personal Portfolio API](./Project_1_Personal_Portfolio_API/)
+### [Project 1: Personal Portfolio API](./Project_1_Personal_Portfolio_API.html)
 **Duration**: 3 weeks (Weeks 1-3)  
 **Focus**: C# fundamentals, ASP.NET Core, basic CRUD operations  
 **Technologies**: C#, ASP.NET Core, Entity Framework Core, SQL Server, JWT
 
-### [Project 2: Blog Management System](./Project_2_Blog_Management_System/)
+### [Project 2: Blog Management System](./Project_2_Blog_Management_System.html)
 **Duration**: 3 weeks (Weeks 4-6)  
 **Focus**: Database integration, authentication, API design  
 **Technologies**: C#, ASP.NET Core, Entity Framework Core, SQL Server, Redis, Swagger
 
-### [Project 3: Task Management API](./Project_3_Task_Management_API/)
+### [Project 3: Task Management API](./Project_3_Task_Management_API.html)
 **Duration**: 3 weeks (Weeks 7-9)  
 **Focus**: Advanced features, testing, performance optimization  
 **Technologies**: C#, ASP.NET Core, SignalR, Redis, Docker
 
-### [Project 4: E-commerce Microservices](./Project_4_E_Commerce_Microservices/)
+### [Project 4: E-commerce Microservices](./Project_4_E_Commerce_Microservices.html)
 **Duration**: 3 weeks (Weeks 10-12)  
 **Focus**: Microservices architecture, cloud deployment, monitoring  
 **Technologies**: C#, ASP.NET Core, Docker, Kubernetes, Azure, Application Insights

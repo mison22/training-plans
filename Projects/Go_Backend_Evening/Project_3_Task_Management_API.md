@@ -84,7 +84,7 @@ task-api/
 
 **Resources:**
 - [Task Management Patterns](https://en.wikipedia.org/wiki/Task_management) - Patterns
-- [GORM Hooks](https://gorm.io/docs/hooks/) - Database hooks
+- [GORM Hooks](https://gorm.io/docs/hooks.html) - Database hooks
 - [Go Context](https://golang.org/pkg/context/) - Context management
 
 ### **Day 3-4: Real-time Features with WebSockets**
@@ -183,7 +183,7 @@ task-api/
 **Resources:**
 - [Go Profiling](https://golang.org/pkg/runtime/pprof/) - Performance profiling
 - [Load Testing](https://github.com/tsenart/vegeta) - Load testing tool
-- [Go Concurrency](https://golang.org/doc/effective_go/#concurrency) - Concurrency
+- [Go Concurrency](https://golang.org/doc/effective_go.html#concurrency) - Concurrency
 
 ### **Day 5: Security Testing & Hardening**
 **Evening Schedule (2.5 hours):**

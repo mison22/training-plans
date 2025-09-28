@@ -4,7 +4,7 @@
 ## Executive Summary
 This evening training plan is designed for working professionals who can dedicate 2-3 hours per evening (Monday-Friday) to learning .NET/C# backend development. The program spans 12 weeks and covers C#, ASP.NET Core, Entity Framework, microservices, and cloud deployment while respecting your work-life balance.
 
-📋 **[View Detailed Projects](../Projects/DotNet_Backend_Evening/)** | 🏠 **[Back to README](../README)**
+📋 **[View Detailed Projects](../Projects/DotNet_Backend_Evening/)** | 🏠 **[Back to README](../README.html)**
 
 ## Getting Started
 

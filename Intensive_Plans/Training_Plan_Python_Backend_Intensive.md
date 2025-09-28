@@ -4,7 +4,7 @@
 ## Executive Summary
 This intensive plan is designed for 7-8 hours of daily study, allowing you to master Python backend development with FastAPI (17.9% of jobs), Django (21.4% of jobs), and Flask in just 8 weeks. You'll build production-ready Python APIs, data processing systems, and microservices with comprehensive testing and deployment.
 
-📋 **[View Detailed Projects](../Projects/Python_Backend/)** | 🏠 **[Back to README](../README)**
+📋 **[View Detailed Projects](../Projects/Python_Backend/)** | 🏠 **[Back to README](../README.html)**
 
 ## Getting Started
 
@@ -455,7 +455,7 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
 ### Project 1: FastAPI E-commerce Platform (Weeks 1-2)
 - **Backend**: FastAPI + SQLAlchemy + PostgreSQL
 - **Features**: User management, product catalog, orders, payments, inventory
-- 📝 **[Detailed Requirements](../Projects/Python_Backend/Project_1_FastAPI_E_Commerce/)**
+- 📝 **[Detailed Requirements](../Projects/Python_Backend/Project_1_FastAPI_E_Commerce.html)**
 - **Architecture**: RESTful API with comprehensive documentation
 - **Testing**: 90%+ test coverage with pytest
 - **Timeline**: 2 weeks
@@ -463,7 +463,7 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
 ### Project 2: Django Social Media API (Weeks 3-4)
 - **Backend**: Django + Django REST Framework + PostgreSQL
 - **Features**: User relationships, content management, real-time notifications
-- 📝 **[Detailed Requirements](../Projects/Python_Backend/Project_2_Django_Social_Media/)**
+- 📝 **[Detailed Requirements](../Projects/Python_Backend/Project_2_Django_Social_Media.html)**
 - **Architecture**: RESTful API with admin interface
 - **Integration**: Celery for background tasks
 - **Timeline**: 2 weeks
@@ -471,7 +471,7 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
 ### Project 3: Flask Microservices Platform (Weeks 5-6)
 - **Backend**: Flask + Redis + MongoDB + RabbitMQ
 - **Features**: Service communication, authentication, data consistency
-- 📝 **[Detailed Requirements](../Projects/Python_Backend/Project_3_Flask_Microservices/)**
+- 📝 **[Detailed Requirements](../Projects/Python_Backend/Project_3_Flask_Microservices.html)**
 - **Architecture**: Microservices with message queues
 - **Performance**: Optimized for high concurrency
 - **Timeline**: 2 weeks
@@ -479,7 +479,7 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
 ### Project 4: Python Data Processing System (Weeks 7-8)
 - **Backend**: FastAPI + Django + Pandas + Apache Airflow
 - **Features**: Data ingestion, processing, ML integration, reporting
-- 📝 **[Detailed Requirements](../Projects/Python_Backend/Project_4_Data_Processing_System/)**
+- 📝 **[Detailed Requirements](../Projects/Python_Backend/Project_4_Data_Processing_System.html)**
 - **Infrastructure**: AWS deployment with monitoring
 - **Quality**: Production-ready with comprehensive testing
 - **Timeline**: 2 weeks

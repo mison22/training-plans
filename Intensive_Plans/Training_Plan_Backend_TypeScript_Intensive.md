@@ -4,7 +4,7 @@
 ## Executive Summary
 This intensive plan is designed for 4 hours of daily study, allowing you to master modern backend development with TypeScript and NestJS in just 8 weeks instead of 12. You'll cover the same comprehensive curriculum but with deeper practice, more projects, and accelerated learning.
 
-📋 **[View Detailed Projects](../Projects/Backend_TypeScript/)** | 🏠 **[Back to README](../README)**
+📋 **[View Detailed Projects](../Projects/Backend_TypeScript/)** | 🏠 **[Back to README](../README.html)**
 
 ## Getting Started
 
@@ -165,7 +165,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 #### 📖 Learning Resources
 - [NestJS Security](https://docs.nestjs.com/security/authentication) - Authentication
 - [Jest Documentation](https://jestjs.io/docs/getting-started) - Testing
-- [PostgreSQL Performance](https://www.postgresql.org/docs/current/performance-tips/) - Optimization
+- [PostgreSQL Performance](https://www.postgresql.org/docs/current/performance-tips.html) - Optimization
 - **Udemy Courses**: [NestJS Zero to Hero - Modern TypeScript Backend Development](https://www.udemy.com/course/nestjs-zero-to-hero/) (Sections 4-6), [Testing JavaScript with Jest](https://www.udemy.com/course/testing-javascript-with-jest/) (Sections 1-3)
 - **Coursera**: [Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-nodejs) (Week 2), [Database Design and Basic SQL Programming](https://www.coursera.org/learn/database-design) (Week 2)
 - **Skillshare**: [NestJS: Modern Backend Development](https://www.skillshare.com/classes/NestJS-Modern-Backend-Development/) (Week 2), [PostgreSQL for Developers](https://www.skillshare.com/classes/PostgreSQL-for-Developers/) (Week 2)
@@ -447,7 +447,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 1: E-commerce Platform (Weeks 1-2)
 - **Backend**: NestJS + TypeScript + PostgreSQL
 - **Features**: User management, product catalog, orders, payments, inventory
-- 📝 **[Detailed Requirements](../Projects/Backend_TypeScript/Project_1_E_Commerce_API/)**
+- 📝 **[Detailed Requirements](../Projects/Backend_TypeScript/Project_1_E_Commerce_API.html)**
 - **Architecture**: RESTful API with comprehensive documentation
 - **Testing**: 90%+ test coverage
 - **Timeline**: 2 weeks
@@ -455,7 +455,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 2: Social Media API (Weeks 3-4)
 - **Backend**: NestJS + GraphQL + MongoDB
 - **Features**: User relationships, content management, real-time notifications
-- 📝 **[Detailed Requirements](../Projects/Backend_TypeScript/Project_2_Social_Media_API/)**
+- 📝 **[Detailed Requirements](../Projects/Backend_TypeScript/Project_2_Social_Media_API.html)**
 - **Architecture**: GraphQL API with subscriptions
 - **Integration**: Python FastAPI for data processing
 - **Timeline**: 2 weeks
@@ -463,7 +463,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 3: Analytics Platform (Weeks 5-6)
 - **Backend**: Microservices (NestJS + FastAPI) + PostgreSQL + MongoDB
 - **Features**: Real-time data processing, analytics, reporting, caching
-- 📝 **[Detailed Requirements](../Projects/Backend_TypeScript/Project_3_Data_Processing_Microservices/)**
+- 📝 **[Detailed Requirements](../Projects/Backend_TypeScript/Project_3_Data_Processing_Microservices.html)**
 - **Architecture**: Event-driven microservices
 - **Performance**: Optimized for high throughput
 - **Timeline**: 2 weeks
@@ -471,7 +471,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 4: Production System (Weeks 7-8)
 - **Backend**: Full-stack TypeScript system
 - **Features**: Complete business application with all features
-- 📝 **[Detailed Requirements](../Projects/Backend_TypeScript/Project_4_Production_System/)**
+- 📝 **[Detailed Requirements](../Projects/Backend_TypeScript/Project_4_Production_System.html)**
 - **Infrastructure**: AWS deployment with monitoring
 - **Quality**: Production-ready with comprehensive testing
 - **Timeline**: 2 weeks
