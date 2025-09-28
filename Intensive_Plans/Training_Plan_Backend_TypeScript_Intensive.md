@@ -440,11 +440,11 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [FastAPI Documentation](https://fastapi.tiangolo.com/) - Python framework
 
 ### Recommended Udemy Courses
-- **Complete TypeScript Course** - Sections 1-8 (Fundamentals, Advanced types)
-- **NestJS Complete Course** - Sections 2-10 (Framework mastery, Advanced features)
-- **GraphQL Complete Course** - Sections 3-7 (Schema design, Subscriptions)
-- **FastAPI Complete Course** - Sections 2-6 (Advanced features, Background tasks)
-- **Docker & Kubernetes Course** - Sections 4-8 (Production deployment)
+- **[Understanding TypeScript - 2024 Edition](https://www.udemy.com/course/understanding-typescript/)** - Sections 1-8 (Fundamentals, Advanced types)
+- **[NestJS Zero to Hero - Modern TypeScript Backend Development](https://www.udemy.com/course/nestjs-zero-to-hero/)** - Sections 2-10 (Framework mastery, Advanced features)
+- **[GraphQL with React: The Complete Developers Guide](https://www.udemy.com/course/graphql-with-react-course/)** - Sections 3-7 (Schema design, Subscriptions)
+- **[FastAPI - The Complete Course 2024](https://www.udemy.com/course/fastapi-the-complete-course/)** - Sections 2-6 (Advanced features, Background tasks)
+- **[Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)** - Sections 4-8 (Production deployment)
 
 ### Practice Projects Between Weeks
 - **Week 1-2**: Simple blog API with NestJS

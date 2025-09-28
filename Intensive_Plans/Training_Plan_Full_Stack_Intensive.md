@@ -445,14 +445,14 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Django Documentation](https://docs.djangoproject.com/) - Python framework
 
 ### Recommended Udemy Courses
-- **React Complete Guide** - Sections 1-8 (Fundamentals, Advanced patterns, Testing)
-- **TypeScript Fundamentals** - Sections 1-6 (Types, Interfaces, Generics)
-- **Next.js Complete Course** - Sections 2-8 (SSR, API routes, Deployment)
-- **Vue.js Complete Course** - Sections 3-8 (Composition API, State management, Testing)
-- **Angular Complete Course** - Sections 4-9 (Advanced components, Routing, State management)
-- **Rails API Development** - Sections 2-6 (JSON APIs, Authentication, Testing)
-- **FastAPI Complete Course** - Sections 3-7 (WebSockets, Background tasks)
-- **Django Complete Course** - Sections 4-8 (REST APIs, Authentication, Deployment)
+- **[React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)** - Sections 1-8 (Fundamentals, Advanced patterns, Testing)
+- **[Understanding TypeScript - 2024 Edition](https://www.udemy.com/course/understanding-typescript/)** - Sections 1-6 (Types, Interfaces, Generics)
+- **[Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/)** - Sections 2-8 (SSR, API routes, Deployment)
+- **[Vue - The Complete Guide (w/ Router, Vuex, Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)** - Sections 3-8 (Composition API, State management, Testing)
+- **[Angular - The Complete Guide (2024 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)** - Sections 4-9 (Advanced components, Routing, State management)
+- **[The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)** - Sections 2-6 (JSON APIs, Authentication, Testing)
+- **[FastAPI - The Complete Course 2024](https://www.udemy.com/course/fastapi-the-complete-course/)** - Sections 3-7 (WebSockets, Background tasks)
+- **[Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)** - Sections 4-8 (REST APIs, Authentication, Deployment)
 
 ### Practice Projects Between Weeks
 - **Week 1-2**: Simple todo app with React and TypeScript

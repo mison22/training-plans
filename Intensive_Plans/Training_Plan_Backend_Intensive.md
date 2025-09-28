@@ -444,11 +444,11 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Express Documentation](https://expressjs.com/) - Express framework
 
 ### Recommended Udemy Courses
-- **Complete Ruby on Rails Developer Course** - Sections 1-8 (Fundamentals, Advanced features)
-- **Python Complete Course** - Sections 2-6 (FastAPI, Django, Data processing)
-- **Node.js Complete Course** - Sections 3-8 (Express, Real-time, Testing)
-- **Docker Complete Course** - Sections 4-8 (Containerization, Deployment)
-- **AWS Fundamentals** - Sections 3-6 (Cloud deployment, Monitoring)
+- **[The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)** - Sections 1-8 (Fundamentals, Advanced features)
+- **[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)** - Sections 2-6 (FastAPI, Django, Data processing)
+- **[The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)** - Sections 3-8 (Express, Real-time, Testing)
+- **[Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)** - Sections 4-8 (Containerization, Deployment)
+- **[AWS Certified DevOps Engineer Professional 2024](https://www.udemy.com/course/aws-certified-devops-engineer-professional/)** - Sections 3-6 (Cloud deployment, Monitoring)
 
 ### Practice Projects Between Weeks
 - **Week 1-2**: Simple blog with Rails
