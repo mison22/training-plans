@@ -18,6 +18,34 @@ Based on our analysis of 28 software engineering job postings:
 
 ---
 
+## 📋 Table of Contents
+
+### **Intensive Training Plans (8 weeks)**
+- [Backend TypeScript Intensive](#1-backend-typescript-intensive--recommended)
+- [Backend Multi-language Intensive](#2-backend-multi-language-intensive)
+- [Python Backend Intensive](#3-python-backend-intensive--new)
+- [Go Backend Intensive](#4-go-backend-intensive--new)
+- [Full Stack Intensive](#5-full-stack-intensive)
+
+### **Evening Training Plans (12 weeks)**
+- [TypeScript Backend Evening](#1-typescript-backend-evening--recommended)
+- [Go Backend Evening](#2-go-backend-evening)
+- [Python Backend Evening](#3-python-backend-evening)
+- [Full Stack Evening](#4-full-stack-evening)
+
+### **Alternative Plans**
+- [12-week Plans](#5-alternative-plans-12-week-versions)
+
+### **Selection Guides**
+- [Intensive Plan Selection Guide](#-intensive-plan-selection-guide)
+- [Evening Plan Selection Guide](#-evening-plan-selection-guide)
+
+### **Getting Started**
+- [How to Choose Your Path](#-how-to-choose-your-path)
+- [Step-by-Step Guide](#-step-by-step-guide)
+
+---
+
 ## 🚀 Training Plan Options
 
 ### 1. **Backend TypeScript Intensive** ⭐ *Recommended*
@@ -101,7 +129,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Perfect for working professionals wanting to master modern backend development.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_TypeScript_Evening.md)** | 📝 **[View Detailed Projects](Projects/Backend_TypeScript/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_TypeScript_Evening.md)** | 📝 **[View Detailed Projects](Projects/Backend_TypeScript_Evening/)**
 
 ### 2. **Go Backend Evening**
 **Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: High-performance backend development
@@ -155,38 +183,6 @@ Based on our analysis of 28 software engineering job postings:
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── README.md                                    # This file
-├── Training_Plans/                              # 12-week training plans
-│   ├── Training_Plan.md                         # Original with Go
-│   ├── Training_Plan_No_Go.md                   # Without Go
-│   ├── Training_Plan_No_Go_No_Java.md           # Without Go/Java
-│   ├── Training_Plan_Full_Stack.md              # Full stack 12-week
-│   ├── Training_Plan_Backend.md                 # Backend 12-week
-│   └── Training_Plan_Backend_TypeScript.md      # Backend TypeScript 12-week
-├── Intensive_Plans/                             # 8-week intensive plans
-│   ├── Training_Plan_Backend_TypeScript_Intensive.md
-│   ├── Training_Plan_Backend_Intensive.md
-│   ├── Training_Plan_Python_Backend_Intensive.md
-│   ├── Training_Plan_Backend_Go_Intensive.md
-│   └── Training_Plan_Full_Stack_Intensive.md
-├── Evening_Plans/                              # 12-week evening plans for working professionals
-│   ├── Training_Plan_Backend_TypeScript_Evening.md
-│   ├── Training_Plan_Backend_Go_Evening.md
-│   ├── Training_Plan_Python_Backend_Evening.md
-│   └── Training_Plan_Full_Stack_Evening.md
-└── Projects/                                   # Detailed project specifications
-    ├── Backend_TypeScript/                    # NestJS + TypeScript projects
-    ├── Backend_Intensive/                     # Ruby/Python/Node.js projects
-    ├── Python_Backend/                       # Python backend projects
-    ├── Go_Backend/                           # Go backend projects
-    ├── Full_Stack/                           # Complete full-stack projects
-    └── README.md                             # Project overview and comparison
-```
-
----
 
 ## 🎯 How to Choose Your Path
 
