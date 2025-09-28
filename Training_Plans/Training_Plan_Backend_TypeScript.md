@@ -329,6 +329,18 @@ This plan focuses on becoming a **modern backend specialist** using TypeScript a
 - Database design books
 - System design interview preparation
 
+### Coursera Courses
+- **[TypeScript for Beginners](https://www.coursera.org/learn/typescript)** - University of London
+- **[Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)** - The Hong Kong University of Science and Technology
+- **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** - Amazon Web Services
+- **[Database Design and Basic SQL Programming](https://www.coursera.org/learn/database-design)** - University of Colorado Boulder
+
+### Skillshare Classes
+- **[TypeScript: The Complete Developer's Guide](https://www.skillshare.com/classes/TypeScript-The-Complete-Developers-Guide/)** - Stephen Grider
+- **[NestJS: Modern Backend Development](https://www.skillshare.com/classes/NestJS-Modern-Backend-Development/)** - Backend Development
+- **[PostgreSQL for Developers](https://www.skillshare.com/classes/PostgreSQL-for-Developers/)** - Database Development
+- **[AWS Cloud Practitioner Essentials](https://www.skillshare.com/classes/AWS-Cloud-Practitioner-Essentials/)** - Cloud Computing
+
 ---
 
 ## TypeScript Backend Advantages

@@ -478,6 +478,21 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - **[FastAPI - The Complete Course 2024](https://www.udemy.com/course/fastapi-the-complete-course/)** - Sections 3-7 (WebSockets, Background tasks)
 - **[Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)** - Sections 4-8 (REST APIs, Authentication, Deployment)
 
+### Coursera Courses
+- **[Front-End Web Development with React](https://www.coursera.org/learn/front-end-react)** - The Hong Kong University of Science and Technology
+- **[Ruby on Rails Web Development Specialization](https://www.coursera.org/specializations/ruby-on-rails)** - Johns Hopkins University
+- **[Python for Everybody Specialization](https://www.coursera.org/specializations/python)** - University of Michigan
+- **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** - Amazon Web Services
+- **[Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)** - The Hong Kong University of Science and Technology
+
+### Skillshare Classes
+- **[React: The Complete Guide](https://www.skillshare.com/classes/React-The-Complete-Guide/)** - Frontend Development
+- **[TypeScript: Modern JavaScript Development](https://www.skillshare.com/classes/TypeScript-Modern-JavaScript-Development/)** - Stephen Grider
+- **[Ruby on Rails: Web Development](https://www.skillshare.com/classes/Ruby-on-Rails-Web-Development/)** - Backend Development
+- **[Full-Stack Web Development](https://www.skillshare.com/classes/Full-Stack-Web-Development/)** - Complete Development
+- **[Vue.js: Progressive Web Development](https://www.skillshare.com/classes/Vue-js-Progressive-Web-Development/)** - Frontend Framework
+- **[Angular: Complete Web Development](https://www.skillshare.com/classes/Angular-Complete-Web-Development/)** - Frontend Framework
+
 ### Practice Projects Between Weeks
 - **Week 1-2**: Simple todo app with React and TypeScript
 - **Week 2-3**: Basic blog with Next.js and API routes

@@ -300,6 +300,18 @@ This plan focuses on becoming a **full-stack developer** with strong frontend sk
 - Rails tutorial by Michael Hartl
 - AWS certification study materials
 
+### Coursera Courses
+- **[Front-End Web Development with React](https://www.coursera.org/learn/front-end-react)** - The Hong Kong University of Science and Technology
+- **[Ruby on Rails Web Development Specialization](https://www.coursera.org/specializations/ruby-on-rails)** - Johns Hopkins University
+- **[Python for Everybody Specialization](https://www.coursera.org/specializations/python)** - University of Michigan
+- **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** - Amazon Web Services
+
+### Skillshare Classes
+- **[React: The Complete Guide](https://www.skillshare.com/classes/React-The-Complete-Guide/)** - Frontend Development
+- **[TypeScript: Modern JavaScript Development](https://www.skillshare.com/classes/TypeScript-Modern-JavaScript-Development/)** - Stephen Grider
+- **[Ruby on Rails: Web Development](https://www.skillshare.com/classes/Ruby-on-Rails-Web-Development/)** - Backend Development
+- **[Full-Stack Web Development](https://www.skillshare.com/classes/Full-Stack-Web-Development/)** - Complete Development
+
 ---
 
 ## Timeline Adjustments

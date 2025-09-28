@@ -496,6 +496,24 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
 - **[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)** - Sections 4-8 (Data processing, ML integration)
 - **[Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)** - Sections 4-8 (Production deployment)
 
+### Coursera Courses
+- **[Python for Everybody Specialization](https://www.coursera.org/specializations/python)** - University of Michigan
+- **[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)** - University of Michigan
+- **[Django for Everybody Specialization](https://www.coursera.org/specializations/django)** - University of Michigan
+- **[Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)** - University of Michigan
+- **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** - Amazon Web Services
+- **[Database Design and Basic SQL Programming](https://www.coursera.org/learn/database-design)** - University of Colorado Boulder
+
+### Skillshare Classes
+- **[Python Backend Development](https://www.skillshare.com/classes/Python-Backend-Development/)** - Python Development
+- **[FastAPI: Modern Python Web APIs](https://www.skillshare.com/classes/FastAPI-Modern-Python-Web-APIs/)** - API Development
+- **[Django: Complete Web Development](https://www.skillshare.com/classes/Django-Complete-Web-Development/)** - Web Framework
+- **[Flask: Microservices Architecture](https://www.skillshare.com/classes/Flask-Microservices-Architecture/)** - Microservices
+- **[Python Data Science and Machine Learning](https://www.skillshare.com/classes/Python-Data-Science-and-Machine-Learning/)** - Data Science
+- **[PostgreSQL: Database Mastery](https://www.skillshare.com/classes/PostgreSQL-Database-Mastery/)** - Database Development
+- **[AWS: Cloud Computing Essentials](https://www.skillshare.com/classes/AWS-Cloud-Computing-Essentials/)** - Cloud Computing
+- **[Docker and Kubernetes Mastery](https://www.skillshare.com/classes/Docker-and-Kubernetes-Mastery/)** - DevOps
+
 ### Practice Projects Between Weeks
 - **Week 1-2**: Simple blog API with FastAPI
 - **Week 2-3**: Basic e-commerce with Django

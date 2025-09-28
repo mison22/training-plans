@@ -315,6 +315,20 @@ This plan focuses on becoming a **backend specialist** with expertise in API dev
 - Database design books
 - System design interview preparation
 
+### Coursera Courses
+- **[Ruby on Rails Web Development Specialization](https://www.coursera.org/specializations/ruby-on-rails)** - Johns Hopkins University
+- **[Python for Everybody Specialization](https://www.coursera.org/specializations/python)** - University of Michigan
+- **[Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)** - The Hong Kong University of Science and Technology
+- **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** - Amazon Web Services
+- **[Database Design and Basic SQL Programming](https://www.coursera.org/learn/database-design)** - University of Colorado Boulder
+
+### Skillshare Classes
+- **[Ruby on Rails: Complete Web Development](https://www.skillshare.com/classes/Ruby-on-Rails-Complete-Web-Development/)** - Backend Development
+- **[Python Backend Development](https://www.skillshare.com/classes/Python-Backend-Development/)** - Python Development
+- **[Node.js: Server-side JavaScript](https://www.skillshare.com/classes/Node-js-Server-side-JavaScript/)** - JavaScript Development
+- **[PostgreSQL: Database Mastery](https://www.skillshare.com/classes/PostgreSQL-Database-Mastery/)** - Database Development
+- **[AWS: Cloud Computing Essentials](https://www.skillshare.com/classes/AWS-Cloud-Computing-Essentials/)** - Cloud Computing
+
 ---
 
 ## Timeline Adjustments

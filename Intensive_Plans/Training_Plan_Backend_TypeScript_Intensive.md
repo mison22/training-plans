@@ -470,6 +470,20 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - **[FastAPI - The Complete Course 2024](https://www.udemy.com/course/fastapi-the-complete-course/)** - Sections 2-6 (Advanced features, Background tasks)
 - **[Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)** - Sections 4-8 (Production deployment)
 
+### Coursera Courses
+- **[TypeScript for Beginners](https://www.coursera.org/learn/typescript)** - University of London
+- **[Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)** - The Hong Kong University of Science and Technology
+- **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** - Amazon Web Services
+- **[Database Design and Basic SQL Programming](https://www.coursera.org/learn/database-design)** - University of Colorado Boulder
+- **[Python for Everybody Specialization](https://www.coursera.org/specializations/python)** - University of Michigan
+
+### Skillshare Classes
+- **[TypeScript: The Complete Developer's Guide](https://www.skillshare.com/classes/TypeScript-The-Complete-Developers-Guide/)** - Stephen Grider
+- **[NestJS: Modern Backend Development](https://www.skillshare.com/classes/NestJS-Modern-Backend-Development/)** - Backend Development
+- **[PostgreSQL for Developers](https://www.skillshare.com/classes/PostgreSQL-for-Developers/)** - Database Development
+- **[AWS Cloud Practitioner Essentials](https://www.skillshare.com/classes/AWS-Cloud-Practitioner-Essentials/)** - Cloud Computing
+- **[Docker and Kubernetes Mastery](https://www.skillshare.com/classes/Docker-and-Kubernetes-Mastery/)** - DevOps
+
 ### Practice Projects Between Weeks
 - **Week 1-2**: Simple blog API with NestJS
 - **Week 2-3**: Basic GraphQL server with subscriptions

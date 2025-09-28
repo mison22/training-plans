@@ -474,6 +474,21 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - **[Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)** - Sections 4-8 (Containerization, Deployment)
 - **[AWS Certified DevOps Engineer Professional 2024](https://www.udemy.com/course/aws-certified-devops-engineer-professional/)** - Sections 3-6 (Cloud deployment, Monitoring)
 
+### Coursera Courses
+- **[Ruby on Rails Web Development Specialization](https://www.coursera.org/specializations/ruby-on-rails)** - Johns Hopkins University
+- **[Python for Everybody Specialization](https://www.coursera.org/specializations/python)** - University of Michigan
+- **[Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)** - The Hong Kong University of Science and Technology
+- **[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)** - Amazon Web Services
+- **[Database Design and Basic SQL Programming](https://www.coursera.org/learn/database-design)** - University of Colorado Boulder
+
+### Skillshare Classes
+- **[Ruby on Rails: Complete Web Development](https://www.skillshare.com/classes/Ruby-on-Rails-Complete-Web-Development/)** - Backend Development
+- **[Python Backend Development](https://www.skillshare.com/classes/Python-Backend-Development/)** - Python Development
+- **[Node.js: Server-side JavaScript](https://www.skillshare.com/classes/Node-js-Server-side-JavaScript/)** - JavaScript Development
+- **[PostgreSQL: Database Mastery](https://www.skillshare.com/classes/PostgreSQL-Database-Mastery/)** - Database Development
+- **[AWS: Cloud Computing Essentials](https://www.skillshare.com/classes/AWS-Cloud-Computing-Essentials/)** - Cloud Computing
+- **[Docker and Kubernetes Mastery](https://www.skillshare.com/classes/Docker-and-Kubernetes-Mastery/)** - DevOps
+
 ### Practice Projects Between Weeks
 - **Week 1-2**: Simple blog with Rails
 - **Week 2-3**: Data processing script with Python
