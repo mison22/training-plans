@@ -31,7 +31,8 @@ Based on our analysis of 28 software engineering job postings:
 - [TypeScript Backend Evening](#1-typescript-backend-evening--recommended)
 - [Go Backend Evening](#2-go-backend-evening)
 - [Python Backend Evening](#3-python-backend-evening)
-- [Full Stack Evening](#4-full-stack-evening)
+- [Backend Multi-language Evening](#4-backend-multi-language-evening)
+- [Full Stack Evening](#5-full-stack-evening)
 
 ### **Selection Guides**
 - [Intensive Plan Selection Guide](#-intensive-plan-selection-guide)
@@ -139,7 +140,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Master Go for high-performance, concurrent systems and cloud-native development.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_Go_Evening.md)** | 📝 **[View Detailed Projects](Projects/Go_Backend/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_Go_Evening.md)** | 📝 **[View Detailed Projects](Projects/Go_Backend_Evening/)**
 
 ### 3. **Python Backend Evening**
 **Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Python backend specialization
@@ -152,9 +153,22 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Deep Python backend expertise with data processing and ML integration.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_Python_Backend_Evening.md)** | 📝 **[View Detailed Projects](Projects/Python_Backend/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Python_Backend_Evening.md)** | 📝 **[View Detailed Projects](Projects/Python_Backend_Evening/)**
 
-### 4. **Full Stack Evening**
+### 4. **Backend Multi-language Evening**
+**Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Versatile backend development
+
+**Technologies**: Ruby on Rails, Python/FastAPI, Node.js/Express, PostgreSQL, MongoDB, AWS
+- **Week 1-3**: Ruby on Rails & Python FastAPI fundamentals
+- **Week 4-6**: Node.js Express & authentication systems
+- **Week 7-9**: Testing, performance & microservices
+- **Week 10-12**: Cloud deployment & final project
+
+**Why Choose This**: Maximum versatility across multiple languages, excellent for diverse job opportunities.
+
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_Multi_Language_Evening.md)** | 📝 **[View Detailed Projects](Projects/Backend_Multi_Language_Evening/)**
+
+### 5. **Full Stack Evening**
 **Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Complete full-stack development
 
 **Technologies**: React, TypeScript, Node.js, Express, MongoDB, PostgreSQL
@@ -165,7 +179,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Complete full-stack expertise for working professionals.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_Full_Stack_Evening.md)** | 📝 **[View Detailed Projects](Projects/Full_Stack/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Full_Stack_Evening.md)** | 📝 **[View Detailed Projects](Projects/Full_Stack_Evening/)**
 
 ---
 
@@ -232,6 +246,13 @@ Based on our analysis of 28 software engineering job postings:
 - ✅ You're interested in data processing and ML
 - ✅ You prefer Python's ecosystem
 - ✅ You're targeting Python developer roles
+
+### **Choose Backend Multi-language Evening if:**
+- ✅ You work full-time and can only study 2-3 hours per evening
+- ✅ You want maximum backend language versatility
+- ✅ You're interested in Ruby on Rails, Python, and Node.js
+- ✅ You want to work in diverse environments
+- ✅ You're targeting backend developer roles across multiple languages
 
 ### **Choose Full Stack Evening if:**
 - ✅ You work full-time and can only study 2-3 hours per evening
