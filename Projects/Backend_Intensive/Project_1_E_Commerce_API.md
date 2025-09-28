@@ -1,7 +1,7 @@
 # Project 1: E-commerce API Platform
 *Backend Intensive Plan - Weeks 1-2*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.md)** | 🏠 **[Back to README](../../README.md)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
 
 ## 🎯 Project Overview
 
@@ -933,6 +933,6 @@ CMD ["bundle", "exec", "rails", "server", "-b", "0.0.0.0", "-e", "production"]
 ---
 
 ## 🔗 Related Projects
-- **Next Project**: [Project 2: Data Processing Platform](../Backend_Intensive/Project_2_Data_Processing_Platform.md)
-- **Training Plan**: [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.md)
-- **Main README**: [Repository Overview](../../README.md)
+- **Next Project**: [Project 2: Data Processing Platform](../Backend_Intensive/Project_2_Data_Processing_Platform.html)
+- **Training Plan**: [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)
+- **Main README**: [Repository Overview](../../README.html)

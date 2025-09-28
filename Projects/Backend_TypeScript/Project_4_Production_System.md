@@ -1,7 +1,7 @@
 # Project 4: Production System
 *Backend TypeScript Intensive Plan - Weeks 7-8*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)** | 🏠 **[Back to README](../../README.md)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
 
 ## 🎯 Project Overview
 
@@ -698,6 +698,6 @@ jobs:
 ---
 
 ## 🔗 Related Projects
-- **Previous Project**: [Project 3: Data Processing Microservices](../Backend_TypeScript/Project_3_Data_Processing_Microservices.md)
-- **Training Plan**: [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)
-- **Main README**: [Repository Overview](../../README.md)
+- **Previous Project**: [Project 3: Data Processing Microservices](../Backend_TypeScript/Project_3_Data_Processing_Microservices.html)
+- **Training Plan**: [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html)
+- **Main README**: [Repository Overview](../../README.html)

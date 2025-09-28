@@ -1,7 +1,7 @@
 # Full Stack Intensive Projects
 *Detailed project specifications for the Full Stack Intensive Plan*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 🏠 **[Back to README](../../README.md)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
 
 ## 🎯 Project Overview
 
@@ -17,7 +17,7 @@ This directory contains detailed specifications for all 4 projects in the Full S
 
 ## 📋 Project List
 
-### [Project 1: E-commerce Platform](./Project_1_E_Commerce_Platform.md)
+### [Project 1: E-commerce Platform](./Project_1_E_Commerce_Platform.html)
 **Duration**: 2 weeks | **Focus**: Full-stack development, frontend-backend integration, modern web applications
 
 **Technologies**: React + TypeScript + Rails API + PostgreSQL + Redis  
@@ -37,7 +37,7 @@ This directory contains detailed specifications for all 4 projects in the Full S
 
 ---
 
-### [Project 2: Social Media Dashboard](./Project_2_Social_Media_Dashboard.md)
+### [Project 2: Social Media Dashboard](./Project_2_Social_Media_Dashboard.html)
 **Duration**: 2 weeks | **Focus**: Modern frontend with SSR, real-time features, and advanced backend APIs
 
 **Technologies**: Next.js + TypeScript + FastAPI + PostgreSQL + Redis  
@@ -57,7 +57,7 @@ This directory contains detailed specifications for all 4 projects in the Full S
 
 ---
 
-### [Project 3: Project Management Tool](./Project_3_Project_Management_Tool.md)
+### [Project 3: Project Management Tool](./Project_3_Project_Management_Tool.html)
 **Duration**: 2 weeks | **Focus**: Complex state management, advanced UI components, and full-stack integration
 
 **Technologies**: Vue.js + TypeScript + Django + PostgreSQL + Redis  
@@ -77,7 +77,7 @@ This directory contains detailed specifications for all 4 projects in the Full S
 
 ---
 
-### [Project 4: Data Visualization Platform](./Project_4_Data_Visualization_Platform.md)
+### [Project 4: Data Visualization Platform](./Project_4_Data_Visualization_Platform.html)
 **Duration**: 2 weeks | **Focus**: Advanced frontend frameworks, data visualization, and full-stack production deployment
 
 **Technologies**: Angular + TypeScript + Node.js + Express + MongoDB + D3.js  
@@ -188,7 +188,7 @@ By completing all 4 projects, you will have built:
 
 ## 🚀 Getting Started
 
-1. **Review the Training Plan**: Start with the [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)
+1. **Review the Training Plan**: Start with the [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html)
 2. **Set Up Development Environment**: Follow the setup instructions for each framework
 3. **Follow Weekly Schedule**: Complete projects in order for maximum learning
 4. **Track Progress**: Use the success criteria and checklists in each project
@@ -198,9 +198,9 @@ By completing all 4 projects, you will have built:
 
 ## 🔗 Navigation
 
-- **[Project 1: E-commerce Platform](./Project_1_E_Commerce_Platform.md)** ← Start Here
-- **[Project 2: Social Media Dashboard](./Project_2_Social_Media_Dashboard.md)**
-- **[Project 3: Project Management Tool](./Project_3_Project_Management_Tool.md)**
-- **[Project 4: Data Visualization Platform](./Project_4_Data_Visualization_Platform.md)**
-- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)**
-- **[Main README](../../README.md)**
+- **[Project 1: E-commerce Platform](./Project_1_E_Commerce_Platform.html)** ← Start Here
+- **[Project 2: Social Media Dashboard](./Project_2_Social_Media_Dashboard.html)**
+- **[Project 3: Project Management Tool](./Project_3_Project_Management_Tool.html)**
+- **[Project 4: Data Visualization Platform](./Project_4_Data_Visualization_Platform.html)**
+- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html)**
+- **[Main README](../../README.html)**

@@ -6,22 +6,22 @@ This directory contains 4 comprehensive projects designed for the 12-week TypeSc
 
 ## Project Structure
 
-### [Project 1: Personal Portfolio API](./Project_1_Personal_Portfolio_API.md)
+### [Project 1: Personal Portfolio API](./Project_1_Personal_Portfolio_API.html)
 **Duration**: 3 weeks (Weeks 1-3)  
 **Focus**: TypeScript fundamentals, NestJS basics, basic CRUD operations  
 **Technologies**: TypeScript, NestJS, PostgreSQL, JWT
 
-### [Project 2: Blog Management System](./Project_2_Blog_Management_System.md)
+### [Project 2: Blog Management System](./Project_2_Blog_Management_System.html)
 **Duration**: 3 weeks (Weeks 4-6)  
 **Focus**: Database integration, authentication, API design  
 **Technologies**: TypeScript, NestJS, PostgreSQL, TypeORM, JWT, Swagger
 
-### [Project 3: Task Management API](./Project_3_Task_Management_API.md)
+### [Project 3: Task Management API](./Project_3_Task_Management_API.html)
 **Duration**: 3 weeks (Weeks 7-9)  
 **Focus**: Advanced features, testing, performance optimization  
 **Technologies**: TypeScript, NestJS, PostgreSQL, Redis, Jest, Docker
 
-### [Project 4: E-commerce Microservices](./Project_4_E_Commerce_Microservices.md)
+### [Project 4: E-commerce Microservices](./Project_4_E_Commerce_Microservices.html)
 **Duration**: 3 weeks (Weeks 10-12)  
 **Focus**: Microservices architecture, cloud deployment, monitoring  
 **Technologies**: TypeScript, NestJS, PostgreSQL, Redis, Docker, AWS, Prometheus

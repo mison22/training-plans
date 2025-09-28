@@ -1,7 +1,7 @@
 # Training Plan Projects Overview
 *Comprehensive project specifications for all training plans*
 
-🏠 **[Back to Main README](../README.md)**
+🏠 **[Back to Main README](../README.html)**
 
 ## 🎯 Overview
 
@@ -18,10 +18,10 @@ This directory contains detailed project specifications for all training plans i
 
 | Project | Duration | Tech Stack | Key Features |
 |---------|----------|------------|--------------|
-| [Project 1: E-commerce API Platform](./Backend_TypeScript/Project_1_E_Commerce_API.md) | Weeks 1-2 | NestJS + TypeScript + PostgreSQL | User auth, product catalog, orders, payments |
-| [Project 2: Social Media API](./Backend_TypeScript/Project_2_Social_Media_API.md) | Weeks 3-4 | NestJS + GraphQL + MongoDB | User relationships, real-time notifications |
-| [Project 3: Data Processing Microservices](./Backend_TypeScript/Project_3_Data_Processing_Microservices.md) | Weeks 5-6 | Microservices + Event-driven | Real-time processing, analytics, caching |
-| [Project 4: Production System](./Backend_TypeScript/Project_4_Production_System.md) | Weeks 7-8 | Multi-service + AWS + Kubernetes | Complete business application, monitoring |
+| [Project 1: E-commerce API Platform](./Backend_TypeScript/Project_1_E_Commerce_API.html) | Weeks 1-2 | NestJS + TypeScript + PostgreSQL | User auth, product catalog, orders, payments |
+| [Project 2: Social Media API](./Backend_TypeScript/Project_2_Social_Media_API.html) | Weeks 3-4 | NestJS + GraphQL + MongoDB | User relationships, real-time notifications |
+| [Project 3: Data Processing Microservices](./Backend_TypeScript/Project_3_Data_Processing_Microservices.html) | Weeks 5-6 | Microservices + Event-driven | Real-time processing, analytics, caching |
+| [Project 4: Production System](./Backend_TypeScript/Project_4_Production_System.html) | Weeks 7-8 | Multi-service + AWS + Kubernetes | Complete business application, monitoring |
 
 **Total Projects**: 4 | **Total Duration**: 8 weeks | **Languages**: TypeScript, Python | **Databases**: PostgreSQL, MongoDB, Redis
 
@@ -32,10 +32,10 @@ This directory contains detailed project specifications for all training plans i
 
 | Project | Duration | Tech Stack | Key Features |
 |---------|----------|------------|--------------|
-| [Project 1: E-commerce API Platform](./Backend_Intensive/Project_1_E_Commerce_API.md) | Weeks 1-2 | Ruby on Rails + PostgreSQL | User management, product catalog, orders |
-| [Project 2: Data Processing Platform](./Backend_Intensive/Project_2_Data_Processing_Platform.md) | Weeks 3-4 | Python FastAPI + Django | Data ingestion, ETL pipelines, analytics |
-| [Project 3: Real-time Application](./Backend_Intensive/Project_3_Real_Time_Application.md) | Weeks 5-6 | Node.js + Express + MongoDB | Real-time chat, WebSockets, notifications |
-| [Project 4: Production System](./Backend_Intensive/Project_4_Production_System.md) | Weeks 7-8 | Multi-language + AWS + Docker | Service orchestration, monitoring, deployment |
+| [Project 1: E-commerce API Platform](./Backend_Intensive/Project_1_E_Commerce_API.html) | Weeks 1-2 | Ruby on Rails + PostgreSQL | User management, product catalog, orders |
+| [Project 2: Data Processing Platform](./Backend_Intensive/Project_2_Data_Processing_Platform.html) | Weeks 3-4 | Python FastAPI + Django | Data ingestion, ETL pipelines, analytics |
+| [Project 3: Real-time Application](./Backend_Intensive/Project_3_Real_Time_Application.html) | Weeks 5-6 | Node.js + Express + MongoDB | Real-time chat, WebSockets, notifications |
+| [Project 4: Production System](./Backend_Intensive/Project_4_Production_System.html) | Weeks 7-8 | Multi-language + AWS + Docker | Service orchestration, monitoring, deployment |
 
 **Total Projects**: 4 | **Total Duration**: 8 weeks | **Languages**: Ruby, Python, JavaScript | **Databases**: PostgreSQL, MongoDB, Redis
 
@@ -46,10 +46,10 @@ This directory contains detailed project specifications for all training plans i
 
 | Project | Duration | Tech Stack | Key Features |
 |---------|----------|------------|--------------|
-| [Project 1: E-commerce Platform](./Full_Stack/Project_1_E_Commerce_Platform.md) | Weeks 1-2 | React + TypeScript + Rails API | Frontend-backend integration, shopping cart |
-| [Project 2: Social Media Dashboard](./Full_Stack/Project_2_Social_Media_Dashboard.md) | Weeks 3-4 | Next.js + FastAPI | SSR, real-time updates, WebSockets |
-| [Project 3: Project Management Tool](./Full_Stack/Project_3_Project_Management_Tool.md) | Weeks 5-6 | Vue.js + Django | Drag-and-drop, time tracking, collaboration |
-| [Project 4: Data Visualization Platform](./Full_Stack/Project_4_Data_Visualization_Platform.md) | Weeks 7-8 | Angular + Node.js + D3.js | Interactive charts, data processing, analytics |
+| [Project 1: E-commerce Platform](./Full_Stack/Project_1_E_Commerce_Platform.html) | Weeks 1-2 | React + TypeScript + Rails API | Frontend-backend integration, shopping cart |
+| [Project 2: Social Media Dashboard](./Full_Stack/Project_2_Social_Media_Dashboard.html) | Weeks 3-4 | Next.js + FastAPI | SSR, real-time updates, WebSockets |
+| [Project 3: Project Management Tool](./Full_Stack/Project_3_Project_Management_Tool.html) | Weeks 5-6 | Vue.js + Django | Drag-and-drop, time tracking, collaboration |
+| [Project 4: Data Visualization Platform](./Full_Stack/Project_4_Data_Visualization_Platform.html) | Weeks 7-8 | Angular + Node.js + D3.js | Interactive charts, data processing, analytics |
 
 **Total Projects**: 4 | **Total Duration**: 8 weeks | **Languages**: TypeScript, Ruby, Python, JavaScript | **Frameworks**: React, Next.js, Vue.js, Angular
 
@@ -180,9 +180,9 @@ This directory contains detailed project specifications for all training plans i
 ## 🔗 Quick Navigation
 
 ### Training Plans
-- **[Backend TypeScript Intensive](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)**
-- **[Backend Intensive (Ruby/Python/Node.js)](../../Intensive_Plans/Training_Plan_Backend_Intensive.md)**
-- **[Full Stack Intensive](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)**
+- **[Backend TypeScript Intensive](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html)**
+- **[Backend Intensive (Ruby/Python/Node.js)](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)**
+- **[Full Stack Intensive](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html)**
 
 ### Project Directories
 - **[Backend TypeScript Projects](./Backend_TypeScript/)**
@@ -190,6 +190,6 @@ This directory contains detailed project specifications for all training plans i
 - **[Full Stack Projects](./Full_Stack/)**
 
 ### Main Documentation
-- **[Repository README](../README.md)**
-- **[Contributing Guidelines](../CONTRIBUTING.md)**
+- **[Repository README](../README.html)**
+- **[Contributing Guidelines](../CONTRIBUTING.html)**
 - **[License](../LICENSE)**

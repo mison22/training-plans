@@ -1,7 +1,7 @@
 # Project 3: Real-time Application
 *Backend Intensive Plan - Weeks 5-6*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.md)** | 🏠 **[Back to README](../../README.md)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
 
 ## 🎯 Project Overview
 
@@ -999,7 +999,7 @@ RATE_LIMIT_MAX_REQUESTS=100
 ---
 
 ## 🔗 Related Projects
-- **Previous Project**: [Project 2: Data Processing Platform](../Backend_Intensive/Project_2_Data_Processing_Platform.md)
-- **Next Project**: [Project 4: Production System](../Backend_Intensive/Project_4_Production_System.md)
-- **Training Plan**: [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.md)
-- **Main README**: [Repository Overview](../../README.md)
+- **Previous Project**: [Project 2: Data Processing Platform](../Backend_Intensive/Project_2_Data_Processing_Platform.html)
+- **Next Project**: [Project 4: Production System](../Backend_Intensive/Project_4_Production_System.html)
+- **Training Plan**: [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)
+- **Main README**: [Repository Overview](../../README.html)

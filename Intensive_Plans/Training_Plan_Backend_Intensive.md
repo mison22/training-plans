@@ -4,7 +4,7 @@
 ## Executive Summary
 This intensive plan is designed for 4 hours of daily study, allowing you to master backend development with Ruby on Rails (46.4% of jobs), Python (17.9% of jobs), and Node.js (14.3% of jobs) in just 8 weeks instead of 12. You'll cover comprehensive backend curriculum with deeper practice, more projects, and accelerated learning.
 
-📋 **[View Detailed Projects](../Projects/Backend_Intensive/)** | 🏠 **[Back to README](../README.md)**
+📋 **[View Detailed Projects](../Projects/Backend_Intensive/)** | 🏠 **[Back to README](../README.html)**
 
 ## Getting Started
 
@@ -433,7 +433,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 1: E-commerce Platform (Weeks 1-2)
 - **Backend**: Ruby on Rails + PostgreSQL
 - **Features**: User management, product catalog, orders, payments, inventory
-- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_1_E_Commerce_API.md)**
+- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_1_E_Commerce_API.html)**
 - **Architecture**: RESTful API with comprehensive documentation
 - **Testing**: 90%+ test coverage with RSpec
 - **Timeline**: 2 weeks
@@ -441,7 +441,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 2: Data Processing Platform (Weeks 3-4)
 - **Backend**: Python FastAPI + Django + PostgreSQL
 - **Features**: Data ingestion, processing, analytics, reporting
-- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_2_Data_Processing_Platform.md)**
+- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_2_Data_Processing_Platform.html)**
 - **Architecture**: Microservices with data processing pipeline
 - **Integration**: Connect with Rails API
 - **Timeline**: 2 weeks
@@ -449,7 +449,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 3: Real-time Application (Weeks 5-6)
 - **Backend**: Node.js + Express + MongoDB + Redis
 - **Features**: Real-time chat, notifications, file uploads
-- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_3_Real_Time_Application.md)**
+- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_3_Real_Time_Application.html)**
 - **Architecture**: WebSocket-based real-time system
 - **Performance**: Optimized for high concurrency
 - **Timeline**: 2 weeks
@@ -457,7 +457,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 4: Production System (Weeks 7-8)
 - **Backend**: Multi-language system (Rails + Python + Node.js)
 - **Features**: Complete business application with all features
-- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_4_Production_System.md)**
+- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_4_Production_System.html)**
 - **Infrastructure**: AWS deployment with monitoring
 - **Quality**: Production-ready with comprehensive testing
 - **Timeline**: 2 weeks

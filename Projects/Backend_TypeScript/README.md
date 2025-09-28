@@ -1,7 +1,7 @@
 # Backend TypeScript Projects
 *Detailed project specifications for the Backend TypeScript Intensive Plan*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)** | 🏠 **[Back to README](../../README.md)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
 
 ## 🎯 Project Overview
 
@@ -17,7 +17,7 @@ This directory contains detailed specifications for all 4 projects in the Backen
 
 ## 📋 Project List
 
-### [Project 1: E-commerce API Platform](./Project_1_E_Commerce_API.md)
+### [Project 1: E-commerce API Platform](./Project_1_E_Commerce_API.html)
 **Duration**: 2 weeks | **Focus**: RESTful APIs, Authentication, Database Design
 
 **Technologies**: NestJS + TypeScript + PostgreSQL + Redis  
@@ -36,7 +36,7 @@ This directory contains detailed specifications for all 4 projects in the Backen
 
 ---
 
-### [Project 2: Social Media Backend API](./Project_2_Social_Media_API.md)
+### [Project 2: Social Media Backend API](./Project_2_Social_Media_API.html)
 **Duration**: 2 weeks | **Focus**: GraphQL, Real-time Features, NoSQL
 
 **Technologies**: NestJS + GraphQL + MongoDB + Redis + Socket.io  
@@ -55,7 +55,7 @@ This directory contains detailed specifications for all 4 projects in the Backen
 
 ---
 
-### [Project 3: Data Processing Microservices](./Project_3_Data_Processing_Microservices.md)
+### [Project 3: Data Processing Microservices](./Project_3_Data_Processing_Microservices.html)
 **Duration**: 2 weeks | **Focus**: Microservices, Event-driven Architecture
 
 **Technologies**: NestJS + Python/FastAPI + PostgreSQL + MongoDB + RabbitMQ  
@@ -74,7 +74,7 @@ This directory contains detailed specifications for all 4 projects in the Backen
 
 ---
 
-### [Project 4: Production System](./Project_4_Production_System.md)
+### [Project 4: Production System](./Project_4_Production_System.html)
 **Duration**: 2 weeks | **Focus**: Production Deployment, Scalability, Monitoring
 
 **Technologies**: Full-stack TypeScript + AWS + Docker + Kubernetes + Monitoring  
@@ -176,7 +176,7 @@ By completing all 4 projects, you will have built:
 
 ## 🚀 Getting Started
 
-1. **Review the Training Plan**: Start with the [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)
+1. **Review the Training Plan**: Start with the [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html)
 2. **Set Up Environment**: Follow the pre-project preparation in each project
 3. **Follow Weekly Schedule**: Complete projects in order for maximum learning
 4. **Track Progress**: Use the success criteria and checklists in each project
@@ -186,9 +186,9 @@ By completing all 4 projects, you will have built:
 
 ## 🔗 Navigation
 
-- **[Project 1: E-commerce API Platform](./Project_1_E_Commerce_API.md)** ← Start Here
-- **[Project 2: Social Media Backend API](./Project_2_Social_Media_API.md)**
-- **[Project 3: Data Processing Microservices](./Project_3_Data_Processing_Microservices.md)**
-- **[Project 4: Production System](./Project_4_Production_System.md)**
-- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)**
-- **[Main README](../../README.md)**
+- **[Project 1: E-commerce API Platform](./Project_1_E_Commerce_API.html)** ← Start Here
+- **[Project 2: Social Media Backend API](./Project_2_Social_Media_API.html)**
+- **[Project 3: Data Processing Microservices](./Project_3_Data_Processing_Microservices.html)**
+- **[Project 4: Production System](./Project_4_Production_System.html)**
+- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html)**
+- **[Main README](../../README.html)**
