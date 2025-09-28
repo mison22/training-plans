@@ -85,6 +85,65 @@ Based on our analysis of 28 software engineering job postings:
 
 📋 **[View Training Plan](Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Full_Stack/)**
 
+---
+
+## 🌙 Evening Training Plans
+*For working professionals with 2-3 hours per evening*
+
+### 1. **TypeScript Backend Evening** ⭐ *Recommended*
+**Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Modern backend development
+
+**Technologies**: TypeScript, NestJS, PostgreSQL, MongoDB, AWS
+- **Week 1-3**: TypeScript & NestJS fundamentals
+- **Week 4-6**: Database integration & authentication
+- **Week 7-9**: Testing, performance & microservices
+- **Week 10-12**: Cloud deployment & final project
+
+**Why Choose This**: Perfect for working professionals wanting to master modern backend development.
+
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_TypeScript_Evening.md)** | 📝 **[View Detailed Projects](Projects/Backend_TypeScript/)**
+
+### 2. **Go Backend Evening**
+**Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: High-performance backend development
+
+**Technologies**: Go, Gin, gRPC, Kubernetes, Microservices, Redis
+- **Week 1-3**: Go fundamentals & web framework
+- **Week 4-6**: Concurrency, authentication & gRPC
+- **Week 7-9**: Testing, caching & containerization
+- **Week 10-12**: Cloud deployment & final project
+
+**Why Choose This**: Master Go for high-performance, concurrent systems and cloud-native development.
+
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_Go_Evening.md)** | 📝 **[View Detailed Projects](Projects/Go_Backend/)**
+
+### 3. **Python Backend Evening**
+**Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Python backend specialization
+
+**Technologies**: Python, FastAPI, Django, Flask, PostgreSQL, AWS, ML
+- **Week 1-3**: Python fundamentals & FastAPI
+- **Week 4-6**: Django, Flask & database integration
+- **Week 7-9**: Authentication, data processing & ML
+- **Week 10-12**: Testing, deployment & final project
+
+**Why Choose This**: Deep Python backend expertise with data processing and ML integration.
+
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Python_Backend_Evening.md)** | 📝 **[View Detailed Projects](Projects/Python_Backend/)**
+
+### 4. **Full Stack Evening**
+**Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Complete full-stack development
+
+**Technologies**: React, TypeScript, Node.js, Express, MongoDB, PostgreSQL
+- **Week 1-3**: Frontend fundamentals (HTML, CSS, React)
+- **Week 4-6**: Backend development (Node.js, Express)
+- **Week 7-9**: Database integration & authentication
+- **Week 10-12**: Testing, deployment & final project
+
+**Why Choose This**: Complete full-stack expertise for working professionals.
+
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Full_Stack_Evening.md)** | 📝 **[View Detailed Projects](Projects/Full_Stack/)**
+
+---
+
 ### 5. **Alternative Plans** (12-week versions)
 - **[Backend TypeScript](Training_Plans/Training_Plan_Backend_TypeScript.md)** (7-8 hours/day)
 - **[Backend Multi-language](Training_Plans/Training_Plan_Backend.md)** (7-8 hours/day)
@@ -113,6 +172,11 @@ Based on our analysis of 28 software engineering job postings:
 │   ├── Training_Plan_Python_Backend_Intensive.md
 │   ├── Training_Plan_Backend_Go_Intensive.md
 │   └── Training_Plan_Full_Stack_Intensive.md
+├── Evening_Plans/                              # 12-week evening plans for working professionals
+│   ├── Training_Plan_Backend_TypeScript_Evening.md
+│   ├── Training_Plan_Backend_Go_Evening.md
+│   ├── Training_Plan_Python_Backend_Evening.md
+│   └── Training_Plan_Full_Stack_Evening.md
 └── Projects/                                   # Detailed project specifications
     ├── Backend_TypeScript/                    # NestJS + TypeScript projects
     ├── Backend_Intensive/                     # Ruby/Python/Node.js projects
@@ -160,6 +224,38 @@ Based on our analysis of 28 software engineering job postings:
 - ✅ You want to work at startups or small teams
 - ✅ You want to see the full picture from UI to database
 - ✅ You have 7-8 hours/day available for intensive study
+
+---
+
+## 🌙 **Evening Plan Selection Guide**
+
+### **Choose TypeScript Backend Evening if:**
+- ✅ You work full-time and can only study 2-3 hours per evening
+- ✅ You want to master modern backend development
+- ✅ You prefer TypeScript and NestJS
+- ✅ You want a structured 12-week program
+- ✅ You're targeting backend developer roles
+
+### **Choose Go Backend Evening if:**
+- ✅ You work full-time and can only study 2-3 hours per evening
+- ✅ You want to master high-performance backend development
+- ✅ You're interested in cloud-native and microservices
+- ✅ You want to work with concurrent systems
+- ✅ You're targeting Go developer roles
+
+### **Choose Python Backend Evening if:**
+- ✅ You work full-time and can only study 2-3 hours per evening
+- ✅ You want to specialize in Python backend development
+- ✅ You're interested in data processing and ML
+- ✅ You prefer Python's ecosystem
+- ✅ You're targeting Python developer roles
+
+### **Choose Full Stack Evening if:**
+- ✅ You work full-time and can only study 2-3 hours per evening
+- ✅ You want to learn both frontend and backend
+- ✅ You enjoy building complete applications
+- ✅ You want maximum versatility
+- ✅ You're targeting full-stack developer roles
 
 ### **Choose 12-week Plans if:**
 - ✅ You have 2-3 hours/day available
