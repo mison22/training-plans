@@ -411,12 +411,12 @@ spec:
 
 ### Documentation
 - [Flask Documentation](https://flask.palletsprojects.com/)
-- [RabbitMQ Documentation](https://www.rabbitmq.com/documentation.html)
+- [RabbitMQ Documentation](https://www.rabbitmq.com/documentation/)
 - [Kubernetes Documentation](https://kubernetes.io/docs/)
 
 ### Tutorials
 - [Flask Microservices](https://flask.palletsprojects.com/en/2.3.x/patterns/appfactories/)
-- [RabbitMQ Tutorial](https://www.rabbitmq.com/getstarted.html)
+- [RabbitMQ Tutorial](https://www.rabbitmq.com/getstarted/)
 - [Kubernetes Tutorial](https://kubernetes.io/docs/tutorials/)
 
 ---

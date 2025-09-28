@@ -4,7 +4,7 @@
 ## Executive Summary
 This intensive plan is designed for 4 hours of daily study, allowing you to master backend development with Ruby on Rails (46.4% of jobs), Python (17.9% of jobs), and Node.js (14.3% of jobs) in just 8 weeks instead of 12. You'll cover comprehensive backend curriculum with deeper practice, more projects, and accelerated learning.
 
-📋 **[View Detailed Projects](../Projects/Backend_Intensive/)** | 🏠 **[Back to README](../README.html)**
+📋 **[View Detailed Projects](../Projects/Backend_Intensive/)** | 🏠 **[Back to README](../README)**
 
 ## Getting Started
 
@@ -163,7 +163,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - **Mini Projects**: High-performance caching layer
 
 #### 📖 Learning Resources
-- [Rails API Guide](https://guides.rubyonrails.org/api_app.html) - API development
+- [Rails API Guide](https://guides.rubyonrails.org/api_app/) - API development
 - [JWT Documentation](https://jwt.io/introduction/) - Authentication
 - [RSpec Documentation](https://rspec.info/) - Testing framework
 - **Udemy Courses**: [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) (Sections 5-7), [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/) (Sections 1-3)
@@ -333,7 +333,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 #### 📖 Learning Resources
 - [Socket.io Documentation](https://socket.io/docs/) - Real-time communication
 - [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) - WebSocket basics
-- [Node.js WebSocket](https://nodejs.org/api/ws.html) - WebSocket implementation
+- [Node.js WebSocket](https://nodejs.org/api/ws/) - WebSocket implementation
 - **Udemy Courses**: [Socket.io (with websockets) - the details. (socket, io, webrtc)](https://www.udemy.com/course/socketio-with-websockets-the-details/) (Sections 1-4), [Build a Realtime Chat App in React, Node, Socket.io](https://www.udemy.com/course/build-a-realtime-chat-app-in-react-node-socket-io/) (Sections 1-2)
 
 #### ✅ Success Criteria
@@ -433,7 +433,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 1: E-commerce Platform (Weeks 1-2)
 - **Backend**: Ruby on Rails + PostgreSQL
 - **Features**: User management, product catalog, orders, payments, inventory
-- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_1_E_Commerce_API.html)**
+- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_1_E_Commerce_API/)**
 - **Architecture**: RESTful API with comprehensive documentation
 - **Testing**: 90%+ test coverage with RSpec
 - **Timeline**: 2 weeks
@@ -441,7 +441,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 2: Data Processing Platform (Weeks 3-4)
 - **Backend**: Python FastAPI + Django + PostgreSQL
 - **Features**: Data ingestion, processing, analytics, reporting
-- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_2_Data_Processing_Platform.html)**
+- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_2_Data_Processing_Platform/)**
 - **Architecture**: Microservices with data processing pipeline
 - **Integration**: Connect with Rails API
 - **Timeline**: 2 weeks
@@ -449,7 +449,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 3: Real-time Application (Weeks 5-6)
 - **Backend**: Node.js + Express + MongoDB + Redis
 - **Features**: Real-time chat, notifications, file uploads
-- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_3_Real_Time_Application.html)**
+- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_3_Real_Time_Application/)**
 - **Architecture**: WebSocket-based real-time system
 - **Performance**: Optimized for high concurrency
 - **Timeline**: 2 weeks
@@ -457,7 +457,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 4: Production System (Weeks 7-8)
 - **Backend**: Multi-language system (Rails + Python + Node.js)
 - **Features**: Complete business application with all features
-- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_4_Production_System.html)**
+- 📝 **[Detailed Requirements](../Projects/Backend_Intensive/Project_4_Production_System/)**
 - **Infrastructure**: AWS deployment with monitoring
 - **Quality**: Production-ready with comprehensive testing
 - **Timeline**: 2 weeks

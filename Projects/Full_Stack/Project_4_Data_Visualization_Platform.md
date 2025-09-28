@@ -1,7 +1,7 @@
 # Project 4: Data Visualization Platform
 *Full Stack Intensive Plan - Weeks 7-8*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)** | 🏠 **[Back to README](../../README)**
 
 ## 🎯 Project Overview
 
@@ -179,7 +179,7 @@ import { Dashboard, Chart, FilterValue } from '../../models';
 
 @Component({
   selector: 'app-dashboard',
-  templateUrl: './dashboard.component.html',
+  templateUrl: './dashboard.component/',
   styleUrls: ['./dashboard.component.scss']
 })
 export class DashboardComponent implements OnInit, OnDestroy {
@@ -304,7 +304,7 @@ import { Chart, ChartData } from '../../models';
 
 @Component({
   selector: 'app-chart',
-  templateUrl: './chart.component.html',
+  templateUrl: './chart.component/',
   styleUrls: ['./chart.component.scss']
 })
 export class ChartComponent implements OnInit, OnChanges, OnDestroy {
@@ -593,7 +593,7 @@ import { DatasetService } from '../../services/dataset.service';
 
 @Component({
   selector: 'app-data-upload',
-  templateUrl: './data-upload.component.html',
+  templateUrl: './data-upload.component/',
   styleUrls: ['./data-upload.component.scss']
 })
 export class DataUploadComponent implements OnInit {
@@ -1181,7 +1181,7 @@ describe('Chart Routes', () => {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/data-viz-platform",
-            "index": "src/index.html",
+            "index": "src/index/",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
@@ -1314,6 +1314,6 @@ module.exports = app;
 ---
 
 ## 🔗 Related Projects
-- **Previous Project**: [Project 3: Project Management Tool](../Full_Stack/Project_3_Project_Management_Tool.html)
-- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html)
-- **Main README**: [Repository Overview](../../README.html)
+- **Previous Project**: [Project 3: Project Management Tool](../Full_Stack/Project_3_Project_Management_Tool/)
+- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)
+- **Main README**: [Repository Overview](../../README)

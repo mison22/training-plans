@@ -1,7 +1,7 @@
 # Project 2: Data Processing Platform
 *Backend Intensive Plan - Weeks 3-4*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive/)** | 🏠 **[Back to README](../../README)**
 
 ## 🎯 Project Overview
 
@@ -942,7 +942,7 @@ SMTP_PASSWORD=your-app-password
 ---
 
 ## 🔗 Related Projects
-- **Previous Project**: [Project 1: E-commerce API Platform](../Backend_Intensive/Project_1_E_Commerce_API.html)
-- **Next Project**: [Project 3: Real-time Application](../Backend_Intensive/Project_3_Real_Time_Application.html)
-- **Training Plan**: [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)
-- **Main README**: [Repository Overview](../../README.html)
+- **Previous Project**: [Project 1: E-commerce API Platform](../Backend_Intensive/Project_1_E_Commerce_API/)
+- **Next Project**: [Project 3: Real-time Application](../Backend_Intensive/Project_3_Real_Time_Application/)
+- **Training Plan**: [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive/)
+- **Main README**: [Repository Overview](../../README)

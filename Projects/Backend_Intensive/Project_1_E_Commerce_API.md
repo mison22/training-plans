@@ -1,7 +1,7 @@
 # Project 1: E-commerce API Platform
 *Backend Intensive Plan - Weeks 1-2*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive/)** | 🏠 **[Back to README](../../README)**
 
 ## 🎯 Project Overview
 
@@ -890,8 +890,8 @@ CMD ["bundle", "exec", "rails", "server", "-b", "0.0.0.0", "-e", "production"]
 
 ### Essential Reading
 - [Rails Guides](https://guides.rubyonrails.org/) - Framework fundamentals
-- [Active Record Documentation](https://guides.rubyonrails.org/active_record_basics.html) - ORM
-- [Rails API Documentation](https://guides.rubyonrails.org/api_app.html) - API development
+- [Active Record Documentation](https://guides.rubyonrails.org/active_record_basics/) - ORM
+- [Rails API Documentation](https://guides.rubyonrails.org/api_app/) - API development
 - [RSpec Documentation](https://rspec.info/documentation/) - Testing framework
 
 ### Udemy Courses (Focus Sections)
@@ -933,6 +933,6 @@ CMD ["bundle", "exec", "rails", "server", "-b", "0.0.0.0", "-e", "production"]
 ---
 
 ## 🔗 Related Projects
-- **Next Project**: [Project 2: Data Processing Platform](../Backend_Intensive/Project_2_Data_Processing_Platform.html)
-- **Training Plan**: [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)
-- **Main README**: [Repository Overview](../../README.html)
+- **Next Project**: [Project 2: Data Processing Platform](../Backend_Intensive/Project_2_Data_Processing_Platform/)
+- **Training Plan**: [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive/)
+- **Main README**: [Repository Overview](../../README)

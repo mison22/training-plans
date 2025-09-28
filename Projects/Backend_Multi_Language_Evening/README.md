@@ -6,22 +6,22 @@ This directory contains 4 comprehensive projects designed for the 12-week Backen
 
 ## Project Structure
 
-### [Project 1: Personal Portfolio API](./Project_1_Personal_Portfolio_API.html)
+### [Project 1: Personal Portfolio API](./Project_1_Personal_Portfolio_API/)
 **Duration**: 3 weeks (Weeks 1-3)  
 **Focus**: Multi-language fundamentals, Ruby on Rails, Python FastAPI, Node.js Express  
 **Technologies**: Ruby on Rails, Python FastAPI, Node.js Express, PostgreSQL, JWT
 
-### [Project 2: Blog Management System](./Project_2_Blog_Management_System.html)
+### [Project 2: Blog Management System](./Project_2_Blog_Management_System/)
 **Duration**: 3 weeks (Weeks 4-6)  
 **Focus**: Database integration, authentication, API design across languages  
 **Technologies**: Ruby on Rails, Python FastAPI, Node.js Express, PostgreSQL, Redis
 
-### [Project 3: Task Management API](./Project_3_Task_Management_API.html)
+### [Project 3: Task Management API](./Project_3_Task_Management_API/)
 **Duration**: 3 weeks (Weeks 7-9)  
 **Focus**: Advanced features, testing, performance optimization  
 **Technologies**: Ruby on Rails, Python FastAPI, Node.js Express, PostgreSQL, Redis, WebSockets
 
-### [Project 4: E-commerce Microservices](./Project_4_E_Commerce_Microservices.html)
+### [Project 4: E-commerce Microservices](./Project_4_E_Commerce_Microservices/)
 **Duration**: 3 weeks (Weeks 10-12)  
 **Focus**: Microservices architecture, cloud deployment, monitoring  
 **Technologies**: Ruby on Rails, Python FastAPI, Node.js Express, gRPC, Kubernetes, Docker
@@ -148,7 +148,7 @@ This directory contains 4 comprehensive projects designed for the 12-week Backen
 ### **Node.js Express Learning Resources**
 - [Express Documentation](https://expressjs.com/) - Framework reference
 - [Node.js Documentation](https://nodejs.org/docs/) - Runtime reference
-- [Express Best Practices](https://expressjs.com/en/advanced/best-practice-performance.html) - Best practices
+- [Express Best Practices](https://expressjs.com/en/advanced/best-practice-performance/) - Best practices
 
 ### **Community & Support**
 - [Ruby Community](https://www.ruby-lang.org/en/community/) - Ruby discussions

@@ -1,7 +1,7 @@
 # Backend Intensive Projects
 *Detailed project specifications for the Backend Intensive Plan (Ruby/Python/Node.js)*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive/)** | 🏠 **[Back to README](../../README)**
 
 ## 🎯 Project Overview
 
@@ -17,7 +17,7 @@ This directory contains detailed specifications for all 4 projects in the Backen
 
 ## 📋 Project List
 
-### [Project 1: E-commerce API Platform](./Project_1_E_Commerce_API.html)
+### [Project 1: E-commerce API Platform](./Project_1_E_Commerce_API/)
 **Duration**: 2 weeks | **Focus**: Rails API development, MVC architecture, rapid prototyping
 
 **Technologies**: Ruby on Rails + PostgreSQL + Redis  
@@ -36,7 +36,7 @@ This directory contains detailed specifications for all 4 projects in the Backen
 
 ---
 
-### [Project 2: Data Processing Platform](./Project_2_Data_Processing_Platform.html)
+### [Project 2: Data Processing Platform](./Project_2_Data_Processing_Platform/)
 **Duration**: 2 weeks | **Focus**: Data processing, ETL pipelines, analytics
 
 **Technologies**: Python + FastAPI + Django + PostgreSQL + Redis + Celery  
@@ -55,7 +55,7 @@ This directory contains detailed specifications for all 4 projects in the Backen
 
 ---
 
-### [Project 3: Real-time Application](./Project_3_Real_Time_Application.html)
+### [Project 3: Real-time Application](./Project_3_Real_Time_Application/)
 **Duration**: 2 weeks | **Focus**: Real-time communication, WebSockets, event-driven architecture
 
 **Technologies**: Node.js + Express + MongoDB + Redis + Socket.io + Bull Queue  
@@ -74,7 +74,7 @@ This directory contains detailed specifications for all 4 projects in the Backen
 
 ---
 
-### [Project 4: Production System](./Project_4_Production_System.html)
+### [Project 4: Production System](./Project_4_Production_System/)
 **Duration**: 2 weeks | **Focus**: Production deployment, multi-service orchestration, business operations
 
 **Technologies**: Multi-language system (Rails + Python + Node.js) + AWS + Docker + Kubernetes  
@@ -175,7 +175,7 @@ By completing all 4 projects, you will have built:
 
 ## 🚀 Getting Started
 
-1. **Review the Training Plan**: Start with the [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)
+1. **Review the Training Plan**: Start with the [Backend Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive/)
 2. **Set Up Development Environment**: Follow the setup instructions for each language/framework
 3. **Follow Weekly Schedule**: Complete projects in order for maximum learning
 4. **Track Progress**: Use the success criteria and checklists in each project
@@ -185,9 +185,9 @@ By completing all 4 projects, you will have built:
 
 ## 🔗 Navigation
 
-- **[Project 1: E-commerce API Platform](./Project_1_E_Commerce_API.html)** ← Start Here
-- **[Project 2: Data Processing Platform](./Project_2_Data_Processing_Platform.html)**
-- **[Project 3: Real-time Application](./Project_3_Real_Time_Application.html)**
-- **[Project 4: Production System](./Project_4_Production_System.html)**
-- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive.html)**
-- **[Main README](../../README.html)**
+- **[Project 1: E-commerce API Platform](./Project_1_E_Commerce_API/)** ← Start Here
+- **[Project 2: Data Processing Platform](./Project_2_Data_Processing_Platform/)**
+- **[Project 3: Real-time Application](./Project_3_Real_Time_Application/)**
+- **[Project 4: Production System](./Project_4_Production_System/)**
+- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_Intensive/)**
+- **[Main README](../../README)**

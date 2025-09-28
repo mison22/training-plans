@@ -79,7 +79,7 @@ blog-api/
 **Resources:**
 - [RBAC Patterns](https://en.wikipedia.org/wiki/Role-based_access_control) - Access control
 - [JWT Claims](https://tools.ietf.org/html/rfc7519) - Token specification
-- [GORM Hooks](https://gorm.io/docs/hooks.html) - Database hooks
+- [GORM Hooks](https://gorm.io/docs/hooks/) - Database hooks
 
 ### **Day 3-4: Blog Content Management**
 **Evening Schedule (2.5 hours):**
@@ -101,9 +101,9 @@ blog-api/
 - Create search functionality
 
 **Resources:**
-- [GORM Associations](https://gorm.io/docs/associations.html) - Data relationships
-- [PostgreSQL Full-Text Search](https://www.postgresql.org/docs/current/textsearch.html) - Search
-- [GORM Scopes](https://gorm.io/docs/scopes.html) - Query scopes
+- [GORM Associations](https://gorm.io/docs/associations/) - Data relationships
+- [PostgreSQL Full-Text Search](https://www.postgresql.org/docs/current/textsearch/) - Search
+- [GORM Scopes](https://gorm.io/docs/scopes/) - Query scopes
 
 ### **Day 5: Comment System**
 **Evening Schedule (2.5 hours):**
@@ -127,7 +127,7 @@ blog-api/
 **Resources:**
 - [Nested Sets](https://en.wikipedia.org/wiki/Nested_set_model) - Tree structure
 - [Comment Moderation](https://en.wikipedia.org/wiki/Comment_moderation) - Moderation
-- [GORM Preloading](https://gorm.io/docs/preload.html) - Eager loading
+- [GORM Preloading](https://gorm.io/docs/preload/) - Eager loading
 
 ## Week 2: Caching & Performance Optimization
 
@@ -199,8 +199,8 @@ blog-api/
 - Create performance monitoring
 
 **Resources:**
-- [PostgreSQL Performance](https://www.postgresql.org/docs/current/performance-tips.html) - Database
-- [GORM Performance](https://gorm.io/docs/performance.html) - ORM optimization
+- [PostgreSQL Performance](https://www.postgresql.org/docs/current/performance-tips/) - Database
+- [GORM Performance](https://gorm.io/docs/performance/) - ORM optimization
 - [Go Profiling](https://golang.org/pkg/runtime/pprof/) - Performance profiling
 
 ## Week 3: Advanced Features & Production Deployment

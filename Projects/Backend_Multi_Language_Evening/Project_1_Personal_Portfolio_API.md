@@ -84,9 +84,9 @@ Build a personal portfolio API using Ruby on Rails, Python FastAPI, and Node.js 
 - Create API documentation
 
 **Resources:**
-- [Rails API](https://guides.rubyonrails.org/api_app.html) - API mode
+- [Rails API](https://guides.rubyonrails.org/api_app/) - API mode
 - [Jbuilder](https://github.com/rails/jbuilder) - JSON builder
-- [Rails API Documentation](https://guides.rubyonrails.org/api_app.html) - API docs
+- [Rails API Documentation](https://guides.rubyonrails.org/api_app/) - API docs
 
 ### **Day 5: Rails Testing & Deployment**
 **Evening Schedule (2.5 hours):**
@@ -110,7 +110,7 @@ Build a personal portfolio API using Ruby on Rails, Python FastAPI, and Node.js 
 **Resources:**
 - [RSpec](https://rspec.info/) - Testing framework
 - [Factory Bot](https://github.com/thoughtbot/factory_bot) - Test data
-- [Rails Deployment](https://guides.rubyonrails.org/deployment.html) - Deployment guide
+- [Rails Deployment](https://guides.rubyonrails.org/deployment/) - Deployment guide
 
 ## Week 2: Python FastAPI Development
 
@@ -210,7 +210,7 @@ Build a personal portfolio API using Ruby on Rails, Python FastAPI, and Node.js 
 **Resources:**
 - [Express Documentation](https://expressjs.com/) - Official docs
 - [Node.js Documentation](https://nodejs.org/docs/) - Runtime reference
-- [Express Middleware](https://expressjs.com/en/guide/using-middleware.html) - Middleware
+- [Express Middleware](https://expressjs.com/en/guide/using-middleware/) - Middleware
 
 ### **Day 3-4: Express Advanced Features**
 **Evening Schedule (2.5 hours):**
@@ -232,7 +232,7 @@ Build a personal portfolio API using Ruby on Rails, Python FastAPI, and Node.js 
 - Create API documentation
 
 **Resources:**
-- [Express Error Handling](https://expressjs.com/en/guide/error-handling.html) - Error handling
+- [Express Error Handling](https://expressjs.com/en/guide/error-handling/) - Error handling
 - [Joi](https://joi.dev/) - Validation library
 - [Swagger](https://swagger.io/) - API documentation
 

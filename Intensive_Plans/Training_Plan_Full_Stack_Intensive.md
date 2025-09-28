@@ -4,7 +4,7 @@
 ## Executive Summary
 This intensive plan is designed for 4 hours of daily study, allowing you to master full-stack development with TypeScript + React (71.4% of jobs), Ruby on Rails (46.4% of jobs), and Python (17.9% of jobs) in just 8 weeks instead of 12. You'll build complete applications from frontend to backend with deeper practice, more projects, and accelerated learning.
 
-📋 **[View Detailed Projects](../Projects/Full_Stack/)** | 🏠 **[Back to README](../README.html)**
+📋 **[View Detailed Projects](../Projects/Full_Stack/)** | 🏠 **[Back to README](../README)**
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 
 2. **Quick Prep Courses**
    - [TypeScript Fundamentals](https://www.typescriptlang.org/docs/) - First 3 sections
-   - [React Basics](https://reactjs.org/tutorial/tutorial.html) - React tutorial
+   - [React Basics](https://reactjs.org/tutorial/tutorial/) - React tutorial
    - [Ruby Fundamentals](https://ruby-doc.org/) - First 3 sections
 
 3. **Assessment**
@@ -449,7 +449,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 1: E-commerce Platform (Weeks 1-2)
 - **Frontend**: React + TypeScript + Tailwind CSS
 - **Backend**: Rails API + PostgreSQL
-- 📝 **[Detailed Requirements](../Projects/Full_Stack/Project_1_E_Commerce_Platform.html)**
+- 📝 **[Detailed Requirements](../Projects/Full_Stack/Project_1_E_Commerce_Platform/)**
 - **Features**: User auth, product catalog, shopping cart, payments
 - **Testing**: 90%+ test coverage
 - **Timeline**: 2 weeks
@@ -457,7 +457,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 2: Social Media Dashboard (Weeks 3-4)
 - **Frontend**: Next.js + TypeScript
 - **Backend**: FastAPI + PostgreSQL
-- 📝 **[Detailed Requirements](../Projects/Full_Stack/Project_2_Social_Media_Dashboard.html)**
+- 📝 **[Detailed Requirements](../Projects/Full_Stack/Project_2_Social_Media_Dashboard/)**
 - **Features**: Real-time updates, user profiles, content management
 - **Integration**: Multi-service architecture
 - **Timeline**: 2 weeks
@@ -465,7 +465,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 3: Project Management Tool (Weeks 5-6)
 - **Frontend**: React + TypeScript + modern CSS
 - **Backend**: Rails + Python + Node.js
-- 📝 **[Detailed Requirements](../Projects/Full_Stack/Project_3_Project_Management_Tool.html)**
+- 📝 **[Detailed Requirements](../Projects/Full_Stack/Project_3_Project_Management_Tool/)**
 - **Features**: Real-time collaboration, file uploads, notifications
 - **Performance**: Optimized for high usage
 - **Timeline**: 2 weeks
@@ -473,7 +473,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 ### Project 4: Data Visualization Platform (Weeks 7-8)
 - **Frontend**: React + TypeScript + D3.js
 - **Backend**: Python/FastAPI + PostgreSQL
-- 📝 **[Detailed Requirements](../Projects/Full_Stack/Project_4_Data_Visualization_Platform.html)**
+- 📝 **[Detailed Requirements](../Projects/Full_Stack/Project_4_Data_Visualization_Platform/)**
 - **Features**: Data processing, interactive charts, export functionality
 - **Infrastructure**: AWS deployment with monitoring
 - **Timeline**: 2 weeks
@@ -572,8 +572,8 @@ By completing this intensive plan, you will have:
 ## Support & Community
 
 ### Learning Resources
-- [React Community](https://reactjs.org/community/support.html) - React support
-- [Vue.js Community](https://vuejs.org/about/community-guide.html) - Vue.js community
+- [React Community](https://reactjs.org/community/support/) - React support
+- [Vue.js Community](https://vuejs.org/about/community-guide/) - Vue.js community
 - [Angular Community](https://angular.io/community) - Angular community
 - [Python Community](https://www.python.org/community/) - Python community
 - [Ruby Community](https://www.ruby-lang.org/en/community/) - Ruby community

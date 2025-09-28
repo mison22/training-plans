@@ -4,7 +4,7 @@
 ## Executive Summary
 This evening training plan is designed for working professionals who can dedicate 2-3 hours per evening (Monday-Friday) to learning Go backend development. The program spans 12 weeks and focuses on high-performance, concurrent systems while respecting your work-life balance.
 
-📋 **[View Detailed Projects](../Projects/Go_Backend/)** | 🏠 **[Back to README](../README.html)**
+📋 **[View Detailed Projects](../Projects/Go_Backend/)** | 🏠 **[Back to README](../README)**
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ This evening training plan is designed for working professionals who can dedicat
 
 2. **Quick Prep Courses**
    - [Go Tour](https://tour.golang.org/) - Complete the tour
-   - [Effective Go](https://golang.org/doc/effective_go.html) - Read first 3 sections
+   - [Effective Go](https://golang.org/doc/effective_go/) - Read first 3 sections
 
 3. **Assessment**
    - Complete Go basics assessment
@@ -212,7 +212,7 @@ This evening training plan is designed for working professionals who can dedicat
 - **Assignment**: High-performance API
 
 #### 📖 Learning Resources
-- [Go Concurrency Patterns](https://golang.org/doc/effective_go.html#concurrency) - Concurrency guide
+- [Go Concurrency Patterns](https://golang.org/doc/effective_go/#concurrency) - Concurrency guide
 - **Udemy**: [Go: The Complete Developer's Guide](https://www.udemy.com/course/go-the-complete-developers-guide/) (Sections 6-7)
 - **Coursera**: [Concurrent Programming](https://www.coursera.org/learn/concurrent-programming) (Week 4)
 - **Skillshare**: [Go Concurrency Mastery](https://www.skillshare.com/classes/Go-Concurrency-Mastery/) (Week 4)

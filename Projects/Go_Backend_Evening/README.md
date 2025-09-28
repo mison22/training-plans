@@ -6,22 +6,22 @@ This directory contains 4 comprehensive projects designed for the 12-week Go Bac
 
 ## Project Structure
 
-### [Project 1: Personal Portfolio API](./Project_1_Personal_Portfolio_API.html)
+### [Project 1: Personal Portfolio API](./Project_1_Personal_Portfolio_API/)
 **Duration**: 3 weeks (Weeks 1-3)  
 **Focus**: Go fundamentals, Gin framework, basic CRUD operations  
 **Technologies**: Go, Gin, GORM, PostgreSQL, JWT
 
-### [Project 2: Blog Management System](./Project_2_Blog_Management_System.html)
+### [Project 2: Blog Management System](./Project_2_Blog_Management_System/)
 **Duration**: 3 weeks (Weeks 4-6)  
 **Focus**: Database integration, authentication, API design  
 **Technologies**: Go, Gin, GORM, PostgreSQL, Redis, Swagger
 
-### [Project 3: Task Management API](./Project_3_Task_Management_API.html)
+### [Project 3: Task Management API](./Project_3_Task_Management_API/)
 **Duration**: 3 weeks (Weeks 7-9)  
 **Focus**: Advanced features, testing, performance optimization  
 **Technologies**: Go, Gin, PostgreSQL, Redis, WebSockets, Docker
 
-### [Project 4: E-commerce Microservices](./Project_4_E_Commerce_Microservices.html)
+### [Project 4: E-commerce Microservices](./Project_4_E_Commerce_Microservices/)
 **Duration**: 3 weeks (Weeks 10-12)  
 **Focus**: Microservices architecture, cloud deployment, monitoring  
 **Technologies**: Go, Gin, gRPC, Kubernetes, Docker, AWS, Prometheus
@@ -136,7 +136,7 @@ This directory contains 4 comprehensive projects designed for the 12-week Go Bac
 
 ### **Go Learning Resources**
 - [Go Documentation](https://golang.org/doc/) - Official documentation
-- [Effective Go](https://golang.org/doc/effective_go.html) - Best practices
+- [Effective Go](https://golang.org/doc/effective_go/) - Best practices
 - [Go Playground](https://play.golang.org/) - Online compiler
 
 ### **Gin Learning Resources**

@@ -4,7 +4,7 @@
 ## Executive Summary
 This intensive plan is designed for 7-8 hours of daily study, allowing you to master Go backend development with Gin, Echo, gRPC, and microservices in just 8 weeks. You'll gain deep expertise in concurrent programming, cloud-native development, and high-performance systems, making you highly valuable for Go-focused roles.
 
-📋 **[View Detailed Projects](../Projects/Go_Backend/)** | 🏠 **[Back to README](../README.html)**
+📋 **[View Detailed Projects](../Projects/Go_Backend/)** | 🏠 **[Back to README](../README)**
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
 
 2. **Quick Prep Courses**
    - [Go Tour](https://tour.golang.org/) - Complete the tour
-   - [Effective Go](https://golang.org/doc/effective_go.html) - Read first 3 sections
+   - [Effective Go](https://golang.org/doc/effective_go/) - Read first 3 sections
 
 3. **Assessment**
    - Complete Go basics assessment
@@ -260,7 +260,7 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
 - **Mini Projects**: Load testing and optimization
 
 #### 📖 Learning Resources
-- [Go Performance Optimization](https://golang.org/doc/diagnostics.html) - Performance tuning
+- [Go Performance Optimization](https://golang.org/doc/diagnostics/) - Performance tuning
 - [Redis Documentation](https://redis.io/documentation) - Caching
 - [Go Benchmarks](https://golang.org/pkg/testing/#hdr-Benchmarks) - Benchmarking
 - **Udemy Courses**: [High-Performance Go Programming](https://www.udemy.com/course/high-performance-go-programming/) (Sections 1-5), [Redis Complete Guide](https://www.udemy.com/course/redis-complete-guide/) (Sections 1-3)
@@ -308,7 +308,7 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
 #### 📖 Learning Resources
 - [Kafka Documentation](https://kafka.apache.org/documentation/) - Message streaming
 - [NATS Documentation](https://docs.nats.io/) - Messaging system
-- [Event Sourcing Patterns](https://microservices.io/patterns/data/event-sourcing.html) - Architecture patterns
+- [Event Sourcing Patterns](https://microservices.io/patterns/data/event-sourcing/) - Architecture patterns
 - **Udemy Courses**: [Apache Kafka Series - Kafka Streams](https://www.udemy.com/course/kafka-streams/) (Sections 1-4), [Event-Driven Architecture](https://www.udemy.com/course/event-driven-architecture/) (Sections 1-3)
 - **Coursera**: [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing) (Week 5), [Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) (Week 5)
 - **Skillshare**: [Event-Driven Architecture](https://www.skillshare.com/classes/Event-Driven-Architecture/) (Week 5), [Apache Kafka Mastery](https://www.skillshare.com/classes/Apache-Kafka-Mastery/) (Week 5)

@@ -434,7 +434,7 @@ spec:
 
 ### Tutorials
 - [Pandas Tutorial](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)
-- [Airflow Tutorial](https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html)
+- [Airflow Tutorial](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/)
 - [Kafka Tutorial](https://kafka.apache.org/quickstart)
 
 ---

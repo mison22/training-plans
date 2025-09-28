@@ -1,7 +1,7 @@
 # Project 2: Social Media Backend API
 *Backend TypeScript Intensive Plan - Weeks 3-4*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive/)** | 🏠 **[Back to README](../../README)**
 
 ## 🎯 Project Overview
 
@@ -671,7 +671,7 @@ CMD ["npm", "run", "start:prod"]
 ---
 
 ## 🔗 Related Projects
-- **Previous Project**: [Project 1: E-commerce API Platform](../Backend_TypeScript/Project_1_E_Commerce_API.html)
-- **Next Project**: [Project 3: Data Processing Microservices](../Backend_TypeScript/Project_3_Data_Processing_Microservices.html)
-- **Training Plan**: [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html)
-- **Main README**: [Repository Overview](../../README.html)
+- **Previous Project**: [Project 1: E-commerce API Platform](../Backend_TypeScript/Project_1_E_Commerce_API/)
+- **Next Project**: [Project 3: Data Processing Microservices](../Backend_TypeScript/Project_3_Data_Processing_Microservices/)
+- **Training Plan**: [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive/)
+- **Main README**: [Repository Overview](../../README)
