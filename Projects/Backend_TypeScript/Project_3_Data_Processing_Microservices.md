@@ -1,7 +1,7 @@
 # Project 3: Data Processing Microservices
 *Backend TypeScript Intensive Plan - Weeks 5-6*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html/)** | 🏠 **[Back to README](../../README.html)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive/)** | 🏠 **[Back to README](../../README)**
 
 ## 🎯 Project Overview
 
@@ -575,5 +575,5 @@ RABBITMQ_URL=amqp://localhost:5672
 ## 🔗 Related Projects
 - **Previous Project**: [Project 2: Social Media Backend API](../Backend_TypeScript/Project_2_Social_Media_API/)
 - **Next Project**: [Project 4: Production System](../Backend_TypeScript/Project_4_Production_System/)
-- **Training Plan**: [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html/)
-- **Main README**: [Repository Overview](../../README.html)
+- **Training Plan**: [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive/)
+- **Main README**: [Repository Overview](../../README)

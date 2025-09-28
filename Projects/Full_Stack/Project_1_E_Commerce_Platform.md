@@ -1,7 +1,7 @@
 # Project 1: E-commerce Platform
 *Full Stack Intensive Plan - Weeks 1-2*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)** | 🏠 **[Back to README](../../README.html)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)** | 🏠 **[Back to README](../../README)**
 
 ## 🎯 Project Overview
 
@@ -797,5 +797,5 @@ end
 
 ## 🔗 Related Projects
 - **Next Project**: [Project 2: Social Media Dashboard](../Full_Stack/Project_2_Social_Media_Dashboard/)
-- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)
-- **Main README**: [Repository Overview](../../README.html)
+- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)
+- **Main README**: [Repository Overview](../../README)

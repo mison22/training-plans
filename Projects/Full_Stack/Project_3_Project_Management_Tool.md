@@ -1,7 +1,7 @@
 # Project 3: Project Management Tool
 *Full Stack Intensive Plan - Weeks 5-6*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)** | 🏠 **[Back to README](../../README.html)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)** | 🏠 **[Back to README](../../README)**
 
 ## 🎯 Project Overview
 
@@ -1288,5 +1288,5 @@ REST_FRAMEWORK = {
 ## 🔗 Related Projects
 - **Previous Project**: [Project 2: Social Media Dashboard](../Full_Stack/Project_2_Social_Media_Dashboard/)
 - **Next Project**: [Project 4: Data Visualization Platform](../Full_Stack/Project_4_Data_Visualization_Platform/)
-- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)
-- **Main README**: [Repository Overview](../../README.html)
+- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)
+- **Main README**: [Repository Overview](../../README)
