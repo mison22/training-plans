@@ -206,13 +206,34 @@ This plan focuses on becoming a **full-stack developer** with strong frontend sk
 
 ---
 
-## Daily Study Schedule
+## Daily Study Schedule (Full-Time Focus)
 
-### Morning Routine (1 hour)
+### Morning Routine (9:00 AM - 11:00 AM)
 - **Theory**: Documentation, tutorials, best practices
 - **Focus**: Understanding concepts and patterns
 
-### Evening Routine (1-2 hours)
+### Mid-Morning Practice (11:00 AM - 12:00 PM)
+- **Practice**: Hands-on coding exercises and mini-projects
+- **Focus**: Applying morning concepts through practical implementation
+- **Activities**: Code reviews, debugging exercises, small feature implementations
+
+### Afternoon Leetcode Session (1:00 PM - 3:00 PM)
+- **Practice**: Algorithm and data structure problems
+- **Focus**: Coding interview preparation and problem-solving skills
+- **Resources**: 
+  - LeetCode, HackerRank, CodeSignal
+  - **Udemy**: [LeetCode in Python: 50 Algorithms Coding Interview Questions](https://www.udemy.com/course/leetcode-in-python-50-algorithms-coding-interview-questions/)
+  - **Udemy**: [Data Structures & Algorithms in Python - Self Paced](https://www.udemy.com/course/data-structures-algorithms-python/)
+
+### System Design Session (3:30 PM - 4:30 PM)
+- **Theory & Practice**: System design concepts and architecture patterns
+- **Focus**: Scalable system design, microservices, database design
+- **Resources**: 
+  - System Design Interview books, High Scalability articles
+  - **Udemy**: [System Design Interview Questions - An Insider's Guide](https://www.udemy.com/course/system-design-interview-questions/)
+  - **Udemy**: [Grokking the System Design Interview](https://www.udemy.com/course/grokking-the-system-design-interview/)
+
+### Evening Practice (6:00 PM - 8:00 PM)
 - **Practice**: Hands-on coding and projects
 - **Focus**: Building and implementing
 

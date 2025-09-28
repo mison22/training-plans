@@ -46,8 +46,21 @@ Based on our analysis of 28 software engineering job postings:
 
 📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Backend_Intensive/)**
 
-### 3. **Full Stack Intensive**
-**Duration**: 8 weeks | **Time**: 4 hours/day | **Focus**: Complete application development
+### 3. **Python Backend Intensive** ⭐ *New*
+**Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Python backend specialization
+
+**Technologies**: FastAPI, Django, Flask, PostgreSQL, MongoDB, Redis, Apache Airflow, Kafka
+- **Project 1**: FastAPI E-commerce Platform (Weeks 1-2)
+- **Project 2**: Django Social Media API (Weeks 3-4)
+- **Project 3**: Flask Microservices Platform (Weeks 5-6)
+- **Project 4**: Python Data Processing System (Weeks 7-8)
+
+**Why Choose This**: Deep Python backend expertise, data processing, ML integration, and microservices architecture.
+
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Python_Backend_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Python_Backend/)**
+
+### 4. **Full Stack Intensive**
+**Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Complete application development
 
 **Technologies**: TypeScript, React, Ruby/Rails, Python/FastAPI, PostgreSQL, AWS
 - **Project 1**: E-commerce Platform (Weeks 1-2)
@@ -59,10 +72,10 @@ Based on our analysis of 28 software engineering job postings:
 
 📋 **[View Training Plan](Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Full_Stack/)**
 
-### 4. **Alternative Plans** (12-week versions)
-- **[Backend TypeScript](Training_Plans/Training_Plan_Backend_TypeScript.md)** (2-3 hours/day)
-- **[Backend Multi-language](Training_Plans/Training_Plan_Backend.md)** (2-3 hours/day)
-- **[Full Stack](Training_Plans/Training_Plan_Full_Stack.md)** (2-3 hours/day)
+### 5. **Alternative Plans** (12-week versions)
+- **[Backend TypeScript](Training_Plans/Training_Plan_Backend_TypeScript.md)** (7-8 hours/day)
+- **[Backend Multi-language](Training_Plans/Training_Plan_Backend.md)** (7-8 hours/day)
+- **[Full Stack](Training_Plans/Training_Plan_Full_Stack.md)** (7-8 hours/day)
 - **[No Go/Java](Training_Plans/Training_Plan_No_Go_No_Java.md)** (focuses on TypeScript + Rails + Python)
 - **[No Go/Java/Full Stack](Training_Plans/Training_Plan_No_Go_No_Java.md)** (TypeScript + React + Rails + Python)
 - **[Original with Go](Training_Plans/Training_Plan.md)** (includes Go, Java, Spring)
@@ -84,10 +97,12 @@ Based on our analysis of 28 software engineering job postings:
 ├── Intensive_Plans/                             # 8-week intensive plans
 │   ├── Training_Plan_Backend_TypeScript_Intensive.md
 │   ├── Training_Plan_Backend_Intensive.md
+│   ├── Training_Plan_Python_Backend_Intensive.md
 │   └── Training_Plan_Full_Stack_Intensive.md
 └── Projects/                                   # Detailed project specifications
     ├── Backend_TypeScript/                    # NestJS + TypeScript projects
     ├── Backend_Intensive/                     # Ruby/Python/Node.js projects
+    ├── Python_Backend/                       # Python backend projects
     ├── Full_Stack/                           # Complete full-stack projects
     └── README.md                             # Project overview and comparison
 ```
@@ -110,12 +125,19 @@ Based on our analysis of 28 software engineering job postings:
 - ✅ You enjoy learning multiple frameworks
 - ✅ You have 4 hours/day available for intensive study
 
+### **Choose Python Backend Intensive if:**
+- ✅ You want to specialize in Python backend development
+- ✅ You're interested in data processing and ML integration
+- ✅ You want to work with microservices architecture
+- ✅ You enjoy working with multiple Python frameworks
+- ✅ You have 7-8 hours/day available for intensive study
+
 ### **Choose Full Stack Intensive if:**
 - ✅ You want to build complete applications
 - ✅ You enjoy both frontend and backend development
 - ✅ You want to work at startups or small teams
 - ✅ You want to see the full picture from UI to database
-- ✅ You have 4 hours/day available for intensive study
+- ✅ You have 7-8 hours/day available for intensive study
 
 ### **Choose 12-week Plans if:**
 - ✅ You have 2-3 hours/day available
@@ -194,6 +216,7 @@ Review the training plans above and select the one that aligns with your goals a
 Read the detailed project requirements for your chosen path to understand what you'll be building:
 - [Backend TypeScript Detailed Projects](Projects/Backend_TypeScript/)
 - [Backend Multi-language Detailed Projects](Projects/Backend_Intensive/)
+- [Python Backend Detailed Projects](Projects/Python_Backend/)
 - [Full Stack Detailed Projects](Projects/Full_Stack/)
 
 ### **Step 3: Set Up Your Environment**

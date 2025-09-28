@@ -33,20 +33,44 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
    - Review web development concepts
    - Practice with HTML/CSS basics
 
-### Daily Routine
-- **Morning (2h)**: Theory and documentation study
-- **Evening (2h)**: Hands-on coding and project work
+### Daily Routine (Full-Time Focus)
+- **Morning (9:00 AM - 11:00 AM)**: Theory and documentation study
+- **Mid-Morning Practice (11:00 AM - 12:00 PM)**: Hands-on coding exercises and mini-projects
+- **Afternoon Leetcode (1:00 PM - 3:00 PM)**: Algorithm and data structure problems
+- **System Design (3:30 PM - 4:30 PM)**: System design concepts and architecture patterns
+- **Evening (6:00 PM - 8:00 PM)**: Hands-on coding and project work
 - **Weekly Review**: Assess progress and adjust learning plan
 
 ---
 
-## Daily Study Structure (4 Hours)
+## Daily Study Structure (7-8 Hours Full-Time)
 
-### Morning Session (2 hours)
+### Morning Session (9:00 AM - 11:00 AM)
 - **Hour 1**: Theory, documentation, and learning new concepts
 - **Hour 2**: Hands-on coding and implementation
 
-### Evening Session (2 hours)
+### Mid-Morning Practice (11:00 AM - 12:00 PM)
+- **Practice**: Hands-on coding exercises and mini-projects
+- **Focus**: Applying morning concepts through practical implementation
+- **Activities**: Code reviews, debugging exercises, small feature implementations
+
+### Afternoon Leetcode Session (1:00 PM - 3:00 PM)
+- **Practice**: Algorithm and data structure problems
+- **Focus**: Coding interview preparation and problem-solving skills
+- **Resources**: 
+  - LeetCode, HackerRank, CodeSignal
+  - **Udemy**: [LeetCode in Python: 50 Algorithms Coding Interview Questions](https://www.udemy.com/course/leetcode-in-python-50-algorithms-coding-interview-questions/)
+  - **Udemy**: [Data Structures & Algorithms in Python - Self Paced](https://www.udemy.com/course/data-structures-algorithms-python/)
+
+### System Design Session (3:30 PM - 4:30 PM)
+- **Theory & Practice**: System design concepts and architecture patterns
+- **Focus**: Scalable system design, microservices, database design
+- **Resources**: 
+  - System Design Interview books, High Scalability articles
+  - **Udemy**: [System Design Interview Questions - An Insider's Guide](https://www.udemy.com/course/system-design-interview-questions/)
+  - **Udemy**: [Grokking the System Design Interview](https://www.udemy.com/course/grokking-the-system-design-interview/)
+
+### Evening Session (6:00 PM - 8:00 PM)
 - **Hour 1**: Project work and practical application
 - **Hour 2**: Review, testing, and documentation
 
