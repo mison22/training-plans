@@ -1,11 +1,5 @@
-# 🚀 Software Engineering Training Plans
+# Software Engineering Training Plans
 *Comprehensive learning paths based on real job market analysis*
-
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://mison22.github.io/training-plans/)
-[![GitHub](https://img.shields.io/github/stars/mison22/training-plans?style=social)](https://github.com/mison22/training-plans)
-
-## 🌐 Live Website
-**Visit our interactive website: [https://mison22.github.io/training-plans/](https://mison22.github.io/training-plans/)**
 
 ## 📊 Overview
 
