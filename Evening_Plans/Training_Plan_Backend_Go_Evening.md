@@ -4,7 +4,7 @@
 ## Executive Summary
 This evening training plan is designed for working professionals who can dedicate 2-3 hours per evening (Monday-Friday) to learning Go backend development. The program spans 12 weeks and focuses on high-performance, concurrent systems while respecting your work-life balance.
 
-📋 **[View Detailed Projects](../Projects/Go_Backend/)** | 🏠 **[Back to README](../README)**
+📋 **[View Detailed Projects](../Projects/Go_Backend/)** | 🏠 **[Back to README](../README.html)**
 
 ## Getting Started
 

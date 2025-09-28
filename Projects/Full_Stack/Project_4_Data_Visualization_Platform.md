@@ -1,7 +1,7 @@
 # Project 4: Data Visualization Platform
 *Full Stack Intensive Plan - Weeks 7-8*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)** | 🏠 **[Back to README](../../README)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)** | 🏠 **[Back to README](../../README.html)**
 
 ## 🎯 Project Overview
 
@@ -1315,5 +1315,5 @@ module.exports = app;
 
 ## 🔗 Related Projects
 - **Previous Project**: [Project 3: Project Management Tool](../Full_Stack/Project_3_Project_Management_Tool/)
-- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)
-- **Main README**: [Repository Overview](../../README)
+- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)
+- **Main README**: [Repository Overview](../../README.html)

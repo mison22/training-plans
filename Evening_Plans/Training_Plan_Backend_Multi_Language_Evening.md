@@ -4,7 +4,7 @@
 ## Executive Summary
 This evening training plan is designed for working professionals who can dedicate 2-3 hours per evening (Monday-Friday) to learning multi-language backend development. The program spans 12 weeks and covers Ruby on Rails, Python/FastAPI, and Node.js/Express while respecting your work-life balance.
 
-📋 **[View Detailed Projects](../Projects/Backend_Intensive/)** | 🏠 **[Back to README](../README)**
+📋 **[View Detailed Projects](../Projects/Backend_Intensive/)** | 🏠 **[Back to README](../README.html)**
 
 ## Getting Started
 

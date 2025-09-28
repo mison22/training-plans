@@ -1,7 +1,7 @@
 # Backend TypeScript Projects
 *Detailed project specifications for the Backend TypeScript Intensive Plan*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive/)** | 🏠 **[Back to README](../../README)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html/)** | 🏠 **[Back to README](../../README.html)**
 
 ## 🎯 Project Overview
 
@@ -176,7 +176,7 @@ By completing all 4 projects, you will have built:
 
 ## 🚀 Getting Started
 
-1. **Review the Training Plan**: Start with the [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive/)
+1. **Review the Training Plan**: Start with the [Backend TypeScript Intensive Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html/)
 2. **Set Up Environment**: Follow the pre-project preparation in each project
 3. **Follow Weekly Schedule**: Complete projects in order for maximum learning
 4. **Track Progress**: Use the success criteria and checklists in each project
@@ -190,5 +190,5 @@ By completing all 4 projects, you will have built:
 - **[Project 2: Social Media Backend API](./Project_2_Social_Media_API/)**
 - **[Project 3: Data Processing Microservices](./Project_3_Data_Processing_Microservices/)**
 - **[Project 4: Production System](./Project_4_Production_System/)**
-- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive/)**
-- **[Main README](../../README)**
+- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html/)**
+- **[Main README](../../README.html)**

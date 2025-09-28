@@ -1,7 +1,7 @@
 # Training Plan Projects Overview
 *Comprehensive project specifications for all training plans*
 
-🏠 **[Back to Main README](../README)**
+🏠 **[Back to Main README](../README.html)**
 
 ## 🎯 Overview
 
@@ -180,9 +180,9 @@ This directory contains detailed project specifications for all training plans i
 ## 🔗 Quick Navigation
 
 ### Training Plans
-- **[Backend TypeScript Intensive](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive/)**
-- **[Backend Intensive (Ruby/Python/Node.js)](../../Intensive_Plans/Training_Plan_Backend_Intensive/)**
-- **[Full Stack Intensive](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)**
+- **[Backend TypeScript Intensive](../../Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html/)**
+- **[Backend Intensive (Ruby/Python/Node.js)](../../Intensive_Plans/Training_Plan_Backend_Intensive.html/)**
+- **[Full Stack Intensive](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)**
 
 ### Project Directories
 - **[Backend TypeScript Projects](./Backend_TypeScript/)**
@@ -190,6 +190,6 @@ This directory contains detailed project specifications for all training plans i
 - **[Full Stack Projects](./Full_Stack/)**
 
 ### Main Documentation
-- **[Repository README](../README)**
+- **[Repository README](../README.html)**
 - **[Contributing Guidelines](../CONTRIBUTING/)**
 - **[License](../LICENSE)**

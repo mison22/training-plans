@@ -1,7 +1,7 @@
 # Full Stack Intensive Projects
 *Detailed project specifications for the Full Stack Intensive Plan*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)** | 🏠 **[Back to README](../../README)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)** | 🏠 **[Back to README](../../README.html)**
 
 ## 🎯 Project Overview
 
@@ -188,7 +188,7 @@ By completing all 4 projects, you will have built:
 
 ## 🚀 Getting Started
 
-1. **Review the Training Plan**: Start with the [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)
+1. **Review the Training Plan**: Start with the [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)
 2. **Set Up Development Environment**: Follow the setup instructions for each framework
 3. **Follow Weekly Schedule**: Complete projects in order for maximum learning
 4. **Track Progress**: Use the success criteria and checklists in each project
@@ -202,5 +202,5 @@ By completing all 4 projects, you will have built:
 - **[Project 2: Social Media Dashboard](./Project_2_Social_Media_Dashboard/)**
 - **[Project 3: Project Management Tool](./Project_3_Project_Management_Tool/)**
 - **[Project 4: Data Visualization Platform](./Project_4_Data_Visualization_Platform/)**
-- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive/)**
-- **[Main README](../../README)**
+- **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html/)**
+- **[Main README](../../README.html)**
