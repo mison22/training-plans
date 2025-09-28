@@ -1,0 +1,72 @@
+# GitHub Pages Configuration
+title: Software Engineering Training Plans
+description: Comprehensive, structured learning paths for modern software development
+
+# GitHub Pages settings
+baseurl: "/training-plans"
+url: "https://mison22.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Navigation
+navigation:
+  - title: "Intensive Plans"
+    url: "/intensive-plans/"
+  - title: "Evening Plans"
+    url: "/evening-plans/"
+  - title: "Projects"
+    url: "/projects/"
+
+# Collections
+collections:
+  intensive_plans:
+    output: true
+    permalink: /intensive-plans/:name/
+  evening_plans:
+    output: true
+    permalink: /evening-plans/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "intensive_plans"
+    values:
+      layout: "training_plan"
+  - scope:
+      path: ""
+      type: "evening_plans"
+    values:
+      layout: "training_plan"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
