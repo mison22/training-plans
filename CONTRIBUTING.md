@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to this repository! This project aims to provide comprehensive, up-to-date training plans for software engineering roles based on real job market analysis.
 
-🏠 **[Back to README](README.html)** | 📋 **[View All Training Plans](Training_Plans/)** | 🚀 **[View Intensive Plans](Intensive_Plans/)**
+🏠 **[Back to README](README.md)** | 📋 **[View All Training Plans](Training_Plans/)** | 🚀 **[View Intensive Plans](Intensive_Plans/)**
 
 ## 🤝 How to Contribute
 
@@ -60,7 +60,7 @@ git checkout -b feature/your-contribution-name
 - 📋 **[Training Plans](Training_Plans/)** - 12-week comprehensive plans
 - 🚀 **[Intensive Plans](Intensive_Plans/)** - 8-week accelerated plans  
 - 📝 **[Detailed Projects](Projects/)** - Comprehensive project specifications with code examples
-- 📄 **[README.html](README.html)** - Main repository overview
+- 📄 **[README.md](README.md)** - Main repository overview
 
 ### 5. Commit Your Changes
 ```bash

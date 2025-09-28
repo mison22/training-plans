@@ -4,7 +4,7 @@
 ## Executive Summary
 This intensive plan is designed for 7-8 hours of daily study, allowing you to master Go backend development with Gin, Echo, gRPC, and microservices in just 8 weeks. You'll gain deep expertise in concurrent programming, cloud-native development, and high-performance systems, making you highly valuable for Go-focused roles.
 
-📋 **[View Detailed Projects](../Projects/Go_Backend/)** | 🏠 **[Back to README](../README.html)**
+📋 **[View Detailed Projects](../Projects/Go_Backend/)** | 🏠 **[Back to README](../README.md)**
 
 ## Getting Started
 

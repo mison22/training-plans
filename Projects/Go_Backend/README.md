@@ -6,22 +6,22 @@ This directory contains 4 comprehensive projects designed to build expertise in 
 
 ## Project Structure
 
-### [Project 1: E-commerce Microservices Platform](./Project_1_E_Commerce_Microservices.html)
+### [Project 1: E-commerce Microservices Platform](./Project_1_E_Commerce_Microservices.md)
 **Duration**: 2 weeks  
 **Focus**: Go fundamentals, Gin framework, microservices architecture  
 **Technologies**: Go, Gin, GORM, PostgreSQL, Redis, Docker
 
-### [Project 2: Real-time Messaging System](./Project_2_Real_Time_Messaging.html)
+### [Project 2: Real-time Messaging System](./Project_2_Real_Time_Messaging.md)
 **Duration**: 2 weeks  
 **Focus**: WebSockets, gRPC, event-driven architecture  
 **Technologies**: Go, WebSockets, gRPC, NATS, MongoDB, Kubernetes
 
-### [Project 3: High-Performance API Gateway](./Project_3_API_Gateway.html)
+### [Project 3: High-Performance API Gateway](./Project_3_API_Gateway.md)
 **Duration**: 2 weeks  
 **Focus**: Performance optimization, caching, load balancing  
 **Technologies**: Go, Redis, Nginx, Prometheus, Grafana, AWS
 
-### [Project 4: Cloud-Native Data Processing Platform](./Project_4_Data_Processing.html)
+### [Project 4: Cloud-Native Data Processing Platform](./Project_4_Data_Processing.md)
 **Duration**: 2 weeks  
 **Focus**: Cloud-native development, Kubernetes, monitoring  
 **Technologies**: Go, Kubernetes, Apache Kafka, Terraform, AWS EKS

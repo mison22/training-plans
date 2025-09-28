@@ -1,7 +1,7 @@
 # Project 2: Social Media Dashboard
 *Full Stack Intensive Plan - Weeks 3-4*
 
-📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html)** | 🏠 **[Back to README](../../README.html)**
+📋 **[Back to Training Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 🏠 **[Back to README](../../README.md)**
 
 ## 🎯 Project Overview
 
@@ -865,7 +865,7 @@ if __name__ == "__main__":
 ---
 
 ## 🔗 Related Projects
-- **Previous Project**: [Project 1: E-commerce Platform](../Full_Stack/Project_1_E_Commerce_Platform.html)
-- **Next Project**: [Project 3: Project Management Tool](../Full_Stack/Project_3_Project_Management_Tool.html)
-- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.html)
-- **Main README**: [Repository Overview](../../README.html)
+- **Previous Project**: [Project 1: E-commerce Platform](../Full_Stack/Project_1_E_Commerce_Platform.md)
+- **Next Project**: [Project 3: Project Management Tool](../Full_Stack/Project_3_Project_Management_Tool.md)
+- **Training Plan**: [Full Stack Intensive Plan](../../Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)
+- **Main README**: [Repository Overview](../../README.md)

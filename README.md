@@ -65,7 +65,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Best balance of modern technologies, high job market demand, and comprehensive backend skills.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.html)** | 📝 **[View Detailed Projects](Projects/Backend_TypeScript/)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_TypeScript_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Backend_TypeScript/)**
 
 ### 2. **Backend Multi-language Intensive**
 **Duration**: 8 weeks | **Time**: 4 hours/day | **Focus**: Versatile backend development
@@ -78,7 +78,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Maximum versatility across multiple languages, excellent for diverse job opportunities.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Intensive.html)** | 📝 **[View Detailed Projects](Projects/Backend_Intensive/)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Backend_Intensive/)**
 
 ### 3. **Python Backend Intensive** ⭐ *New*
 **Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Python backend specialization
@@ -91,7 +91,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Deep Python backend expertise, data processing, ML integration, and microservices architecture.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_Python_Backend_Intensive.html)** | 📝 **[View Detailed Projects](Projects/Python_Backend/)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Python_Backend_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Python_Backend/)**
 
 ### 4. **Go Backend Intensive** ⭐ *New*
 **Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: High-performance backend development
@@ -104,7 +104,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Master Go for high-performance, concurrent systems. Perfect for cloud-native development, microservices, and scalable backend systems.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Go_Intensive.html)** | 📝 **[View Detailed Projects](Projects/Go_Backend/)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Go_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Go_Backend/)**
 
 ### 5. **.NET/C# Backend Intensive** ⭐ *New*
 **Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Enterprise backend development
@@ -117,7 +117,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Master .NET/C# for enterprise backend systems. Perfect for Microsoft ecosystem, enterprise applications, and cloud-native development.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_DotNet_Backend_Intensive.html)** | 📝 **[View Detailed Projects](Projects/DotNet_Backend/)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_DotNet_Backend_Intensive.md)** | 📝 **[View Detailed Projects](Projects/DotNet_Backend/)**
 
 ### 6. **Full Stack Intensive**
 **Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Complete application development
@@ -130,7 +130,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Complete full-stack capability, perfect for startups and small teams.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_Full_Stack_Intensive.html)** | 📝 **[View Detailed Projects](Projects/Full_Stack/)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Full_Stack_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Full_Stack/)**
 
 ---
 
@@ -148,7 +148,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Perfect for working professionals wanting to master modern backend development.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_TypeScript_Evening.html)** | 📝 **[View Detailed Projects](Projects/Backend_TypeScript_Evening/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_TypeScript_Evening.md)** | 📝 **[View Detailed Projects](Projects/Backend_TypeScript_Evening/)**
 
 ### 2. **Go Backend Evening**
 **Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: High-performance backend development
@@ -161,7 +161,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Master Go for high-performance, concurrent systems and cloud-native development.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_Go_Evening.html)** | 📝 **[View Detailed Projects](Projects/Go_Backend_Evening/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_Go_Evening.md)** | 📝 **[View Detailed Projects](Projects/Go_Backend_Evening/)**
 
 ### 3. **Python Backend Evening**
 **Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Python backend specialization
@@ -174,7 +174,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Deep Python backend expertise with data processing and ML integration.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_Python_Backend_Evening.html)** | 📝 **[View Detailed Projects](Projects/Python_Backend_Evening/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Python_Backend_Evening.md)** | 📝 **[View Detailed Projects](Projects/Python_Backend_Evening/)**
 
 ### 4. **Backend Multi-language Evening**
 **Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Versatile backend development
@@ -187,7 +187,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Maximum versatility across multiple languages, excellent for diverse job opportunities.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_Multi_Language_Evening.html)** | 📝 **[View Detailed Projects](Projects/Backend_Multi_Language_Evening/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_Multi_Language_Evening.md)** | 📝 **[View Detailed Projects](Projects/Backend_Multi_Language_Evening/)**
 
 ### 5. **.NET/C# Backend Evening** ⭐ *New*
 **Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Enterprise backend development
@@ -200,7 +200,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Master .NET/C# for enterprise backend systems. Perfect for Microsoft ecosystem and enterprise applications.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_DotNet_Backend_Evening.html)** | 📝 **[View Detailed Projects](Projects/DotNet_Backend_Evening/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_DotNet_Backend_Evening.md)** | 📝 **[View Detailed Projects](Projects/DotNet_Backend_Evening/)**
 
 ### 6. **Full Stack Evening**
 **Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Complete full-stack development
@@ -213,7 +213,7 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Complete full-stack expertise for working professionals.
 
-📋 **[View Training Plan](Evening_Plans/Training_Plan_Full_Stack_Evening.html)** | 📝 **[View Detailed Projects](Projects/Full_Stack_Evening/)**
+📋 **[View Training Plan](Evening_Plans/Training_Plan_Full_Stack_Evening.md)** | 📝 **[View Detailed Projects](Projects/Full_Stack_Evening/)**
 
 ---
 
@@ -427,7 +427,7 @@ This repository is designed to be a living resource. Contributions are welcome:
 - **Extensions**: Additional project ideas, alternative paths
 
 ### **How to Contribute:**
-1. Read our [Contributing Guidelines](CONTRIBUTING.html)
+1. Read our [Contributing Guidelines](CONTRIBUTING.md)
 2. Fork the repository
 3. Create a feature branch
 4. Make your changes

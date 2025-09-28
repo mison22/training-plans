@@ -6,22 +6,22 @@ This directory contains 4 comprehensive projects designed for the 8-week .NET/C#
 
 ## Project Structure
 
-### [Project 1: E-commerce API](./Project_1_E_Commerce_API.html)
+### [Project 1: E-commerce API](./Project_1_E_Commerce_API.md)
 **Duration**: 2 weeks (Weeks 1-2)  
 **Focus**: C# fundamentals, ASP.NET Core, Entity Framework  
 **Technologies**: C#, ASP.NET Core, Entity Framework Core, SQL Server, JWT
 
-### [Project 2: Social Media API](./Project_2_Social_Media_API.html)
+### [Project 2: Social Media API](./Project_2_Social_Media_API.md)
 **Duration**: 2 weeks (Weeks 3-4)  
 **Focus**: Advanced features, authentication, real-time features  
 **Technologies**: C#, ASP.NET Core, SignalR, Redis, Azure
 
-### [Project 3: Data Processing Microservices](./Project_3_Data_Processing_Microservices.html)
+### [Project 3: Data Processing Microservices](./Project_3_Data_Processing_Microservices.md)
 **Duration**: 2 weeks (Weeks 5-6)  
 **Focus**: Microservices architecture, cloud deployment, performance  
 **Technologies**: C#, ASP.NET Core, Docker, Kubernetes, Azure Service Bus
 
-### [Project 4: Production System](./Project_4_Production_System.html)
+### [Project 4: Production System](./Project_4_Production_System.md)
 **Duration**: 2 weeks (Weeks 7-8)  
 **Focus**: Production deployment, monitoring, DevOps  
 **Technologies**: C#, ASP.NET Core, Azure, CI/CD, Monitoring
