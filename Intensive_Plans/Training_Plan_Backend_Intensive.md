@@ -6,6 +6,40 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 
 📋 **[View Detailed Projects](../Projects/Backend_Intensive/)** | 🏠 **[Back to README](../README.md)**
 
+## Getting Started
+
+### Prerequisites
+- Basic programming knowledge
+- Understanding of web development concepts
+- Familiarity with command line tools
+- Git and GitHub basics
+
+### Week 0: Preparation
+1. **Environment Setup**
+   - Install Ruby (v3.0+)
+   - Install Python 3.9+
+   - Install Node.js (v18+)
+   - Install PostgreSQL and MongoDB
+   - Set up AWS Free Tier account
+   - Install Docker Desktop
+
+2. **Quick Prep Courses**
+   - [Ruby Fundamentals](https://ruby-doc.org/) - First 3 sections
+   - [Python Basics](https://docs.python.org/3/tutorial/) - First 3 sections
+   - [Node.js Basics](https://nodejs.org/en/docs/) - First 2 sections
+
+3. **Assessment**
+   - Complete Ruby basics assessment
+   - Review REST API concepts
+   - Practice with PostgreSQL queries
+
+### Daily Routine
+- **Morning (2h)**: Theory and documentation study
+- **Evening (2h)**: Hands-on coding and project work
+- **Weekly Review**: Assess progress and adjust learning plan
+
+---
+
 ## Daily Study Structure (4 Hours)
 
 ### Morning Session (2 hours)
@@ -465,40 +499,6 @@ By completing this intensive plan, you will have:
 - Real-time system architecture
 - DevOps and deployment practices
 - Production monitoring and scaling
-
----
-
-## Getting Started
-
-### Prerequisites
-- Basic programming knowledge
-- Understanding of web development concepts
-- Familiarity with command line tools
-- Git and GitHub basics
-
-### Week 0: Preparation
-1. **Environment Setup**
-   - Install Ruby (v3.0+)
-   - Install Python (v3.9+)
-   - Install Node.js (v18+)
-   - Install PostgreSQL and MongoDB
-   - Set up AWS Free Tier account
-   - Install Docker Desktop
-
-2. **Quick Prep Courses**
-   - [Ruby Basics](https://www.ruby-lang.org/en/documentation/quickstart/) - Ruby fundamentals
-   - [Python Tutorial](https://docs.python.org/3/tutorial/) - Python basics
-   - [Node.js Basics](https://nodejs.org/en/docs/guides/getting-started-guide/) - Node.js introduction
-
-3. **Assessment**
-   - Complete basic programming assessment
-   - Review web development concepts
-   - Practice with command line tools
-
-### Daily Routine
-- **Morning (2h)**: Theory and documentation study
-- **Evening (2h)**: Hands-on coding and project work
-- **Weekly Review**: Assess progress and adjust learning plan
 
 ---
 

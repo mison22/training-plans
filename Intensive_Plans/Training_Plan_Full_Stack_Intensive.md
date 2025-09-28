@@ -6,6 +6,40 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 
 📋 **[View Detailed Projects](../Projects/Full_Stack/)** | 🏠 **[Back to README](../README.md)**
 
+## Getting Started
+
+### Prerequisites
+- Basic JavaScript knowledge
+- Understanding of web development concepts
+- Familiarity with command line tools
+- Git and GitHub basics
+
+### Week 0: Preparation
+1. **Environment Setup**
+   - Install Node.js (v18+)
+   - Install Ruby (v3.0+)
+   - Install Python 3.9+
+   - Install PostgreSQL and MongoDB
+   - Set up AWS Free Tier account
+   - Install Docker Desktop
+
+2. **Quick Prep Courses**
+   - [TypeScript Fundamentals](https://www.typescriptlang.org/docs/) - First 3 sections
+   - [React Basics](https://reactjs.org/tutorial/tutorial.html) - React tutorial
+   - [Ruby Fundamentals](https://ruby-doc.org/) - First 3 sections
+
+3. **Assessment**
+   - Complete JavaScript/TypeScript basics assessment
+   - Review web development concepts
+   - Practice with HTML/CSS basics
+
+### Daily Routine
+- **Morning (2h)**: Theory and documentation study
+- **Evening (2h)**: Hands-on coding and project work
+- **Weekly Review**: Assess progress and adjust learning plan
+
+---
+
 ## Daily Study Structure (4 Hours)
 
 ### Morning Session (2 hours)
@@ -469,40 +503,6 @@ By completing this intensive plan, you will have:
 - Database design and optimization
 - Real-time system architecture
 - DevOps and deployment practices
-
----
-
-## Getting Started
-
-### Prerequisites
-- Basic JavaScript knowledge
-- Understanding of web development concepts
-- Familiarity with command line tools
-- Git and GitHub basics
-
-### Week 0: Preparation
-1. **Environment Setup**
-   - Install Node.js (v18+)
-   - Install Python (v3.9+)
-   - Install Ruby (v3.0+)
-   - Install PostgreSQL
-   - Set up AWS Free Tier account
-   - Install Docker Desktop
-
-2. **Quick Prep Courses**
-   - [TypeScript Fundamentals](https://www.typescriptlang.org/docs/) - First 3 sections
-   - [React Basics](https://reactjs.org/tutorial/tutorial.html) - React tutorial
-   - [Python Tutorial](https://docs.python.org/3/tutorial/) - Python basics
-
-3. **Assessment**
-   - Complete TypeScript basics assessment
-   - Review React concepts
-   - Practice with command line tools
-
-### Daily Routine
-- **Morning (2h)**: Theory and documentation study
-- **Evening (2h)**: Hands-on coding and project work
-- **Weekly Review**: Assess progress and adjust learning plan
 
 ---
 

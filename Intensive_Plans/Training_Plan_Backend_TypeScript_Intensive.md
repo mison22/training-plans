@@ -6,6 +6,38 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 
 📋 **[View Detailed Projects](../Projects/Backend_TypeScript/)** | 🏠 **[Back to README](../README.md)**
 
+## Getting Started
+
+### Prerequisites
+- Basic JavaScript knowledge
+- Understanding of web development concepts
+- Familiarity with command line tools
+- Git and GitHub basics
+
+### Week 0: Preparation
+1. **Environment Setup**
+   - Install Node.js (v18+)
+   - Install PostgreSQL and MongoDB
+   - Install Python 3.9+
+   - Set up AWS Free Tier account
+   - Install Docker Desktop
+
+2. **Quick Prep Courses**
+   - [TypeScript Fundamentals](https://www.typescriptlang.org/docs/) - First 3 sections
+   - [Node.js Basics](https://nodejs.org/en/docs/) - First 2 sections
+
+3. **Assessment**
+   - Complete TypeScript basics assessment
+   - Review REST API concepts
+   - Practice with PostgreSQL queries
+
+### Daily Routine
+- **Morning (2h)**: Theory and documentation study
+- **Evening (2h)**: Hands-on coding and project work
+- **Weekly Review**: Assess progress and adjust learning plan
+
+---
+
 ## Daily Study Structure (4 Hours)
 
 ### Morning Session (2 hours)
@@ -463,38 +495,6 @@ By completing this intensive plan, you will have:
 - Real-time system architecture
 - DevOps and deployment practices
 - Production monitoring and scaling
-
----
-
-## Getting Started
-
-### Prerequisites
-- Basic JavaScript knowledge
-- Understanding of web development concepts
-- Familiarity with command line tools
-- Git and GitHub basics
-
-### Week 0: Preparation
-1. **Environment Setup**
-   - Install Node.js (v18+)
-   - Install PostgreSQL and MongoDB
-   - Install Python 3.9+
-   - Set up AWS Free Tier account
-   - Install Docker Desktop
-
-2. **Quick Prep Courses**
-   - [TypeScript Fundamentals](https://www.typescriptlang.org/docs/) - First 3 sections
-   - [Node.js Basics](https://nodejs.org/en/docs/) - First 2 sections
-
-3. **Assessment**
-   - Complete TypeScript basics assessment
-   - Review REST API concepts
-   - Practice with PostgreSQL queries
-
-### Daily Routine
-- **Morning (2h)**: Theory and documentation study
-- **Evening (2h)**: Hands-on coding and project work
-- **Weekly Review**: Assess progress and adjust learning plan
 
 ---
 
