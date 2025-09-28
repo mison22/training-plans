@@ -1,4 +1,4 @@
-# Evening TypeScript Backend Training Plan
+# TypeScript Backend Evening Training Plan
 *12-week part-time program for working professionals*
 
 ## Executive Summary

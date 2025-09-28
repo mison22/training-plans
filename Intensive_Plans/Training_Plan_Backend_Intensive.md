@@ -1,5 +1,5 @@
-# Intensive Backend Training Plan (Ruby/Python/Node.js)
-*4 hours/day intensive program for rapid backend skill development*
+# Backend Multi-language Intensive Training Plan
+*8-week full-time program*
 
 ## Executive Summary
 This intensive plan is designed for 4 hours of daily study, allowing you to master backend development with Ruby on Rails (46.4% of jobs), Python (17.9% of jobs), and Node.js (14.3% of jobs) in just 8 weeks instead of 12. You'll cover comprehensive backend curriculum with deeper practice, more projects, and accelerated learning.
@@ -33,7 +33,7 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
    - Review REST API concepts
    - Practice with PostgreSQL queries
 
-### Daily Routine (Full-Time Focus)
+### Daily Routine (8-10 Hours)
 - **Morning (9:00 AM - 11:00 AM)**: Theory and documentation study
 - **Mid-Morning Practice (11:00 AM - 12:00 PM)**: Hands-on coding exercises and mini-projects
 - **Afternoon Leetcode (1:00 PM - 3:00 PM)**: Algorithm and data structure problems

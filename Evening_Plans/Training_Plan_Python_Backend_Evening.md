@@ -1,4 +1,4 @@
-# Evening Python Backend Training Plan
+# Python Backend Evening Training Plan
 *12-week part-time program for working professionals*
 
 ## Executive Summary

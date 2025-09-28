@@ -1,5 +1,5 @@
-# Intensive Python Backend Training Plan
-*8 weeks intensive program focused on Python backend development*
+# Python Backend Intensive Training Plan
+*8-week full-time program*
 
 ## Executive Summary
 This intensive plan is designed for 7-8 hours of daily study, allowing you to master Python backend development with FastAPI (17.9% of jobs), Django (21.4% of jobs), and Flask in just 8 weeks. You'll build production-ready Python APIs, data processing systems, and microservices with comprehensive testing and deployment.
@@ -31,7 +31,7 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
    - Review REST API concepts
    - Practice with PostgreSQL queries
 
-### Daily Routine (Full-Time Focus)
+### Daily Routine (8-10 Hours)
 - **Morning (9:00 AM - 11:00 AM)**: Theory and documentation study
 - **Mid-Morning Practice (11:00 AM - 12:00 PM)**: Hands-on coding exercises and mini-projects
 - **Afternoon Leetcode (1:00 PM - 3:00 PM)**: Algorithm and data structure problems

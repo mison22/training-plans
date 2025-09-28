@@ -1,4 +1,4 @@
-# Evening Backend Multi-Language Training Plan
+# Backend Multi-language Evening Training Plan
 *12-week part-time program for working professionals*
 
 ## Executive Summary

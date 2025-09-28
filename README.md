@@ -25,14 +25,16 @@ Based on our analysis of 28 software engineering job postings:
 - [Backend Multi-language Intensive](#2-backend-multi-language-intensive)
 - [Python Backend Intensive](#3-python-backend-intensive--new)
 - [Go Backend Intensive](#4-go-backend-intensive--new)
-- [Full Stack Intensive](#5-full-stack-intensive)
+- [.NET/C# Backend Intensive](#5-net-c-backend-intensive--new)
+- [Full Stack Intensive](#6-full-stack-intensive)
 
 ### **Evening Training Plans (12 weeks)**
 - [TypeScript Backend Evening](#1-typescript-backend-evening--recommended)
 - [Go Backend Evening](#2-go-backend-evening)
 - [Python Backend Evening](#3-python-backend-evening)
 - [Backend Multi-language Evening](#4-backend-multi-language-evening)
-- [Full Stack Evening](#5-full-stack-evening)
+- [.NET/C# Backend Evening](#5-net-c-backend-evening--new)
+- [Full Stack Evening](#6-full-stack-evening)
 
 ### **Selection Guides**
 - [Intensive Plan Selection Guide](#-intensive-plan-selection-guide)
@@ -98,7 +100,20 @@ Based on our analysis of 28 software engineering job postings:
 
 📋 **[View Training Plan](Intensive_Plans/Training_Plan_Backend_Go_Intensive.md)** | 📝 **[View Detailed Projects](Projects/Go_Backend/)**
 
-### 5. **Full Stack Intensive**
+### 5. **.NET/C# Backend Intensive** ⭐ *New*
+**Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Enterprise backend development
+
+**Technologies**: C#, ASP.NET Core, Entity Framework, Microservices, Azure, SignalR
+- **Project 1**: E-commerce API (Weeks 1-2)
+- **Project 2**: Social Media API (Weeks 3-4)
+- **Project 3**: Data Processing Microservices (Weeks 5-6)
+- **Project 4**: Production System (Weeks 7-8)
+
+**Why Choose This**: Master .NET/C# for enterprise backend systems. Perfect for Microsoft ecosystem, enterprise applications, and cloud-native development.
+
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_DotNet_Backend_Intensive.md)** | 📝 **[View Detailed Projects](Projects/DotNet_Backend/)**
+
+### 6. **Full Stack Intensive**
 **Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Complete application development
 
 **Technologies**: TypeScript, React, Ruby/Rails, Python/FastAPI, PostgreSQL, AWS
@@ -168,7 +183,20 @@ Based on our analysis of 28 software engineering job postings:
 
 📋 **[View Training Plan](Evening_Plans/Training_Plan_Backend_Multi_Language_Evening.md)** | 📝 **[View Detailed Projects](Projects/Backend_Multi_Language_Evening/)**
 
-### 5. **Full Stack Evening**
+### 5. **.NET/C# Backend Evening** ⭐ *New*
+**Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Enterprise backend development
+
+**Technologies**: C#, ASP.NET Core, Entity Framework, Microservices, Azure, SignalR
+- **Week 1-3**: C# fundamentals & ASP.NET Core
+- **Week 4-6**: Database integration & authentication
+- **Week 7-9**: Advanced features & testing
+- **Week 10-12**: Microservices & production deployment
+
+**Why Choose This**: Master .NET/C# for enterprise backend systems. Perfect for Microsoft ecosystem and enterprise applications.
+
+📋 **[View Training Plan](Evening_Plans/Training_Plan_DotNet_Backend_Evening.md)** | 📝 **[View Detailed Projects](Projects/DotNet_Backend_Evening/)**
+
+### 6. **Full Stack Evening**
 **Duration**: 12 weeks | **Time**: 2-3 hours/evening | **Focus**: Complete full-stack development
 
 **Technologies**: React, TypeScript, Node.js, Express, MongoDB, PostgreSQL
@@ -215,6 +243,13 @@ Based on our analysis of 28 software engineering job postings:
 - ✅ You're targeting companies using Go (Google, Docker, Kubernetes)
 - ✅ You want to build scalable, performant backend systems
 
+### **Choose .NET/C# Backend Intensive if:**
+- ✅ You want to master .NET/C# for enterprise backend systems
+- ✅ You're interested in Microsoft ecosystem and Azure cloud
+- ✅ You want to work with enterprise applications and large-scale systems
+- ✅ You're targeting companies using .NET (Microsoft, enterprise clients)
+- ✅ You want to build robust, maintainable backend systems
+
 ### **Choose Full Stack Intensive if:**
 - ✅ You want to build complete applications
 - ✅ You enjoy both frontend and backend development
@@ -253,6 +288,13 @@ Based on our analysis of 28 software engineering job postings:
 - ✅ You're interested in Ruby on Rails, Python, and Node.js
 - ✅ You want to work in diverse environments
 - ✅ You're targeting backend developer roles across multiple languages
+
+### **Choose .NET/C# Backend Evening if:**
+- ✅ You work full-time and can only study 2-3 hours per evening
+- ✅ You want to master .NET/C# for enterprise backend systems
+- ✅ You're interested in Microsoft ecosystem and Azure
+- ✅ You want to work with enterprise applications
+- ✅ You're targeting .NET developer roles
 
 ### **Choose Full Stack Evening if:**
 - ✅ You work full-time and can only study 2-3 hours per evening
