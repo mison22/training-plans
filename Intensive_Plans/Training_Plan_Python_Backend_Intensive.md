@@ -59,6 +59,10 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
   - LeetCode, HackerRank, CodeSignal
   - **Udemy**: [LeetCode in Python: 50 Algorithms Coding Interview Questions](https://www.udemy.com/course/leetcode-in-python-50-algorithms-coding-interview-questions/)
   - **Udemy**: [Data Structures & Algorithms in Python - Self Paced](https://www.udemy.com/course/data-structures-algorithms-python/)
+  - **Coursera**: [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) - University of California San Diego
+  - **Coursera**: [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - University of California San Diego
+  - **Skillshare**: [Data Structures & Algorithms in Python](https://www.skillshare.com/classes/Data-Structures-Algorithms-in-Python/) - Algorithm Mastery
+  - **Skillshare**: [LeetCode: Coding Interview Mastery](https://www.skillshare.com/classes/LeetCode-Coding-Interview-Mastery/) - Interview Prep
 
 ### System Design Session (3:30 PM - 4:30 PM)
 - **Theory & Practice**: System design concepts and architecture patterns
@@ -67,6 +71,10 @@ This intensive plan is designed for 7-8 hours of daily study, allowing you to ma
   - System Design Interview books, High Scalability articles
   - **Udemy**: [System Design Interview Questions - An Insider's Guide](https://www.udemy.com/course/system-design-interview-questions/)
   - **Udemy**: [Grokking the System Design Interview](https://www.udemy.com/course/grokking-the-system-design-interview/)
+  - **Coursera**: [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture) - University of Alberta
+  - **Coursera**: [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing) - University of Illinois
+  - **Skillshare**: [System Design: Scalable Architecture](https://www.skillshare.com/classes/System-Design-Scalable-Architecture/) - Architecture Design
+  - **Skillshare**: [Microservices: Complete Guide](https://www.skillshare.com/classes/Microservices-Complete-Guide/) - Microservices Architecture
 
 ### Evening Session (6:00 PM - 8:00 PM)
 - **Hour 1**: Project work and practical application

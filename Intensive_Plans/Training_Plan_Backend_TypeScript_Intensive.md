@@ -59,6 +59,10 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
   - LeetCode, HackerRank, CodeSignal
   - **Udemy**: [LeetCode in Python: 50 Algorithms Coding Interview Questions](https://www.udemy.com/course/leetcode-in-python-50-algorithms-coding-interview-questions/)
   - **Udemy**: [Data Structures & Algorithms in Python - Self Paced](https://www.udemy.com/course/data-structures-algorithms-python/)
+  - **Coursera**: [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) - University of California San Diego
+  - **Coursera**: [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - University of California San Diego
+  - **Skillshare**: [Data Structures & Algorithms in Python](https://www.skillshare.com/classes/Data-Structures-Algorithms-in-Python/) - Algorithm Mastery
+  - **Skillshare**: [LeetCode: Coding Interview Mastery](https://www.skillshare.com/classes/LeetCode-Coding-Interview-Mastery/) - Interview Prep
 
 ### System Design Session (3:30 PM - 4:30 PM)
 - **Theory & Practice**: System design concepts and architecture patterns
@@ -67,6 +71,10 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
   - System Design Interview books, High Scalability articles
   - **Udemy**: [System Design Interview Questions - An Insider's Guide](https://www.udemy.com/course/system-design-interview-questions/)
   - **Udemy**: [Grokking the System Design Interview](https://www.udemy.com/course/grokking-the-system-design-interview/)
+  - **Coursera**: [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture) - University of Alberta
+  - **Coursera**: [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing) - University of Illinois
+  - **Skillshare**: [System Design: Scalable Architecture](https://www.skillshare.com/classes/System-Design-Scalable-Architecture/) - Architecture Design
+  - **Skillshare**: [Microservices: Complete Guide](https://www.skillshare.com/classes/Microservices-Complete-Guide/) - Microservices Architecture
 
 ### Evening Session (6:00 PM - 8:00 PM)
 - **Hour 1**: Project work and practical application
@@ -115,6 +123,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [NestJS Documentation](https://docs.nestjs.com/) - Fundamentals
 - [TypeORM Documentation](https://typeorm.io/) - Database integration
 - **Udemy Courses**: [Understanding TypeScript - 2024 Edition](https://www.udemy.com/course/understanding-typescript/) (Sections 1-4), [NestJS Zero to Hero - Modern TypeScript Backend Development](https://www.udemy.com/course/nestjs-zero-to-hero/) (Sections 1-3)
+- **Coursera**: [TypeScript for Beginners](https://www.coursera.org/learn/typescript) (Week 1-2), [Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-nodejs) (Week 1-2)
+- **Skillshare**: [TypeScript: The Complete Developer's Guide](https://www.skillshare.com/classes/TypeScript-The-Complete-Developers-Guide/) (Week 1), [NestJS: Modern Backend Development](https://www.skillshare.com/classes/NestJS-Modern-Backend-Development/) (Week 1)
 
 #### ✅ Success Criteria
 - [ ] Build type-safe utility library with advanced TypeScript
@@ -157,6 +167,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Jest Documentation](https://jestjs.io/docs/getting-started) - Testing
 - [PostgreSQL Performance](https://www.postgresql.org/docs/current/performance-tips.html) - Optimization
 - **Udemy Courses**: [NestJS Zero to Hero - Modern TypeScript Backend Development](https://www.udemy.com/course/nestjs-zero-to-hero/) (Sections 4-6), [Testing JavaScript with Jest](https://www.udemy.com/course/testing-javascript-with-jest/) (Sections 1-3)
+- **Coursera**: [Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-nodejs) (Week 2), [Database Design and Basic SQL Programming](https://www.coursera.org/learn/database-design) (Week 2)
+- **Skillshare**: [NestJS: Modern Backend Development](https://www.skillshare.com/classes/NestJS-Modern-Backend-Development/) (Week 2), [PostgreSQL for Developers](https://www.skillshare.com/classes/PostgreSQL-for-Developers/) (Week 2)
 
 #### ✅ Success Criteria
 - [ ] Implement JWT authentication with refresh tokens
@@ -199,6 +211,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Apollo Server](https://www.apollographql.com/docs/apollo-server/) - GraphQL server
 - [OpenAPI Specification](https://swagger.io/specification/) - API documentation
 - **Udemy Courses**: [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/course/graphql-with-react-course/) (Sections 1-4), [NestJS Zero to Hero - Modern TypeScript Backend Development](https://www.udemy.com/course/nestjs-zero-to-hero/) (Sections 7-8)
+- **Coursera**: [Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-nodejs) (Week 3), [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals) (Week 3)
+- **Skillshare**: [NestJS: Modern Backend Development](https://www.skillshare.com/classes/NestJS-Modern-Backend-Development/) (Week 3), [AWS Cloud Practitioner Essentials](https://www.skillshare.com/classes/AWS-Cloud-Practitioner-Essentials/) (Week 3)
 
 #### ✅ Success Criteria
 - [ ] Design and implement RESTful APIs with documentation
@@ -241,6 +255,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Pandas Documentation](https://pandas.pydata.org/docs/) - Data processing
 - [Celery Documentation](https://docs.celeryproject.org/) - Background tasks
 - **Udemy Courses**: [FastAPI - The Complete Course 2024](https://www.udemy.com/course/fastapi-the-complete-course/) (Sections 1-3), [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) (Sections 1-2)
+- **Coursera**: [Python for Everybody Specialization](https://www.coursera.org/specializations/python) (Week 4), [Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) (Week 4)
+- **Skillshare**: [Python Backend Development](https://www.skillshare.com/classes/Python-Backend-Development/) (Week 4), [Python Data Science and Machine Learning](https://www.skillshare.com/classes/Python-Data-Science-and-Machine-Learning/) (Week 4)
 
 #### ✅ Success Criteria
 - [ ] Build FastAPI applications with async/await
@@ -283,6 +299,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [MongoDB Documentation](https://docs.mongodb.com/) - NoSQL database
 - [Redis Documentation](https://redis.io/documentation) - Caching and sessions
 - **Udemy Courses**: [The Complete PostgreSQL for Developers](https://www.udemy.com/course/the-complete-postgresql-for-developers/) (Sections 1-3), [MongoDB - The Complete Developer's Guide 2024](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) (Sections 1-2)
+- **Coursera**: [Database Design and Basic SQL Programming](https://www.coursera.org/learn/database-design) (Week 5), [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals) (Week 5)
+- **Skillshare**: [PostgreSQL: Database Mastery](https://www.skillshare.com/classes/PostgreSQL-Database-Mastery/) (Week 5), [AWS: Cloud Computing Essentials](https://www.skillshare.com/classes/AWS-Cloud-Computing-Essentials/) (Week 5)
 
 #### ✅ Success Criteria
 - [ ] Design complex database schemas
@@ -325,6 +343,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) - WebSocket basics
 - [Kafka Documentation](https://kafka.apache.org/documentation/) - Event streaming
 - **Udemy Courses**: [Socket.io (with websockets) - the details. (socket, io, webrtc)](https://www.udemy.com/course/socketio-with-websockets-the-details/) (Sections 1-3), [Apache Kafka Series - Kafka Streams for Data Processing](https://www.udemy.com/course/kafka-streams/) (Sections 1-2)
+- **Coursera**: [Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-nodejs) (Week 6), [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals) (Week 6)
+- **Skillshare**: [NestJS: Modern Backend Development](https://www.skillshare.com/classes/NestJS-Modern-Backend-Development/) (Week 6), [AWS Cloud Practitioner Essentials](https://www.skillshare.com/classes/AWS-Cloud-Practitioner-Essentials/) (Week 6)
 
 #### ✅ Success Criteria
 - [ ] Implement WebSocket server with real-time features
@@ -367,6 +387,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Supertest Documentation](https://github.com/visionmedia/supertest) - API testing
 - [Artillery Documentation](https://artillery.io/docs/) - Performance testing
 - **Udemy Courses**: [Testing JavaScript with Jest](https://www.udemy.com/course/testing-javascript-with-jest/) (Sections 1-4), [API Testing with Postman - Complete Guide](https://www.udemy.com/course/api-testing-with-postman/) (Sections 1-2)
+- **Coursera**: [Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-nodejs) (Week 7), [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals) (Week 7)
+- **Skillshare**: [NestJS: Modern Backend Development](https://www.skillshare.com/classes/NestJS-Modern-Backend-Development/) (Week 7), [AWS Cloud Practitioner Essentials](https://www.skillshare.com/classes/AWS-Cloud-Practitioner-Essentials/) (Week 7)
 
 #### ✅ Success Criteria
 - [ ] Achieve 95%+ code coverage
@@ -409,6 +431,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Kubernetes Documentation](https://kubernetes.io/docs/) - Orchestration
 - [AWS Documentation](https://docs.aws.amazon.com/) - Cloud services
 - **Udemy Courses**: [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (Sections 1-4), [AWS Certified DevOps Engineer Professional 2024](https://www.udemy.com/course/aws-certified-devops-engineer-professional/) (Sections 1-3)
+- **Coursera**: [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals) (Week 8), [Database Design and Basic SQL Programming](https://www.coursera.org/learn/database-design) (Week 8)
+- **Skillshare**: [Docker and Kubernetes Mastery](https://www.skillshare.com/classes/Docker-and-Kubernetes-Mastery/) (Week 8), [AWS: Cloud Computing Essentials](https://www.skillshare.com/classes/AWS-Cloud-Computing-Essentials/) (Week 8)
 
 #### ✅ Success Criteria
 - [ ] Containerize applications with Docker

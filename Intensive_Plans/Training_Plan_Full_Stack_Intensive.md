@@ -61,6 +61,10 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
   - LeetCode, HackerRank, CodeSignal
   - **Udemy**: [LeetCode in Python: 50 Algorithms Coding Interview Questions](https://www.udemy.com/course/leetcode-in-python-50-algorithms-coding-interview-questions/)
   - **Udemy**: [Data Structures & Algorithms in Python - Self Paced](https://www.udemy.com/course/data-structures-algorithms-python/)
+  - **Coursera**: [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) - University of California San Diego
+  - **Coursera**: [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - University of California San Diego
+  - **Skillshare**: [Data Structures & Algorithms in Python](https://www.skillshare.com/classes/Data-Structures-Algorithms-in-Python/) - Algorithm Mastery
+  - **Skillshare**: [LeetCode: Coding Interview Mastery](https://www.skillshare.com/classes/LeetCode-Coding-Interview-Mastery/) - Interview Prep
 
 ### System Design Session (3:30 PM - 4:30 PM)
 - **Theory & Practice**: System design concepts and architecture patterns
@@ -69,6 +73,10 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
   - System Design Interview books, High Scalability articles
   - **Udemy**: [System Design Interview Questions - An Insider's Guide](https://www.udemy.com/course/system-design-interview-questions/)
   - **Udemy**: [Grokking the System Design Interview](https://www.udemy.com/course/grokking-the-system-design-interview/)
+  - **Coursera**: [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture) - University of Alberta
+  - **Coursera**: [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing) - University of Illinois
+  - **Skillshare**: [System Design: Scalable Architecture](https://www.skillshare.com/classes/System-Design-Scalable-Architecture/) - Architecture Design
+  - **Skillshare**: [Microservices: Complete Guide](https://www.skillshare.com/classes/Microservices-Complete-Guide/) - Microservices Architecture
 
 ### Evening Session (6:00 PM - 8:00 PM)
 - **Hour 1**: Project work and practical application
@@ -117,6 +125,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [React Documentation](https://reactjs.org/docs/) - React library
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs) - Utility-first CSS
 - **Udemy Courses**: [Understanding TypeScript - 2024 Edition](https://www.udemy.com/course/understanding-typescript/) (Sections 1-3), [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) (Sections 1-4)
+- **Coursera**: [TypeScript for Beginners](https://www.coursera.org/learn/typescript) (Week 1), [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react) (Week 1)
+- **Skillshare**: [TypeScript: The Complete Developer's Guide](https://www.skillshare.com/classes/TypeScript-The-Complete-Developers-Guide/) (Week 1), [React: The Complete Guide](https://www.skillshare.com/classes/React-The-Complete-Guide/) (Week 1)
 
 #### ✅ Success Criteria
 - [ ] Master TypeScript types and interfaces
@@ -159,6 +169,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Redux Toolkit Documentation](https://redux-toolkit.js.org/) - State management
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing
 - **Udemy Courses**: [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) (Sections 5-8), [Modern React with Redux](https://www.udemy.com/course/react-redux/) (Sections 1-3)
+- **Coursera**: [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react) (Week 2), [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) (Week 2)
+- **Skillshare**: [React: The Complete Guide](https://www.skillshare.com/classes/React-The-Complete-Guide/) (Week 2), [TypeScript: Modern JavaScript Development](https://www.skillshare.com/classes/TypeScript-Modern-JavaScript-Development/) (Week 2)
 
 #### ✅ Success Criteria
 - [ ] Build advanced React applications with custom hooks
@@ -201,6 +213,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Next.js Examples](https://github.com/vercel/next.js/tree/canary/examples) - Example projects
 - [Vercel Deployment](https://vercel.com/docs) - Deployment platform
 - **Udemy Courses**: [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (Sections 1-6), [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-14-react-the-complete-guide/) (Sections 1-4)
+- **Coursera**: [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react) (Week 3), [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) (Week 3)
+- **Skillshare**: [React: The Complete Guide](https://www.skillshare.com/classes/React-The-Complete-Guide/) (Week 3), [TypeScript: Modern JavaScript Development](https://www.skillshare.com/classes/TypeScript-Modern-JavaScript-Development/) (Week 3)
 
 #### ✅ Success Criteria
 - [ ] Build Next.js applications with SSR/SSG
@@ -243,6 +257,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [SQLAlchemy Documentation](https://docs.sqlalchemy.org/) - Python ORM
 - [Celery Documentation](https://docs.celeryproject.org/) - Background tasks
 - **Udemy Courses**: [FastAPI - The Complete Course 2024](https://www.udemy.com/course/fastapi-the-complete-course/) (Sections 1-5), [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) (Sections 1-3)
+- **Coursera**: [Python for Everybody Specialization](https://www.coursera.org/specializations/python) (Week 4), [Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-nodejs) (Week 4)
+- **Skillshare**: [Python Backend Development](https://www.skillshare.com/classes/Python-Backend-Development/) (Week 4), [FastAPI: Modern Python Web APIs](https://www.skillshare.com/classes/FastAPI-Modern-Python-Web-APIs/) (Week 4)
 
 #### ✅ Success Criteria
 - [ ] Build FastAPI applications with async/await
@@ -285,6 +301,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Pinia Documentation](https://pinia.vuejs.org/) - State management
 - [Vue Router Documentation](https://router.vuejs.org/) - Navigation
 - **Udemy Courses**: [Vue - The Complete Guide (w/ Router, Vuex, Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/) (Sections 1-6), [Vue 3 - The Complete Guide (incl. Pinia)](https://www.udemy.com/course/vue-3-the-complete-guide/) (Sections 1-4)
+- **Coursera**: [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react) (Week 5), [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) (Week 5)
+- **Skillshare**: [Vue.js: Progressive Web Development](https://www.skillshare.com/classes/Vue-js-Progressive-Web-Development/) (Week 5), [TypeScript: Modern JavaScript Development](https://www.skillshare.com/classes/TypeScript-Modern-JavaScript-Development/) (Week 5)
 
 #### ✅ Success Criteria
 - [ ] Master Vue.js framework and Composition API
@@ -327,6 +345,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Django REST Framework](https://www.django-rest-framework.org/) - API development
 - [Django Testing](https://docs.djangoproject.com/en/stable/topics/testing/) - Testing
 - **Udemy Courses**: [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) (Sections 1-6), [Django REST Framework](https://www.udemy.com/course/django-rest-framework/) (Sections 1-4)
+- **Coursera**: [Django for Everybody Specialization](https://www.coursera.org/specializations/django) (Week 6), [Python for Everybody Specialization](https://www.coursera.org/specializations/python) (Week 6)
+- **Skillshare**: [Django: Complete Web Development](https://www.skillshare.com/classes/Django-Complete-Web-Development/) (Week 6), [Python Backend Development](https://www.skillshare.com/classes/Python-Backend-Development/) (Week 6)
 
 #### ✅ Success Criteria
 - [ ] Build Django web applications
@@ -369,6 +389,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Angular CLI](https://angular.io/cli) - Command line interface
 - [Angular Testing](https://angular.io/guide/testing) - Testing guide
 - **Udemy Courses**: [Angular - The Complete Guide (2024 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/) (Sections 1-8), [Angular & NodeJS - The MEAN Stack Guide](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) (Sections 1-4)
+- **Coursera**: [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react) (Week 7), [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) (Week 7)
+- **Skillshare**: [Angular: Complete Web Development](https://www.skillshare.com/classes/Angular-Complete-Web-Development/) (Week 7), [TypeScript: Modern JavaScript Development](https://www.skillshare.com/classes/TypeScript-Modern-JavaScript-Development/) (Week 7)
 
 #### ✅ Success Criteria
 - [ ] Master Angular framework and architecture
@@ -411,6 +433,8 @@ This intensive plan is designed for 4 hours of daily study, allowing you to mast
 - [Docker Documentation](https://docs.docker.com/) - Containerization
 - [AWS Documentation](https://docs.aws.amazon.com/) - Cloud deployment
 - **Udemy Courses**: [D3.js - Complete Developer Data Visualization Guide](https://www.udemy.com/course/d3js-data-visualization-fundamentals/) (Sections 1-5), [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (Sections 1-4)
+- **Coursera**: [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals) (Week 8), [Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) (Week 8)
+- **Skillshare**: [Docker and Kubernetes Mastery](https://www.skillshare.com/classes/Docker-and-Kubernetes-Mastery/) (Week 8), [AWS: Cloud Computing Essentials](https://www.skillshare.com/classes/AWS-Cloud-Computing-Essentials/) (Week 8)
 
 #### ✅ Success Criteria
 - [ ] Build interactive data visualizations with D3.js
