@@ -33,9 +33,6 @@ Based on our analysis of 28 software engineering job postings:
 - [Python Backend Evening](#3-python-backend-evening)
 - [Full Stack Evening](#4-full-stack-evening)
 
-### **Alternative Plans**
-- [12-week Plans](#5-alternative-plans-12-week-versions)
-
 ### **Selection Guides**
 - [Intensive Plan Selection Guide](#-intensive-plan-selection-guide)
 - [Evening Plan Selection Guide](#-evening-plan-selection-guide)
@@ -172,16 +169,6 @@ Based on our analysis of 28 software engineering job postings:
 
 ---
 
-### 5. **Alternative Plans** (12-week versions)
-- **[Backend TypeScript](Training_Plans/Training_Plan_Backend_TypeScript.md)** (7-8 hours/day)
-- **[Backend Multi-language](Training_Plans/Training_Plan_Backend.md)** (7-8 hours/day)
-- **[Full Stack](Training_Plans/Training_Plan_Full_Stack.md)** (7-8 hours/day)
-- **[No Go/Java](Training_Plans/Training_Plan_No_Go_No_Java.md)** (focuses on TypeScript + Rails + Python)
-- **[No Go/Java/Full Stack](Training_Plans/Training_Plan_No_Go_No_Java.md)** (TypeScript + React + Rails + Python)
-- **[Original with Go](Training_Plans/Training_Plan.md)** (includes Go, Java, Spring)
-- **[No Go](Training_Plans/Training_Plan_No_Go.md)** (excludes Go)
-
----
 
 
 ## 🎯 How to Choose Your Path
