@@ -12,24 +12,28 @@ This directory contains 4 comprehensive Python backend projects designed to show
 - **Features**: User management, product catalog, orders, payments, inventory
 - **Timeline**: 2 weeks
 - **Focus**: Modern async Python, API design, authentication
+- 📝 **[Detailed Requirements](./Project_1_FastAPI_E_Commerce.html)**
 
 ### 2. Django Social Media API
 - **Framework**: Django + Django REST Framework + PostgreSQL
 - **Features**: User relationships, content management, real-time notifications
 - **Timeline**: 2 weeks
 - **Focus**: Full-stack Python, admin interface, background tasks
+- 📝 **[Detailed Requirements](./Project_2_Django_Social_Media.html)**
 
 ### 3. Flask Microservices Platform
 - **Framework**: Flask + Redis + MongoDB + RabbitMQ
 - **Features**: Service communication, authentication, data consistency
 - **Timeline**: 2 weeks
 - **Focus**: Microservices architecture, message queues, service communication
+- 📝 **[Detailed Requirements](./Project_3_Flask_Microservices.html)**
 
 ### 4. Python Data Processing System
 - **Framework**: FastAPI + Django + Pandas + Apache Airflow
 - **Features**: Data ingestion, processing, ML integration, reporting
 - **Timeline**: 2 weeks
 - **Focus**: Data processing, ML integration, workflow orchestration
+- 📝 **[Detailed Requirements](./Project_4_Data_Processing_System.html)**
 
 ## Getting Started
 
