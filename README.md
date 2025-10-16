@@ -26,7 +26,8 @@ Based on our analysis of 28 software engineering job postings:
 - [Python Backend Intensive](#3-python-backend-intensive--new)
 - [Go Backend Intensive](#4-go-backend-intensive--new)
 - [.NET/C# Backend Intensive](#5-net-c-backend-intensive--new)
-- [Full Stack Intensive](#6-full-stack-intensive)
+- [Ruby on Rails Backend Intensive](#6-ruby-on-rails-backend-intensive--new)
+- [Full Stack Intensive](#7-full-stack-intensive)
 
 ### **Evening Training Plans (12 weeks)**
 - [TypeScript Backend Evening](#1-typescript-backend-evening--recommended)
@@ -111,9 +112,22 @@ Based on our analysis of 28 software engineering job postings:
 
 **Why Choose This**: Master .NET/C# for enterprise backend systems. Perfect for Microsoft ecosystem, enterprise applications, and cloud-native development.
 
-📋 **[View Training Plan](Intensive_Plans/Training_Plan_DotNet_Backend_Intensive.md)** | 📝 **[View Detailed Projects](Projects/DotNet_Backend/)**
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_DotNet_Backend_Intensive.html)** | 📝 **[View Detailed Projects](Projects/DotNet_Backend/)**
 
-### 6. **Full Stack Intensive**
+### 6. **Ruby on Rails Backend Intensive** ⭐ *New*
+**Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Ruby on Rails backend development
+
+**Technologies**: Ruby, Rails, PostgreSQL, Redis, Sidekiq, Action Cable, RabbitMQ, AWS
+- **Project 1**: Rails E-commerce Platform (Weeks 1-2)
+- **Project 2**: Social Media API (Weeks 3-4)
+- **Project 3**: Rails Microservices Platform (Weeks 5-6)
+- **Project 4**: Rails Production System (Weeks 7-8)
+
+**Why Choose This**: Master Ruby on Rails for rapid web development. Perfect for startups, product companies, and building production-ready applications quickly. Rails powers GitHub, Shopify, and Airbnb.
+
+📋 **[View Training Plan](Intensive_Plans/Training_Plan_Ruby_Rails_Backend_Intensive.html)** | 📝 **[View Detailed Projects](Projects/Ruby_Rails_Backend/)**
+
+### 7. **Full Stack Intensive**
 **Duration**: 8 weeks | **Time**: 7-8 hours/day | **Focus**: Complete application development
 
 **Technologies**: TypeScript, React, Ruby/Rails, Python/FastAPI, PostgreSQL, AWS
@@ -249,6 +263,14 @@ Based on our analysis of 28 software engineering job postings:
 - ✅ You want to work with enterprise applications and large-scale systems
 - ✅ You're targeting companies using .NET (Microsoft, enterprise clients)
 - ✅ You want to build robust, maintainable backend systems
+
+### **Choose Ruby on Rails Backend Intensive if:**
+- ✅ You want to master Rails for rapid web development
+- ✅ You're interested in working at startups and product companies
+- ✅ You value developer productivity and convention over configuration
+- ✅ You're targeting companies like GitHub, Shopify, Airbnb, Basecamp
+- ✅ You want to build production-ready applications quickly
+- ✅ You appreciate Ruby's elegant syntax and Rails' mature ecosystem
 
 ### **Choose Full Stack Intensive if:**
 - ✅ You want to build complete applications
